@@ -1,27 +1,25 @@
-#+TITLE: SSH tutorial UNDER DEVELOPMENT
+#+TITLE: SSH tutorial (UNDER DEVELOPMENT)
 #+AUTHOR: Konrad U. Förstner
-#+VERSION: 0.1
 
-This work by Konrad Förstner is licensed under a
-[[https://creativecommons.org/licenses/by/4.0/][Creative Commons
+This work by Konrad Förstner is licensed under a [[https://creativecommons.org/licenses/by/4.0/][Creative Commons
 Attribution 4.0 International License]].
+
+Version: 0.1
 
 ** Introduction
 
-The tool [[https://en.wikipedia.org/wiki/Secure_Shell][SSH]] (Secure
-Shell) can be used to connect to another computer and execute programs
-there. The remote machine is often a server that for example offer more
-computational power than you laptop. The most widely used implemenation
-of SSH is [[http://www.openssh.com/][OpenSSH]].
+The tool [[https://en.wikipedia.org/wiki/Secure_Shell][SSH]] (Secure Shell) can be used to connect to another computer
+and execute programs there. The remote machine is often a server that
+for example offer more computational power than you laptop. The most
+widely used implemenation of SSH is [[http://www.openssh.com/][OpenSSH]].
 
 ** Basic usage
 
-In order to connect to the remote machine you need to have an account on
-it. In the following examples we assume that you have an account called
-/alice/ and a remote machine called /bobs\_server/ (Your name is not
-Alice and you don't know any Bob?
-[[https://en.wikipedia.org/wiki/Alice_and_Bob][Read this]] to understand
-the choice of names).
+In order to connect to the remote machine you need to have an account
+on it. In the following examples we assume that you have an account
+called =alice= and a remote machine called =bobs_server= (Your name is
+not Alice and you don't know any Bob? [[https://en.wikipedia.org/wiki/Alice_and_Bob][Read this]] to understand the
+choice of names).
 
 You can connect to a remote machine and have an interactive session by
 calling ssh like this (don't copy the =$= sign):
