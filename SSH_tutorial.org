@@ -159,27 +159,30 @@ Sure you can use scp to copy from the server to you local machine:
 ** Configure SSH
 
 While you are now capable of working on the remote machine you have to
-type a lot to connect to it. /Laziness is virtue/ - in the following we
-will make working with SSH more convinient and reduce the need of
+type a lot to connect to it. /Laziness is virtue/ - in the following
+we will make working with SSH more convinient and reduce the need of
 typing.
+
+Create in the home directory of you local machine a folder called
+=.ssh=.
 
 #+BEGIN_EXAMPLE
     $ mkdir -p ~/.ssh
 #+END_EXAMPLE
 
-Make it unaccessible by other users:
+Make it unaccessible (read/write/executable) by other users:
 
 #+BEGIN_EXAMPLE
     $ chmod -R go-rwx ~/.ssh
 #+END_EXAMPLE
 
-Open
+Create a configuration file
 
 #+BEGIN_EXAMPLE
     $ touch ~/.ssh/config
 #+END_EXAMPLE
 
-Add
+Open this configuration file in you favorite text editor and add
 
 #+BEGIN_EXAMPLE
     Host bobs
@@ -193,7 +196,7 @@ Now you can connect to the server simply by calling
     $ ssh bobs
 #+END_EXAMPLE
 
-or copy files with
+or copy files without by using the short alias
 
 #+BEGIN_EXAMPLE
     $ scp my_file.txt bobs:~/
@@ -202,24 +205,23 @@ or copy files with
 ** Using SSH keys
 
 Currently you have to type your password everytime you connect to the
-remote machine. In order to avoid that we will generate once a so called
-SSH key pair. A private key will be stored at you local machine and
-should be keep private! The has to be put on the server and can be
-liberately given away (e.g. a system administrator might ask you for the
-public key in order to give you access to a remote machine without any
-password). More details regarding this public/private key approach can
-be found
-[[https://en.wikipedia.org/wiki/Public-key_cryptography][here]].
+remote machine. In order to avoid that we will generate once a so
+called /SSH key pair/. A private key will be stored at your local
+machine and should be *keep private*! The public key has to be put on
+the server and can be liberately given away (e.g. a system
+administrators might ask you for the public key in order to give you
+access to a remote machine without any password). More details
+regarding this public/private key approach can be found [[https://en.wikipedia.org/wiki/Public-key_cryptography][here]].
 
-Generate a key pair on your local machine. We use =-b 4096= in order to
-generate a stronger key than with the default settings and =-N ""= to
-set no passphrase for the key. This can take a while.
+Generate a key pair on your local machine. We use =-b 4096= in order
+to generate a stronger key than with the default settings and =-N ""=
+to set no passphrase for the key. Generating the key can take a while.
 
 #+BEGIN_EXAMPLE
     $ ssh-keygen -b 4096 -N ""
 #+END_EXAMPLE
 
-During the procedure you will be asked for the file name of the key
+During the procedure you will be asked for the name of the key
 file. Use the default by pressing Enter:
 
 #+BEGIN_EXAMPLE
@@ -245,8 +247,8 @@ file. Use the default by pressing Enter:
 
 As =ssh-keygen= reported we have now two files:
 
--  Your private key file =/home/your_local_user_name/.ssh/id_rsa=
--  Your public key file =/home/your_local_user_name/.ssh/id_rsa.pub=
+- Your private key file =/home/your_local_user_name/.ssh/id_rsa=
+- Your public key file =/home/your_local_user_name/.ssh/id_rsa.pub=
 
 Those are just plain test files and you can have a look at them using
 =cat= or =less=:
@@ -256,20 +258,22 @@ Those are just plain test files and you can have a look at them using
     $ cat ~/.ssh/id_rsa.pub
 #+END_EXAMPLE
 
-Set up .ssh on the server
+We now want to copy the public key to the server. To set up a =.ssh=
+folder on the server run the following command on your local machine:
 
 #+BEGIN_EXAMPLE
     $ ssh alice@bobs_server "mkdir -p ~/.ssh"
 #+END_EXAMPLE
 
 Add the public key to the file (as you can see you can even pipe
-commands into SSH):
+commands into SSH) by running the following command on your local
+machine:
 
 #+BEGIN_EXAMPLE
     $ cat ~/.ssh/*.pub | ssh alice@bobs_server 'cat >> ~/.ssh/authorized_keys'
 #+END_EXAMPLE
 
-Add to local key-chain:
+Add the private key to local SSH key-chain:
 
 #+BEGIN_EXAMPLE
      $ ssh-add ~/.ssh/id_rsa
@@ -284,7 +288,7 @@ Alternatives:
 
 The terminal multiplexer [[https://tmux.github.io/][tmux]]
 
-Start
+Start tmux for the first time
 
 #+BEGIN_EXAMPLE
      $ tmux
@@ -296,7 +300,7 @@ List sessions:
      $ tmux list-sessions
 #+END_EXAMPLE
 
-Reconnect
+Reconnect to running tmux sessions:
 
 #+BEGIN_EXAMPLE
     $ tmux attach
@@ -310,11 +314,11 @@ or simply
 
 Important keys:
 
--  =Ctr-b c= - new window
--  =Ctr-b ,= - rename window
--  =Ctr-b x= - close window
--  =Ctr-b \<NUMBER\>= - go to window with
--  =Ctr-b [= - switch scrolliing mode; use =q= to quit
+- =Ctr-b c= - new window
+- =Ctr-b ,= - rename window
+- =Ctr-b x= - close window
+- =Ctr-b <NUMBER>= - go to window with the given number 
+- =Ctr-b [= - switch scrolling mode; use =q= to quit
 
 List keys
 
@@ -340,10 +344,14 @@ Configure =~/.tmux.conf=:
 
 ** Further topics
 
--  Mosh (mobile shell) - https://mosh.mit.edu/ - more robust and
-   responsive alternative to SSH.
--  SSHFS https://en.wikipedia.org/wiki/SSHFS https://osxfuse.github.io/
-   https://github.com/osxfuse/osxfuse/wiki/SSHFS
+- [[https://mosh.mit.edu/][Mosh]] (mobile shell) - more robust and responsive alternative to SSH.
+- [[https://en.wikipedia.org/wiki/SSHFS][SSHFS]]
+  - Under OS X:
+    - https://osxfuse.github.io/
+    - https://github.com/osxfuse/osxfuse/wiki/SSHFS
 
-mkdir -p server\_folder sshf alice@bobs\_server:/home/alice
-server\_folder umount server\_folder
+#+BEGIN_EXAMPLE
+mkdir -p server_folder sshf alice@bobs_server:/home/alice/
+umount server_folder
+#+END_EXAMPLE
+
