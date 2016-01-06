@@ -75,10 +75,10 @@ remote machine.
     bobs_server
 #+END_EXAMPLE
 
-Now you can run command line tools like on your local machine. If the
-server is adequately configured you can even run tools with a graphical
-interface (GUI) using so called X11-forwarding. For this connect with
-ssh using the -X flag.
+Now you can run commandline tools like on your local machine. If the
+server is adequately configured you can even run tools with a
+graphical interface (GUI) using so called X11-forwarding. For this
+connect with ssh using the -X flag.
 
 #+BEGIN_EXAMPLE
     $ ssh -X alice@bobs_server
@@ -101,11 +101,12 @@ Example:
     $ ssh alice@bobs_server ls
 #+END_EXAMPLE
 
-This will list the file in the home directory of the remote machine. You
-will not have an interactive session on that machine but will stay in
-the session of you local machine after the file list is returned.
+This will list the file in the home directory of the remote
+machine. You will not have an interactive session on that machine but
+will stay in the session of you local machine after the file list is
+returned.
 
-** Copying file with scp
+** Copying files with scp
 
 Basic
 
@@ -131,23 +132,25 @@ Using compression when sending
     $ scp -rC <source> <target>
 #+END_EXAMPLE
 
-Examples. Be aware that =~/= represent your home directory on GNU/Linux
-and the different BSD this is usually =/home/your_username=. On OS X
-this is =/Users/your_username=. This will copy the file
-=my_local_big_file.txt= from your local machine into your home directory
-of the remote machine.
+Examples. Be aware that =~/= represent your home directory on
+GNU/Linux and the different BSD this is usually
+=/home/your_username=. On OS X this is =/Users/your_username=. 
+
+This will copy the file =my_local_big_file.txt= from your local
+machine into your home directory of the remote machine.
 
 #+BEGIN_EXAMPLE
     $ scp my_local_big_file.txt alice@bobs_server:~/
 #+END_EXAMPLE
 
-Rename
+The following command will send the file to the server and rename it
+to =my_remote_big_file.txt=.
 
 #+BEGIN_EXAMPLE
     $ scp my_local_big_file.txt alice@bobs_server:~/my_remote_big_file.txt
 #+END_EXAMPLE
 
-Download
+Sure you can use scp to copy from the server to you local machine:
 
 #+BEGIN_EXAMPLE
     $ scp alice@bobs_server:/data/my_local_big_file.txt .
