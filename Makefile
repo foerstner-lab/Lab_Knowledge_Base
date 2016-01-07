@@ -8,3 +8,6 @@ pdf:
 
 clean:
 	rm -f *pdf
+
+html:
+	pandoc --toc -o SSH_tutorial.html SSH_tutorial.org 
