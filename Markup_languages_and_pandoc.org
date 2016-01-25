@@ -1,5 +1,5 @@
+* LaTeX
 * Markdown
 * Restructured Text
 * Org-Mode
-* LaTeX
 * Pandoc
