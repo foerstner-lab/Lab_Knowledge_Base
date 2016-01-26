@@ -1,5 +1,13 @@
 * LaTeX
+
+https://www.latex-project.org/
+
 * Markdown
+
 * Restructured Text
+http://docutils.sourceforge.net/rst.html
 * Org-Mode
+http://orgmode.org/
+
 * Pandoc
+http://pandoc.org/
