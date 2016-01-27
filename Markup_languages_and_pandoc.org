@@ -1,8 +1,12 @@
 * LaTeX
 
-https://www.latex-project.org/
+- https://www.latex-project.org/
+- pdflatex
+- xelatex
 
 * Markdown
+
+https://daringfireball.net/projects/markdown/
 
 * Restructured Text
 http://docutils.sourceforge.net/rst.html
