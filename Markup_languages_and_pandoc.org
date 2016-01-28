@@ -11,7 +11,9 @@ https://daringfireball.net/projects/markdown/
 * Restructured Text
 http://docutils.sourceforge.net/rst.html
 * Org-Mode
-http://orgmode.org/
+
+- http://orgmode.org/
+- https://www.gnu.org/software/emacs/
 
 * Pandoc
 http://pandoc.org/
