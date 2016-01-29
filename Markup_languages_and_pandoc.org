@@ -17,3 +17,9 @@ http://docutils.sourceforge.net/rst.html
 
 * Pandoc
 http://pandoc.org/
+
+#+BEGIN_EXAMPLE
+$ echo "# Test headline\nSome text\n"
+$ pandoc -o test.pdf test.md
+#+END_EXAMPLE
+
