@@ -1,3 +1,4 @@
+# Markup language tutorial
 * LaTeX
 
 - https://www.latex-project.org/
@@ -8,7 +9,7 @@
 
 https://daringfireball.net/projects/markdown/
 
-* Restructured Text
+** Restructured Text
 http://docutils.sourceforge.net/rst.html
 * Org-Mode
 
@@ -17,6 +18,7 @@ http://docutils.sourceforge.net/rst.html
 
 * Pandoc
 http://pandoc.org/
+
 
 #+BEGIN_EXAMPLE
 $ echo "# Test headline\nSome text\n"
