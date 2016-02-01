@@ -1,4 +1,6 @@
-# Markup language tutorial
+#+TITEL Markup language tutorial
+#+AUTHOR Konrad Förstner
+ 
 * LaTeX
 
 - https://www.latex-project.org/
