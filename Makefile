@@ -5,6 +5,6 @@ html:
 	pandoc -o Markup_languages_and_pandoc.html Markup_languages_and_pandoc.org
 
 clean:
-	rm *pdf
+	rm *pdf *html
 
 UNDER DEVELOPMENT
