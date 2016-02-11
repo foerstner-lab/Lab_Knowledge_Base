@@ -19,7 +19,9 @@ Version: 0.1dev
 https://daringfireball.net/projects/markdown/
 
 ** Restructured Text
+
 http://docutils.sourceforge.net/rst.html
+
 * Org-Mode
 
 - http://orgmode.org/
@@ -31,7 +33,7 @@ http://pandoc.org/
 
 
 #+BEGIN_EXAMPLE
-$ echo "# Test headline\nSome text\n"
+$ echo "# Test headline\nSome text\n" > test.md
 $ pandoc -o test.pdf test.md
 #+END_EXAMPLE
 
