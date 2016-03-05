@@ -1,3 +1,6 @@
+#+TITLE: Unix Text Editor Tutorial (UNDER DEVELOPMENT)
+#+AUTHOR: Konrad Förstner
+
 * Emacs
 * vi
 * nano
