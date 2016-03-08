@@ -6,6 +6,7 @@ Attribution 4.0 International License]].
 
 Version: 0.1dev
 
+* The plain text file format
 * Emacs
 * vi
 * nano
