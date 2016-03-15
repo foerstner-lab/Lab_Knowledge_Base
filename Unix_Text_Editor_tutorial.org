@@ -8,6 +8,7 @@ Version: 0.1dev
 
 * The plain text file format
 * Emacs
+** Literate Programming with Emacs
 * vi
 * nano
 * gedit
