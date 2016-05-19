@@ -1,5 +1,5 @@
-#+TITLE Markup languages and pandoc tutorial
-#+AUTHOR Konrad U. Förstner
+#+TITLE: Markup languages and pandoc tutorial
+#+AUTHOR: Konrad U. Förstner
 
 This work by Konrad Förstner is licensed under a [[https://creativecommons.org/licenses/by/4.0/][Creative Commons
 Attribution 4.0 International License]].
