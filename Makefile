@@ -7,7 +7,7 @@ pdf:
 	   SSH_tutorial.org
 
 clean:
-	rm -f *pdf
+	rm -f *pdf *html
 
 html:
 	pandoc --toc -o SSH_tutorial.html SSH_tutorial.org 
