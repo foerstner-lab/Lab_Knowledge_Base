@@ -25,13 +25,13 @@ You can connect to a remote machine and have an interactive session by
 calling ssh like this (don't copy the =$= sign):
 
 #+BEGIN_EXAMPLE
-    $ ssh <your_username>@<server_name_or_ip>
+$ ssh <your_username>@<server_name_or_ip>
 #+END_EXAMPLE
 
 In our example this would be
 
 #+BEGIN_EXAMPLE
-    $ ssh alice@bobs_server
+$ ssh alice@bobs_server
 #+END_EXAMPLE
 
 SSH will presend you the host finger print
@@ -55,14 +55,14 @@ The first time your are connting to a remove machine you will be asked
 to continue. Please type =yes= and press Enter.
 
 #+BEGIN_EXAMPLE
-    Are you sure you want to continue connecting (yes/no)?
-    Warning: Permanently added 'hawaii' (ECDSA) to the list of known hosts
+Are you sure you want to continue connecting (yes/no)?
+Warning: Permanently added 'hawaii' (ECDSA) to the list of known hosts
 #+END_EXAMPLE
 
 Then will be asked for your password.
 
 #+BEGIN_EXAMPLE
-    alice@bobs_server's password:
+alice@bobs_server's password:
 #+END_EXAMPLE
 
 Please enter your password and press Enter. Now you should have an
@@ -71,34 +71,41 @@ indicate this but you can use =hostname= to make that you are on the
 remote machine.
 
 #+BEGIN_EXAMPLE
-    $ hostname
-    bobs_server
+$ hostname
+bobs_server
+#+END_EXAMPLE
+
+You can disconnect by typing 
+#+BEGIN_EXAMPLE
+exit
+#+END_EXAMPLE
+
+You will be informed that hte connection is closed
+#+BEGIN_EXAMPLE
+Connection to bobs_server closed.
 #+END_EXAMPLE
 
 Now you can run commandline tools like on your local machine. If the
 server is adequately configured you can even run tools with a
 graphical interface (GUI) using so called X11-forwarding. For this
-connect with ssh using the -X flag.
+connect with ssh using the -X flag (disconnect first if you are
+connected).
 
 #+BEGIN_EXAMPLE
-    $ ssh -X alice@bobs_server
+$ ssh -X alice@bobs_server
 #+END_EXAMPLE
 
 You can also run SSH non-interactively by calling it with a command to
 execute:
 
 #+BEGIN_EXAMPLE
-    $ ssh <your_username>@<server_name_or_ip> <command>
-#+END_EXAMPLE
-
-#+BEGIN_EXAMPLE
-    exit
+$ ssh <your_username>@<server_name_or_ip> <command>
 #+END_EXAMPLE
 
 Example:
 
 #+BEGIN_EXAMPLE
-    $ ssh alice@bobs_server ls
+$ ssh alice@bobs_server ls
 #+END_EXAMPLE
 
 This will list the file in the home directory of the remote
@@ -111,25 +118,25 @@ returned.
 Basic
 
 #+BEGIN_EXAMPLE
-    $ scp <source> <target>
+$ scp <source> <target>
 #+END_EXAMPLE
 
 Folder
 
 #+BEGIN_EXAMPLE
-    $ scp -r <source> <target>
+$ scp -r <source> <target>
 #+END_EXAMPLE
 
 Using compression
 
 #+BEGIN_EXAMPLE
-    $ scp -C <source> <target>
+$ scp -C <source> <target>
 #+END_EXAMPLE
 
 Using compression when sending
 
 #+BEGIN_EXAMPLE
-    $ scp -rC <source> <target>
+$ scp -rC <source> <target>
 #+END_EXAMPLE
 
 Examples. Be aware that =~/= represent your home directory on
@@ -140,20 +147,20 @@ This will copy the file =my_local_big_file.txt= from your local
 machine into your home directory of the remote machine.
 
 #+BEGIN_EXAMPLE
-    $ scp my_local_big_file.txt alice@bobs_server:~/
+$ scp my_local_big_file.txt alice@bobs_server:~/
 #+END_EXAMPLE
 
 The following command will send the file to the server and rename it
 to =my_remote_big_file.txt=.
 
 #+BEGIN_EXAMPLE
-    $ scp my_local_big_file.txt alice@bobs_server:~/my_remote_big_file.txt
+$ scp my_local_big_file.txt alice@bobs_server:~/my_remote_big_file.txt
 #+END_EXAMPLE
 
 Sure you can use scp to copy from the server to you local machine:
 
 #+BEGIN_EXAMPLE
-    $ scp alice@bobs_server:/data/my_local_big_file.txt .
+$ scp alice@bobs_server:/data/my_local_big_file.txt .
 #+END_EXAMPLE
 
 ** Configure SSH
@@ -167,39 +174,39 @@ Create in the home directory of you local machine a folder called
 =.ssh=.
 
 #+BEGIN_EXAMPLE
-    $ mkdir -p ~/.ssh
+$ mkdir -p ~/.ssh
 #+END_EXAMPLE
 
 Make it unaccessible (read/write/executable) by other users:
 
 #+BEGIN_EXAMPLE
-    $ chmod -R go-rwx ~/.ssh
+$ chmod -R go-rwx ~/.ssh
 #+END_EXAMPLE
 
 Create a configuration file
 
 #+BEGIN_EXAMPLE
-    $ touch ~/.ssh/config
+$ touch ~/.ssh/config
 #+END_EXAMPLE
 
 Open this configuration file in you favorite text editor and add
 
 #+BEGIN_EXAMPLE
-    Host bobs
-      User alice
-      HostName bobs_server
+Host bobs
+  User alice
+  HostName bobs_server
 #+END_EXAMPLE
 
 Now you can connect to the server simply by calling
 
 #+BEGIN_EXAMPLE
-    $ ssh bobs
+$ ssh bobs
 #+END_EXAMPLE
 
 or copy files without by using the short alias
 
 #+BEGIN_EXAMPLE
-    $ scp my_file.txt bobs:~/
+$ scp my_file.txt bobs:~/
 #+END_EXAMPLE
 
 ** Using SSH keys
@@ -218,31 +225,31 @@ to generate a stronger key than with the default settings and =-N ""=
 to set no passphrase for the key. Generating the key can take a while.
 
 #+BEGIN_EXAMPLE
-    $ ssh-keygen -b 4096 -N ""
+$ ssh-keygen -b 4096 -N ""
 #+END_EXAMPLE
 
 During the procedure you will be asked for the name of the key
 file. Use the default by pressing Enter:
 
 #+BEGIN_EXAMPLE
-    Generating public/private rsa key pair.
-    Enter file in which to save the key (/home/your_local_user_name/.ssh/id_rsa):
-    Your identification has been saved in /home/your_local_user_name/.ssh/id_rsa.
-    Your public key has been saved in /home/your_local_user_name/.ssh/id_rsa.pub.
-    The key fingerprint is:
-    0b:5c:b3:e8:51:d2:0e:3b:b8:cc:6d:97:4d:1d:e7:f0 your_local_user_name@your_local_machine
-    The key's randomart image is:
-    +--[ RSA 4096]----+
-    |                 |
-    |       .         |
-    |      o =   o .  |
-    |     o O o . *   |
-    |    . B S . . E  |
-    |   o + + =       |
-    |    + + + .      |
-    |     . .         |
-    |                 |
-    +-----------------+
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/your_local_user_name/.ssh/id_rsa):
+Your identification has been saved in /home/your_local_user_name/.ssh/id_rsa.
+Your public key has been saved in /home/your_local_user_name/.ssh/id_rsa.pub.
+The key fingerprint is:
+0b:5c:b3:e8:51:d2:0e:3b:b8:cc:6d:97:4d:1d:e7:f0 your_local_user_name@your_local_machine
+The key's randomart image is:
++--[ RSA 4096]----+
+|                 |
+|       .         |
+|      o =   o .  |
+|     o O o . *   |
+|    . B S . . E  |
+|   o + + =       |
+|    + + + .      |
+|     . .         |
+|                 |
++-----------------+
 #+END_EXAMPLE
 
 As =ssh-keygen= reported we have now two files:
@@ -254,15 +261,15 @@ Those are just plain test files and you can have a look at them using
 =cat= or =less=:
 
 #+BEGIN_EXAMPLE
-    $ cat ~/.ssh/id_rsa
-    $ cat ~/.ssh/id_rsa.pub
+$ cat ~/.ssh/id_rsa
+$ cat ~/.ssh/id_rsa.pub
 #+END_EXAMPLE
 
 We now want to copy the public key to the server. To set up a =.ssh=
 folder on the server run the following command on your local machine:
 
 #+BEGIN_EXAMPLE
-    $ ssh alice@bobs_server "mkdir -p ~/.ssh"
+$ ssh alice@bobs_server "mkdir -p ~/.ssh"
 #+END_EXAMPLE
 
 Add the public key to the file (as you can see you can even pipe
@@ -270,13 +277,13 @@ commands into SSH) by running the following command on your local
 machine:
 
 #+BEGIN_EXAMPLE
-    $ cat ~/.ssh/*.pub | ssh alice@bobs_server 'cat >> ~/.ssh/authorized_keys'
+$ cat ~/.ssh/*.pub | ssh alice@bobs_server 'cat >> ~/.ssh/authorized_keys'
 #+END_EXAMPLE
 
 Add the private key to local SSH key-chain:
 
 #+BEGIN_EXAMPLE
-     $ ssh-add ~/.ssh/id_rsa
+$ ssh-add ~/.ssh/id_rsa
 #+END_EXAMPLE
 
 ** Persistent session with tmux
@@ -291,25 +298,25 @@ The terminal multiplexer [[https://tmux.github.io/][tmux]]
 Start tmux for the first time
 
 #+BEGIN_EXAMPLE
-     $ tmux
+$ tmux
 #+END_EXAMPLE
 
 List sessions:
 
 #+BEGIN_EXAMPLE
-     $ tmux list-sessions
+$ tmux list-sessions
 #+END_EXAMPLE
 
 Reconnect to running tmux sessions:
 
 #+BEGIN_EXAMPLE
-    $ tmux attach
+$ tmux attach
 #+END_EXAMPLE
 
 or simply
 
 #+BEGIN_EXAMPLE
-    $ tmux a
+$ tmux a
 #+END_EXAMPLE
 
 Important keys:
@@ -323,23 +330,23 @@ Important keys:
 List keys
 
 #+BEGIN_EXAMPLE
-    $ tmux list-keys
+$ tmux list-keys
 #+END_EXAMPLE
 
 List commands
 
 #+BEGIN_EXAMPLE
-    $ tmux list-commands
+$ tmux list-commands
 #+END_EXAMPLE
 
 Configure =~/.tmux.conf=:
 
 #+BEGIN_EXAMPLE
-    # Change prefix to Control + o
-    set -g prefix C-o
+# Change prefix to Control + o
+set -g prefix C-o
 
-    # Increase history length
-    set -g history-limit 1000
+# Increase history length
+set -g history-limit 1000
 #+END_EXAMPLE
 
 ** Further topics
