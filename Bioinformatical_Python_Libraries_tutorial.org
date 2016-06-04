@@ -2,7 +2,11 @@
 
 http://biopython.org/
 
-* wiggeln
+* wiggelen
+
+- https://pypi.python.org/pypi/wiggelen
+- https://pypi.python.org/pypi/wiggelen
+
 * pysam
 * gff
 
