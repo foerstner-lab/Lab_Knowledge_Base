@@ -1,3 +1,6 @@
 * matpltolib
+
+- http://matplotlib.org/
+
 * seaborn
 * bokeh
