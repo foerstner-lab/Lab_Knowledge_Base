@@ -1,0 +1,11 @@
+* matpltolib
+
+- http://matplotlib.org/
+
+* seaborn
+
+http://stanford.edu/~mwaskom/software/seaborn/
+
+* bokeh
+
+http://bokeh.pydata.org
