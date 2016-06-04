@@ -1,0 +1,6 @@
+
+- https://www.python.org/dev/peps/pep-0008/
+
+- How to oranize a python package
+  http://docs.python-guide.org/en/latest/writing/structure/
+
