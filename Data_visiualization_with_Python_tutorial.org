@@ -3,4 +3,7 @@
 - http://matplotlib.org/
 
 * seaborn
+
+http://stanford.edu/~mwaskom/software/seaborn/
+
 * bokeh
