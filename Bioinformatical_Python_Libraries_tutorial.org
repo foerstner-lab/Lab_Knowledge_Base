@@ -8,6 +8,9 @@ http://biopython.org/
 - https://pypi.python.org/pypi/wiggelen
 
 * pysam
+
+- https://pysam.readthedocs.org/
+
 * gff
 
 https://pythonhosted.org/gffutils/
