@@ -16,3 +16,6 @@ http://biopython.org/
 https://pythonhosted.org/gffutils/
 
 * bioservices
+
+https://pythonhosted.org/bioservices/
+
