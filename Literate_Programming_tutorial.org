@@ -15,6 +15,9 @@ http://yihui.name/knitr/
 in RStudio
 https://www.rstudio.com/
 
+Advantage:
+- Can interpret several languages (http://yihui.name/knitr/demo/engines/)
+
 * Spyder
 
 https://pythonhosted.org/spyder/
@@ -23,8 +26,12 @@ https://pythonhosted.org/spyder/
 
 http://mpastell.com/pweave/
 
-Can use different markup languages like Markdown, LaTeX, rst or Python
-scripts as input.
+Advantages: 
+- Can use different markup languages like Markdown, LaTeX, rst or
+  Python scripts as input.
+
+Disadvantage:
+- Can only interpret Python 
 
 * Emacs Org-mode Babel
 
