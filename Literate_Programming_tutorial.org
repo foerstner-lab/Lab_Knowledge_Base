@@ -1,0 +1,30 @@
+* What is literate progamming?
+
+https://en.wikipedia.org/wiki/Literate_programming
+
+* Jupyter
+
+http://jupyter.org/
+
+https://github.com/rossant/ipymd
+
+* kittr 
+
+http://yihui.name/knitr/
+
+in RStudio
+https://www.rstudio.com/
+
+* Spyder
+
+https://pythonhosted.org/spyder/
+
+* Pweave
+
+https://pythonhosted.org/spyder/
+
+* Emacs Org-mode Babel
+
+https://www.gnu.org/software/emacs/
+http://orgmode.org/
+http://orgmode.org/worg/org-contrib/babel/
