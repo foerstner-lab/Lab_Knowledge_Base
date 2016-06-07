@@ -1,5 +1,10 @@
 * What is literate progamming?
 
+- Not only what you did / how you did it (i.e.) code but also why you
+  did it and what it means.
+- Used to report to yourself and to others
+- Labjournal
+
 https://en.wikipedia.org/wiki/Literate_programming
 
 * Jupyter
@@ -38,3 +43,9 @@ Disadvantage:
 https://www.gnu.org/software/emacs/
 http://orgmode.org/
 http://orgmode.org/worg/org-contrib/babel/
+* dexy
+
+http://www.dexy.it/
+
+Advantages: 
+- Multi language support
