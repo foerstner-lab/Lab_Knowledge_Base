@@ -21,7 +21,7 @@ https://pythonhosted.org/spyder/
 
 * Pweave
 
-https://pythonhosted.org/spyder/
+http://mpastell.com/pweave/
 
 * Emacs Org-mode Babel
 
