@@ -8,7 +8,7 @@ http://jupyter.org/
 
 https://github.com/rossant/ipymd
 
-* kittr 
+* knitr 
 
 http://yihui.name/knitr/
 
