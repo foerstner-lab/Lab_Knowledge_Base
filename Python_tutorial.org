@@ -1,6 +1,12 @@
 
+- Cognitive load - small functions - unit testing
+- main() => get an overview
+
 - https://www.python.org/dev/peps/pep-0008/
+- pylint flat
 
 - How to oranize a python package
   http://docs.python-guide.org/en/latest/writing/structure/
+
+- https://en.wikipedia.org/wiki/Syntactic_sugar
 
