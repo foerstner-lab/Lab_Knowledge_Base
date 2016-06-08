@@ -8,7 +8,15 @@ Version: 0.1dev
 
 * The plain text file format
 * Emacs
+** Extending
+** Org-Mode
+http://orgmode.org/
+
 ** Literate Programming with Emacs
+
+
+http://ergoemacs.org/emacs/emacs_package_system.html
+
 * vi
 * nano
 * gedit
