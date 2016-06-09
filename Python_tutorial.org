@@ -10,3 +10,5 @@
 
 - https://en.wikipedia.org/wiki/Syntactic_sugar
 
+
+- Use Python 3 http://pythonclock.org/
