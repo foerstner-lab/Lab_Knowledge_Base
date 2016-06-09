@@ -10,4 +10,5 @@ clean:
 	rm -f *pdf *html
 
 html:
-	pandoc --toc -o Bioinformatical_Python_Libraries_tutorial.html Bioinformatical_Python_Libraries_tutorial.org
+	pandoc --toc -o Bioinformatical_Python_Libraries_tutorial.html \
+	Bioinformatical_Python_Libraries_tutorial.org
