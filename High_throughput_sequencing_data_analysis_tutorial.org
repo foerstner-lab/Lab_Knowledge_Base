@@ -1,0 +1,28 @@
+* Mapper
+
+segemehl
+BWA
+STAR
+
+kallisto
+
+* File Formats
+
+http://www.ensembl.org/info/website/upload/bed.html
+
+- BED http://www.ensembl.org/info/website/upload/bed.html
+- GFF2 aka GTF
+- GFF3 
+- FASTQ
+- SAM/BAM/CRAM
+
+* cutadapt (fastx)
+* FastQC
+* samtools
+* bedtools
+* picard
+* DGEA 
+** DESeqq
+** EdgeR
+** voom
+** RUVSeq
