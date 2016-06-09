@@ -3,7 +3,7 @@ pdf:
 	   --latex-engine xelatex \
 	   --variable mainfont="DejaVu Sans" \
 	   --variable sansfont="DejaVu Sans" \
-	   --toc -o Bioinformatical_Python_Libraries_tutorial.org \
+	   --toc -o Bioinformatical_Python_Libraries_tutorial.pdf \
 	   Bioinformatical_Python_Libraries_tutorial.org
 
 clean:
