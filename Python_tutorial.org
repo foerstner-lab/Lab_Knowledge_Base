@@ -12,3 +12,5 @@
 
 
 - Use Python 3 http://pythonclock.org/
+
+- Scientific Python Cheat Sheet https://github.com/IPGP/scientific_python_cheat_sheet
