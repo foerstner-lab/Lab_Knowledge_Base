@@ -4,6 +4,7 @@
   did it and what it means.
 - Used to report to yourself and to others
 - Labjournal
+- Writing publications
 
 https://en.wikipedia.org/wiki/Literate_programming
 
@@ -43,6 +44,11 @@ Disadvantage:
 https://www.gnu.org/software/emacs/
 http://orgmode.org/
 http://orgmode.org/worg/org-contrib/babel/
+
+- Header arguments and result types in Org Babel http://orgmode.org/worg/org-contrib/babel/header-args.html
+- Python Source related: http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-python.html
+- R Source realated: http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-R.html
+
 * dexy
 
 http://www.dexy.it/
