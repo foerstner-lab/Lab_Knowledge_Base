@@ -1,3 +1,7 @@
+* Sequencing
+
+- https://www.genome.gov/sequencingcostsdata/
+
 * Mapper
 
 - https://www.ebi.ac.uk/~nf/hts_mappers/
