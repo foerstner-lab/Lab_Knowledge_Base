@@ -24,7 +24,7 @@ http://www.ensembl.org/info/website/upload/bed.html
 
 * cutadapt
 * FastQC
-* samtools
+* samtools/bamtools
 * bedtools
 * picard
 * DGEA 
@@ -32,3 +32,4 @@ http://www.ensembl.org/info/website/upload/bed.html
 ** EdgeR
 ** voom
 ** RUVSeq
+* GSEA
