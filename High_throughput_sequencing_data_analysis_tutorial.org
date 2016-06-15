@@ -22,7 +22,7 @@ http://www.ensembl.org/info/website/upload/bed.html
 - FASTQ
 - SAM/BAM/CRAM
 
-* cutadapt (fastx)
+* cutadapt
 * FastQC
 * samtools
 * bedtools
