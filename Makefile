@@ -3,7 +3,8 @@ pdf:
 	   --latex-engine xelatex \
 	   --variable mainfont="DejaVu Sans" \
 	   --variable sansfont="DejaVu Sans" \
-	   --toc -o High_throughput_sequencing_data_analysis_tutorial.org \
+	   --toc \
+	   -o High_throughput_sequencing_data_analysis_tutorial.pdf \
 	   High_throughput_sequencing_data_analysis_tutorial.org
 
 clean:
