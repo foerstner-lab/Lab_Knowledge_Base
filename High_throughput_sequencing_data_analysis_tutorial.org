@@ -2,6 +2,10 @@
 
 - https://www.genome.gov/sequencingcostsdata/
 
+* Read data bases
+
+SRA/GEO
+
 * Mapper
 
 - https://www.ebi.ac.uk/~nf/hts_mappers/
@@ -22,6 +26,7 @@ http://www.ensembl.org/info/website/upload/bed.html
 - FASTQ
 - SAM/BAM/CRAM
 
+* SRA tools
 * cutadapt
 * FastQC
 * samtools/bamtools
@@ -33,3 +38,5 @@ http://www.ensembl.org/info/website/upload/bed.html
 ** voom
 ** RUVSeq
 * GSEA
+* Genom browsers
+
