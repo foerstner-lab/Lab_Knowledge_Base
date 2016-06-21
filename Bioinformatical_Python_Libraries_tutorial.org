@@ -1,3 +1,6 @@
+#+TITLE: Bioinformatical Python Libraries tutorial (UNDER DEVELOPMENT)
+#+AUTHOR: Konrad U. Förstner
+
 * Biopython
 
 http://biopython.org/
