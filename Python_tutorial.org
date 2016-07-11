@@ -30,4 +30,5 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
 - pyformat https://pypi.python.org/pypi/pyformat
 
 
-
+- Books
+  - Fluen Python
