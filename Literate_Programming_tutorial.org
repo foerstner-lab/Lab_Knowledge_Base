@@ -1,4 +1,4 @@
-* What is literate progamming?
+* What is literate programming?
 
 - Not only what you did / how you did it (i.e.) code but also why you
   did it and what it means.
@@ -18,12 +18,16 @@ https://github.com/rossant/ipymd
 
 http://yihui.name/knitr/
 
+R Markdown - http://rmarkdown.rstudio.com/
+
 in RStudio
 https://www.rstudio.com/
 
 Advantage:
 - Can interpret several languages (http://yihui.name/knitr/demo/engines/)
 
+
+ 
 * Spyder
 
 https://pythonhosted.org/spyder/
