@@ -1,3 +1,7 @@
+* Genaral introduction - Points of view
+
+http://mkweb.bcgsc.ca/pointsofview/bibliography.mhtml
+
 * matpltolib
 
 - http://matplotlib.org/
