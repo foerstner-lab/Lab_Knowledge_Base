@@ -87,3 +87,14 @@ https://broadinstitute.github.io/picard/
 
 * Genom browsers
 
+- [[http://bioviz.org/igb/index.html][Integrated genome browser]] (IGB)
+- [[http://software.broadinstitute.org/software/igv/][Integrative Genomics Viewer]] (IGV)
+- [[http://genomeview.org/][GenomeView]]
+- [[http://jbrowse.org/][JBrowse]]
+- [[http://www.biodalliance.org/][Biodalliance]]
+
+* HiC data analysis
+
+- HiC-Pro
+- HICT
+- Juicer / JuiceBox
