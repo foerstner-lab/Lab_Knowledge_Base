@@ -81,9 +81,9 @@ https://broadinstitute.github.io/picard/
 
 * Transcriptional start site prediction based on dRNA-Seq
 
-- TSSpredator
-- TSSAR
-- TSSer
+- [[http://it.inf.uni-tuebingen.de/?page_id=190][TSSpredator]]
+- [[http://nibiru.tbi.univie.ac.at/TSSAR/][TSSAR]]
+- [[http://www.clipz.unibas.ch/downloads/TSSer/index.php][TSSer]]
 
 * Genom browsers
 
