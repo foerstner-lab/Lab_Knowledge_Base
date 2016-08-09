@@ -2,9 +2,11 @@
 
 - https://www.genome.gov/sequencingcostsdata/
 
-* Read data bases
+* Sequencing read data bases
 
-SRA/GEO
+- [[https://www.ncbi.nlm.nih.gov/geo/][NCBI GEO]]
+- [[https://www.ncbi.nlm.nih.gov/sra][NCBI Short Read Archive]]
+- [[https://www.ebi.ac.uk/arrayexpress/][EBI ArrayExpress]]
 
 * Mapper
 
