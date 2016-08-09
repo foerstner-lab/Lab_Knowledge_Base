@@ -8,15 +8,18 @@
 - [[https://www.ncbi.nlm.nih.gov/sra][NCBI Short Read Archive]]
 - [[https://www.ebi.ac.uk/arrayexpress/][EBI ArrayExpress]]
 
-* Mapper
+* (Short) read mappers
 
-- https://www.ebi.ac.uk/~nf/hts_mappers/
+There is plethora of different short read mappers. A good and well
+maintained overview can be found [[https://www.ebi.ac.uk/~nf/hts_mappers/][here]].
 
-segemehl
-BWA
-STAR
+Mapper we use:
+- [[https://github.com/alexdobin/STAR][STAR]]
+- [[http://www.bioinf.uni-leipzig.de/Software/segemehl/][segemehl]]
+- [[http://bio-bwa.sourceforge.net/][BWA]]
 
-kallisto
+An alternative to actually map reads and quantify them is [[https://pachterlab.github.io/kallisto/][kallisto]]
+which performs a pseudoalignment based on k-mers.
 
 * File Formats
 
