@@ -62,15 +62,18 @@ http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
 https://broadinstitute.github.io/picard/
 
-* DGEA 
+* Differential Gene expression analysis
 
-Good overview article: 
-
-** DESeq2
-
-** EdgeR
-** voom
-** RUVSeq
+- Good overview article: Schurch NJ, Schofield P, Gierliński M, Cole
+  C, Sherstnev A, Singh V, Wrobel N, Gharbi K, Simpson GG, Owen-Hughes
+  T, Blaxter M, Barton GJ. How many biological replicates are needed
+  in an RNA-seq experiment and which differential expression tool
+  should you use? RNA. 2016 Jun;22(6):839-51. doi:
+  [[http://dx.doi.org/10.1261/rna.053959.115][10.1261/rna.053959.115]].
+- [[https://bioconductor.org/packages/release/bioc/html/DESeq2.html][DESeq2]]
+- [[https://bioconductor.org/packages/release/bioc/html/edgeR.html][EdgeR]]
+- [[https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-2-r29][voom]]
+- [[https://bioconductor.org/packages/release/bioc/html/RUVSeq.html][RUVSeq]] (remove unwanted variation) to use before other tools for DGEA
 * GSEA
 * Genom browsers
 
