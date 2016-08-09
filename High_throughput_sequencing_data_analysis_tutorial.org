@@ -23,13 +23,21 @@ which performs a pseudoalignment based on k-mers.
 
 * File Formats
 
+There are several file format that are commonly used for the analysis
+of high-throughput sequencing data
+
 http://www.ensembl.org/info/website/upload/bed.html
 
-- BED http://www.ensembl.org/info/website/upload/bed.html
-- GFF2 aka GTF
-- GFF3 
-- FASTQ
-- SAM/BAM/CRAM
+- SAM and it BAM ([[https://samtools.github.io/hts-specs/SAMv1.pdf][specification as PDF]])
+- [[https://www.ebi.ac.uk/ena/software/cram-toolkit][CRAM]] ([[https://samtools.github.io/hts-specs/CRAMv3.pdf][specification as PDF]])
+- [[http://www.ensembl.org/info/website/upload/bed.html][BED ]]
+- [[http://www.ensembl.org/info/website/upload/gff.html][GFF2]] (aka GTF - Gene transfer format)
+- [[http://gmod.org/wiki/GFF3][GFF3]]
+- [[https://en.wikipedia.org/wiki/FASTA_format][FASTA]]
+- [[https://en.wikipedia.org/wiki/FASTQ_format][FASTQ]]
+- [[http://www.ensembl.org/info/website/upload/wig.html][Wiggle]] / [[https://genome.ucsc.edu/goldenpath/help/bigWig.html][BigWig]]
+- [[https://genome.ucsc.edu/goldenpath/help/bedgraph.html][BedGraph]]
+- [[http://www.1000genomes.org/wiki/Analysis/vcf4.0/][VCF]] (Variant Call Format)
 
 * SRA tools
 * cutadapt
