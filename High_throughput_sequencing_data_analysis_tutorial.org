@@ -41,12 +41,33 @@ http://www.ensembl.org/info/website/upload/bed.html
 
 * SRA tools
 * cutadapt
+
+http://cutadapt.readthedocs.io/en/stable/index.html
+
 * FastQC
-* samtools/bamtools
+
+http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+
+* SAMtools / BAMtools
+
+- [[http://www.htslib.org/][SAMtools]]
+- [[https://github.com/pezmaster31/bamtools][BAMtools]]
+- [[https://www.ebi.ac.uk/ena/software/cram-toolkit][CRAMtools]]
+
 * bedtools
-* picard
+
+[[http://bedtools.readthedocs.io][- bedtools]]
+
+* Picard
+
+https://broadinstitute.github.io/picard/
+
 * DGEA 
-** DESeqq
+
+Good overview article: 
+
+** DESeq2
+
 ** EdgeR
 ** voom
 ** RUVSeq
