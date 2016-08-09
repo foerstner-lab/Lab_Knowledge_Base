@@ -44,6 +44,9 @@ http://www.ensembl.org/info/website/upload/bed.html
 - [[http://www.1000genomes.org/wiki/Analysis/vcf4.0/][VCF]] (Variant Call Format)
 
 * SRA tools
+
+- [[https://github.com/ncbi/sra-tools][SRA tools]]
+
 * cutadapt
 
 http://cutadapt.readthedocs.io/en/stable/index.html
