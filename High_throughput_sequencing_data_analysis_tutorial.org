@@ -74,6 +74,16 @@ https://broadinstitute.github.io/picard/
 - [[https://bioconductor.org/packages/release/bioc/html/edgeR.html][EdgeR]]
 - [[https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-2-r29][voom]]
 - [[https://bioconductor.org/packages/release/bioc/html/RUVSeq.html][RUVSeq]] (remove unwanted variation) to use before other tools for DGEA
-* GSEA
+* Gene set enrichment analysis tool
+
+- [[https://bioconductor.org/packages/release/bioc/html/topGO.html][topGO]]
+- [[http://software.broadinstitute.org/gsea/index.jsp][GSEA]]
+
+* Transcriptional start site prediction based on dRNA-Seq
+
+- TSSpredator
+- TSSAR
+- TSSer
+
 * Genom browsers
 
