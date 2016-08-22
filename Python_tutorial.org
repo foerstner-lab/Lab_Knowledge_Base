@@ -26,6 +26,15 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
 
 - pyformat https://pypi.python.org/pypi/pyformat
 
+- http://www.pythontutor.com/
+
+* Useful libraries
+
+- pomegranate - https://pomegranate.readthedocs.io Fast, flexible and easy to use probabilistic modelling in Python;
+  For Hidden-Markov-Model, Finite State Machines etc:
+  
+
 * Book recommendations
 
   - Fluent Python
+
