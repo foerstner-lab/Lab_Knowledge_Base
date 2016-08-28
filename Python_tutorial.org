@@ -32,7 +32,8 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
 
 - pomegranate - https://pomegranate.readthedocs.io Fast, flexible and easy to use probabilistic modelling in Python;
   For Hidden-Markov-Model, Finite State Machines etc:
-  
+
+- statsmodels.sourceforge.net  
 
 * Book recommendations
 
