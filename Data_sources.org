@@ -1,0 +1,11 @@
+* Data sources
+
+** Bacteria genomes
+
+ftp://ftp.ncbi.nih.gov/genomes/refseq/bacteria/
+
+
+** Human and Mouse genome
+
+http://www.gencodegenes.org/
+
