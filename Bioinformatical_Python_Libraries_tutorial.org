@@ -22,3 +22,5 @@ https://pythonhosted.org/gffutils/
 
 https://pythonhosted.org/bioservices/
 
+* ETE Toolkit
+  http://etetoolkit.org/	
