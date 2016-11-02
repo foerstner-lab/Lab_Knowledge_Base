@@ -1,7 +1,7 @@
 
 - What:
 
-- Why: praktical implication - you can go home and you job is running on server
+- Why: practical implication - you can go home and you job is running on server
 
 
 c - creating
