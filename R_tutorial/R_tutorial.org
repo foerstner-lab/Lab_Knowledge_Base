@@ -1,0 +1,12 @@
+
+- ggplot
+- Bioconductor
+
+
+Usuck R:
+- dplyr
+
+
+
+http://r4ds.had.co.nz/
+
