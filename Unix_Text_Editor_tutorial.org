@@ -1,0 +1,22 @@
+#+TITLE: Unix Text Editor Tutorial (UNDER DEVELOPMENT)
+#+AUTHOR: Konrad U. Förstner
+
+This work by Konrad Förstner is licensed under a [[https://creativecommons.org/licenses/by/4.0/][Creative Commons
+Attribution 4.0 International License]].
+
+Version: 0.1dev
+
+* The plain text file format
+* Emacs
+** Extending
+** Org-Mode
+http://orgmode.org/
+
+** Literate Programming with Emacs
+
+
+http://ergoemacs.org/emacs/emacs_package_system.html
+
+* vi
+* nano
+* gedit
