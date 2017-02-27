@@ -1,0 +1,30 @@
+#+TITLE: Python coding exercise
+#+AUTHOR: Konrad U. Förstner
+** Setting up
+
+Download the Genome of /Salmonella/ Thyphimurium SL1344
+#+BEGIN_SRC 
+$ wget ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/bacteria/Salmonella_enterica/all_assembly_versions/GCF_000210855.2_ASM21085v2/GCF_000210855.2_ASM21085v2_genomic.gff.gz
+$ gunzip GCF_000210855.2_ASM21085v2_genomic.gff.gz
+#+END_SRC
+
+** Counting using standard libraries only
+
+- Count the occurance of all feautures (genes, CDS, rRNA, tRNA) in the
+  file. Just use standard libraries.
+
+- Calculate the average gene length
+
+- Calculate the average gene legth of each feature class
+
+** Clean up your code - write functions
+
+  - use main function and further function to structure you code
+
+** Rewrite the code using object oriented programming
+
+** Rewrite the code and use pandas
+
+** Generate a histogram of the length distribution using matplotlib
+
+** Generate a histogram of the length distribution using bokeh

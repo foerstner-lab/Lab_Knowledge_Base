@@ -1,0 +1,41 @@
+- Cognitive load - small functions - unit testing
+- main() => get an overview
+
+- https://www.python.org/dev/peps/pep-0008/
+- pylint flat
+
+- How to organize a Python package
+  http://docs.python-guide.org/en/latest/writing/structure/
+
+- https://en.wikipedia.org/wiki/Syntactic_sugar
+
+- Use Python 3 http://pythonclock.org/
+
+- Scientific Python Cheat Sheet https://github.com/IPGP/scientific_python_cheat_sheet
+
+https://www.youtube.com/watch?v=o9pEzgHorH0
+
+- An Introduction to Programming for Bioscientists: A Python-Based Primer
+  http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004867
+
+- Transforming Code into Beautiful, Idiomatic Python
+https://www.youtube.com/watch?v=OSGv2VnC0go
+
+- Stop Writing Classes 
+https://www.youtube.com/watch?v=o9pEzgHorH0
+
+- pyformat https://pypi.python.org/pypi/pyformat
+
+- http://www.pythontutor.com/
+
+* Useful libraries
+
+- pomegranate - https://pomegranate.readthedocs.io Fast, flexible and easy to use probabilistic modelling in Python;
+  For Hidden-Markov-Model, Finite State Machines etc:
+
+- statsmodels.sourceforge.net  
+
+* Book recommendations
+
+  - Fluent Python
+
