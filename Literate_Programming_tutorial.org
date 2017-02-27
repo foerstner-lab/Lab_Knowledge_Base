@@ -1,0 +1,61 @@
+* What is literate programming?
+
+- Not only what you did / how you did it (i.e.) code but also why you
+  did it and what it means.
+- Used to report to yourself and to others
+- Labjournal
+- Writing publications
+
+https://en.wikipedia.org/wiki/Literate_programming
+
+* Jupyter
+
+http://jupyter.org/
+
+https://github.com/rossant/ipymd
+
+* knitr 
+
+http://yihui.name/knitr/
+
+R Markdown - http://rmarkdown.rstudio.com/
+
+in RStudio
+https://www.rstudio.com/
+
+Advantage:
+- Can interpret several languages (http://yihui.name/knitr/demo/engines/)
+
+
+ 
+* Spyder
+
+https://pythonhosted.org/spyder/
+
+* Pweave
+
+http://mpastell.com/pweave/
+
+Advantages: 
+- Can use different markup languages like Markdown, LaTeX, rst or
+  Python scripts as input.
+
+Disadvantage:
+- Can only interpret Python 
+
+* Emacs Org-mode Babel
+
+https://www.gnu.org/software/emacs/
+http://orgmode.org/
+http://orgmode.org/worg/org-contrib/babel/
+
+- Header arguments and result types in Org Babel http://orgmode.org/worg/org-contrib/babel/header-args.html
+- Python Source related: http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-python.html
+- R Source realated: http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-R.html
+
+* dexy
+
+http://www.dexy.it/
+
+Advantages: 
+- Multi language support
