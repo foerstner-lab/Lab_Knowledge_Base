@@ -1,0 +1,13 @@
+
+- What:
+
+- Why: practical implication - you can go home and you job is running on server
+
+
+c - creating
+n - move to next windown
+Numbers - move to windo number n
+, - naming
+x - kill window
+[ - scrolling mod
+
