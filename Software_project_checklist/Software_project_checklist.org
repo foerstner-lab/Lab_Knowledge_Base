@@ -1,0 +1,4 @@
+
+- Documenation
+- Tests
+- PEP008 etc
