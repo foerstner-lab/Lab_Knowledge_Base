@@ -1,0 +1,15 @@
+* Genaral introduction - Points of view
+
+http://mkweb.bcgsc.ca/pointsofview/bibliography.mhtml
+
+* matpltolib
+
+- http://matplotlib.org/
+
+* seaborn
+
+http://stanford.edu/~mwaskom/software/seaborn/
+
+* bokeh
+
+http://bokeh.pydata.org
