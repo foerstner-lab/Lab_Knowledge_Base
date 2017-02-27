@@ -1,0 +1,2 @@
+
+[[http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424][A Quick Guide to Organizing Computational Biology Projects]]

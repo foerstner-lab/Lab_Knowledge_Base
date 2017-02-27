@@ -1,0 +1,2 @@
+- At the beginning ask for a expose/abstract
+- Have a share todo list
