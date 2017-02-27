@@ -1,0 +1,39 @@
+#+TITLE: Markup languages and pandoc tutorial
+#+AUTHOR: Konrad U. Förstner
+
+This work by Konrad Förstner is licensed under a [[https://creativecommons.org/licenses/by/4.0/][Creative Commons
+Attribution 4.0 International License]].
+
+Version: 0.1dev
+
+* What are markup languages 
+* HTML
+* LaTeX
+
+- https://www.latex-project.org/
+- pdflatex
+- xelatex
+
+* Markdown
+
+https://daringfireball.net/projects/markdown/
+
+(Add different flavours)
+
+** Restructured Text
+http://docutils.sourceforge.net/rst.html
+* Org-Mode
+
+- http://orgmode.org/
+- https://www.gnu.org/software/emacs/
+
+
+* Pandoc
+http://pandoc.org/
+
+
+#+BEGIN_EXAMPLE
+$ echo "# Test headline\nSome text\n" > test.md
+$ pandoc -o test.pdf test.md
+#+END_EXAMPLE
+
