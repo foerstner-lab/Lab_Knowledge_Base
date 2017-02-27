@@ -1,0 +1,26 @@
+#+TITLE: Bioinformatical Python Libraries tutorial (UNDER DEVELOPMENT)
+#+AUTHOR: Konrad U. Förstner
+
+* Biopython
+
+http://biopython.org/
+
+* wiggelen
+
+- https://pypi.python.org/pypi/wiggelen
+- https://pypi.python.org/pypi/wiggelen
+
+* pysam
+
+- https://pysam.readthedocs.org/
+
+* gff
+
+https://pythonhosted.org/gffutils/
+
+* bioservices
+
+https://pythonhosted.org/bioservices/
+
+* ETE Toolkit
+  http://etetoolkit.org/	
