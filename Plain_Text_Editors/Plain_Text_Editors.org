@@ -1,0 +1,9 @@
+- [[https://www.gnu.org/software/emacs/][Emacs]]
+- vi
+- vim
+- [[https://en.wikipedia.org/wiki/List_of_text_editors][List of text editors on Wikipedia]]
+- nano 
+- gedit
+- Kate
+
+
