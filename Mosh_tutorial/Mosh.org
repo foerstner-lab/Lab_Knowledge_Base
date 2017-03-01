@@ -1,0 +1,7 @@
+* Mosh
+
+Use mosh (mobile shell) is SSH replacement that can handle
+interruptions of the internet connection much better.
+
+- [[https://mosh.org/][mosh project page]]
+- [[https://www.unixmen.com/mosh-a-brief-introduction/][Mosh: A Brief Introduction]]
