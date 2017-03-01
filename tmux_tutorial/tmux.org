@@ -1,13 +1,22 @@
+* tmux tutorial
 
-- What:
+tmux is  terminal multiplexe
 
 - Why: practical implication - you can go home and you job is running on server
 
+** Links and reading recommendations
+- [[https://tmux.github.io/][tmux project page]]
+- [[https://wiki.archlinux.org/index.php/Tmux][tmux wiki page of the ArcheLinux community]]
+- [[https://robots.thoughtbot.com/a-tmux-crash-course][tmux crash course]]
+- [[https://gist.github.com/MohamedAlaa/2961058][tmux shortcuts & cheatsheet]]
 
-c - creating
-n - move to next windown
-Numbers - move to windo number n
-, - naming
-x - kill window
-[ - scrolling mod
+** Important keys
 
+Ctr-b (or whatever you set as prefix) + 
+
+- c - creating new pane
+- n - move to next pand
+- Numbers - move to windo number n
+- , - naming pane
+- x - kill pane
+- [ - copy mode; scrolling etc. possible
