@@ -1,6 +1,6 @@
-Lab Skill Badges (c) by Konrad U. Förstner <konrad@foerstner.org>
+Lab Knowledge Base (c) by Konrad U. Förstner <konrad@foerstner.org>
 
-Lab Skill Badges is licensed under a
+Lab Knowledge Base is licensed under a
 Creative Commons Attribution 3.0 Germany License.
 
 You should have received a copy of the license along with this work.
