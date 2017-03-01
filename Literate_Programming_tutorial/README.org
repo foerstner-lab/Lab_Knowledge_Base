@@ -1,4 +1,0 @@
-* Literate Programming tutorial
-
-Under development
-

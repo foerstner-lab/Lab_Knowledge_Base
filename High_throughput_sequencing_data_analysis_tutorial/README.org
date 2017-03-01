@@ -1,4 +1,0 @@
-** High throughput sequencing data analysis tutorial
-
-UNDER DEVELOPMENT
-
