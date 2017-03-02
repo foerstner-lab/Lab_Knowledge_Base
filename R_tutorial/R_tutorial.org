@@ -2,11 +2,9 @@
 - ggplot
 - Bioconductor
 
-
 Usuck R:
-- dplyr
-
-
+- tidyverse
 
 http://r4ds.had.co.nz/
+http://arrgh.tim-smith.us/
 
