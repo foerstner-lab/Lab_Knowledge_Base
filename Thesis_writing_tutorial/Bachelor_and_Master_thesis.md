@@ -1,11 +1,14 @@
+Before you start:
+- Write an  expose / research proposal about your project https://en.wikipedia.org/wiki/Research_proposal
 
+- Begin with the end in mind: Generate a thesis document that you can;
+  add references and basic ideas while doing you project. It will be
+  then easier in the end to fill add the details
 
+Master thesis:
 - Ideally do F1 / F2 befor having a master thesis.
 
-- Write Expose about your work
-https://de.wikipedia.org/wiki/Expos%C3%A9_%28Wissenschaft%29
-
-- You are responsible for you work
+- You are responsible for your work
 
 - There are **rare** cases where a Wikipedia article can be used as a
 reference. If so give the exact version.
