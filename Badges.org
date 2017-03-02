@@ -1,0 +1,36 @@
+* Lab Skill Badges
+Badge should help make sure that group members have a certain set of
+skills. They do not indicate masterhood but a basic understanding of
+the topic and related sources for further learning.
+
+Begin with the end in mind: Write some question/aim for each badge.
+
+** Version control system and Git basics
+*** Reading recommendations
+*** Questions:
+- What are version control systemy?
+- What are distributed version control
+- What is git?
+- Which other 
+** Projekt organization and documentation
+** Plain text editors
+** Unix shell
+** File types
+** Short read mappers
+- Tool for HTS (samtools, bedtools, cutadapt, FASTQC) - maybe merge with mappers
+** Python badge starter (PEP008)
+** Python intermedia (csv, list comprehension)
+** Python  testing (unit test, pytest, CI)
+** Python visualisation
+** Python bioinformatics
+** Python pandas
+** R basics
+** R tidyverse
+** Rstudio
+** Open licenses
+** Markup languages
+** Markdown
+** LaTeX
+** Preprints
+** Genome browsers
+** tmux
