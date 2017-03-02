@@ -28,6 +28,9 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
 
 - http://www.pythontutor.com/
 
+- Packaging:
+  https://medium.com/small-things-about-python/lets-talk-about-python-packaging-6d84b81f1bb5#.vumtjvmgt
+
 * Useful libraries
 
 - pomegranate - https://pomegranate.readthedocs.io Fast, flexible and easy to use probabilistic modelling in Python;
