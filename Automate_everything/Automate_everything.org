@@ -1,0 +1,4 @@
+- Have script that informs  you if your job on the server is done
+
+- Have a script for uploading file to our web server and generate link
+  incl. hash sum etc.
