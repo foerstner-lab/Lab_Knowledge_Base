@@ -30,6 +30,7 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
 
 - Packaging:
   https://medium.com/small-things-about-python/lets-talk-about-python-packaging-6d84b81f1bb5#.vumtjvmgt
+  https://python-packaging.readthedocs.io/en/latest/index.html
 
 - Pandas
   Podcast: https://www.podcastinit.com/episode-98-pandas-with-jeff-reback/
