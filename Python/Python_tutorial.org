@@ -35,6 +35,9 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
 - Pandas
   Podcast: https://www.podcastinit.com/episode-98-pandas-with-jeff-reback/
 
+- https://talkpython.fm/
+- https://www.podcastinit.com
+
 * Testing
 
 ** Levels
