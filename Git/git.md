@@ -24,3 +24,6 @@ https://swcarpentry.github.io/git-novice/
 
 - Ten Simple Rules for Taking Advantage of Git and GitHub
   http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947
+
+
+- http://learngitbranching.js.org/
