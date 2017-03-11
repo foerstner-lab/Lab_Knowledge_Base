@@ -1,3 +1,6 @@
+#+TITLE: Python
+#+AUTHOR: Konrad U. Förstner
+
 * Why Python
 
 * Introduction for beginner without programming experiences
@@ -8,11 +11,10 @@
 * General hints
 * Misc/Unsorted links
 
-
 - main() => get an overview
 
 - https://www.python.org/dev/peps/pep-0008/
-- pylint flat
+
 
 - How to organize a Python package
   http://docs.python-guide.org/en/latest/writing/structure/
@@ -25,8 +27,6 @@
 
 https://www.youtube.com/watch?v=o9pEzgHorH0
 
-- Transforming Code into Beautiful, Idiomatic Python
-https://www.youtube.com/watch?v=OSGv2VnC0go
 
 - Stop Writing Classes 
 https://www.youtube.com/watch?v=o9pEzgHorH0
@@ -35,9 +35,6 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
 
 - http://www.pythontutor.com/
 
-- Packaging:
-  https://medium.com/small-things-about-python/lets-talk-about-python-packaging-6d84b81f1bb5#.vumtjvmgt
-  https://python-packaging.readthedocs.io/en/latest/index.html
 
 - Pandas
   Podcast: https://www.podcastinit.com/episode-98-pandas-with-jeff-reback/
@@ -70,11 +67,17 @@ Regression testing in all levels
 * Best practices 
 
 - [[https://www.python.org/dev/peps/pep-0008/][PEP 8 - Style Guide for Python Code]]
+- pylint
+- flake8
+- Video: [[https://www.youtube.com/watch?v%3DOSGv2VnC0go][Transforming Code into Beautiful, Idiomatic Python]]
 
 * Packaging
 
 - https://conda.io/
 - https://bioconda.github.io/
+- https://medium.com/small-things-about-python/lets-talk-about-python-packaging-6d84b81f1bb5#.vumtjvmgt
+- https://python-packaging.readthedocs.io/en/latest/index.html
+
 
 * Biopython
 * Numpy/Scipy
