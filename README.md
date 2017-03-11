@@ -1,3 +1,3 @@
 # Lab Knowledge Base
 
-A small collection of useful tutorials and links.
+A small, opiniated collection of useful tutorials and links.
