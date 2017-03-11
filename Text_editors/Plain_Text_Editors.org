@@ -1,9 +1,16 @@
-- [[https://www.gnu.org/software/emacs/][Emacs]]
-- vi
-- vim
+* 
 - [[https://en.wikipedia.org/wiki/List_of_text_editors][List of text editors on Wikipedia]]
+* Emacs
+
+- [[https://www.gnu.org/software/emacs/][Emacs]]
+- [[https://www.gnu.org/software/emacs/tour/][Tour through emacs]] 
+- [[http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/][How to Learn Emacs: A Hand-drawn One-pager for Beginners / A visual
+  tutorial]] (including helpful poster)
+
+
+
+* vi/ vim
+* other text editors
 - nano 
 - gedit
 - Kate
-
-
