@@ -4,6 +4,7 @@
 
 Usuck R:
 - tidyverse
+- https://cran.r-project.org/web/packages/argparse/index.html
 
 http://r4ds.had.co.nz/
 http://arrgh.tim-smith.us/
