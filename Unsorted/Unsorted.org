@@ -1,0 +1,3 @@
+- DBs with othologs:
+  - http://www.pathogenomics.sfu.ca/ortholugedb/?page=index
+  - http://eggnogdb.embl.de
