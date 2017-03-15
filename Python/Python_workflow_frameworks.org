@@ -1,0 +1,6 @@
+
+- [[https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems][A list of workflow systems (not only Python)]]
+- https://www.nextflow.io/
+- http://www.ruffus.org.uk/
+- https://github.com/spotify/luigi
+
