@@ -3,4 +3,5 @@
 - https://www.nextflow.io/
 - http://www.ruffus.org.uk/
 - https://github.com/spotify/luigi
-
+- https://toil.readthedocs.io
+- https://snakemake.readthedocs.io
