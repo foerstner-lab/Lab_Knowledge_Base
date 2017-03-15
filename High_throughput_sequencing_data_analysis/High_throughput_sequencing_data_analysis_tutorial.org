@@ -1,5 +1,7 @@
 * Sequencing
 
+- https://www.illumina.com/Documents/products/Illumina_Sequencing_Introduction.pdf
+
 - https://www.genome.gov/sequencingcostsdata/
 
 - Good review about sequencing technologies and protocols: Reuter JA,
@@ -77,6 +79,7 @@ https://broadinstitute.github.io/picard/
   in an RNA-seq experiment and which differential expression tool
   should you use? RNA. 2016 Jun;22(6):839-51. doi:
   [[http://dx.doi.org/10.1261/rna.053959.115][10.1261/rna.053959.115]].
+- Sequencing depth vs. Replicates: 
 - [[https://bioconductor.org/packages/release/bioc/html/DESeq2.html][DESeq2]]
 - [[https://bioconductor.org/packages/release/bioc/html/edgeR.html][EdgeR]]
 - [[https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-2-r29][voom]]
