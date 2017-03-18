@@ -1,2 +1,15 @@
+My structures
+#+BEGIN_ASCII
+2017-03-18-Project_name
+├── analyses
+│   └── 2017-03-20-Read_mapping_libraries_X-Z
+├── bin
+├── data
+│   └── 2017-03-20-Genome_and_annotation
+├── docs
+│   └── Notes.org
+└── README.org
+#+END_ASCII
 
-[[http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424][A Quick Guide to Organizing Computational Biology Projects]]
+References: 
+- [[http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424][A Quick Guide to Organizing Computational Biology Projects]]
