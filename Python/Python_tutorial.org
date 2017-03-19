@@ -43,6 +43,7 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
   - Episode #100: Python past, present, and future with Guido van Rossum https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum
 - https://www.podcastinit.com
   
+- vulture - Find dead code https://github.com/jendrikseipp/vulture
 
 * Testing
 
@@ -73,6 +74,7 @@ Regression testing in all levels
 
 * Packaging
 
+- [[https://packaging.python.org/][Python Packaging User Guide]]
 - https://conda.io/
 - https://bioconda.github.io/
 - https://medium.com/small-things-about-python/lets-talk-about-python-packaging-6d84b81f1bb5#.vumtjvmgt
