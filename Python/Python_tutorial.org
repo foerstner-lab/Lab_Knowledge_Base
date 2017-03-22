@@ -65,6 +65,14 @@ Regression testing in all levels
 - http://pythontesting.net/
   - Discussion of the different levels http://pythontesting.net/podcast/27-mahmoud-hashemi-unit-integration-system-testing/
 
+* Environments
+
+- "The pyvenv script has been deprecated as of Python 3.6 in favor of
+  using python3 -m venv to help prevent any potential confusion as to
+  which Python interpreter a virtual environment will be based on."
+  https://docs.python.org/3/library/venv.html
+- http://masnun.com/2016/04/10/python-pyenv-pyvenv-virtualenv-whats-the-difference.html
+
 * Best practices 
 
 - [[https://www.python.org/dev/peps/pep-0008/][PEP 8 - Style Guide for Python Code]]
@@ -80,7 +88,6 @@ Regression testing in all levels
 - https://bioconda.github.io/
 - https://medium.com/small-things-about-python/lets-talk-about-python-packaging-6d84b81f1bb5#.vumtjvmgt
 - https://python-packaging.readthedocs.io/en/latest/index.html
-
 
 * Biopython
 * Numpy/Scipy
