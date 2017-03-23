@@ -13,3 +13,6 @@ http://stanford.edu/~mwaskom/software/seaborn/
 * bokeh
 
 http://bokeh.pydata.org
+* matplotlib-venn
+
+https://pypi.python.org/pypi/matplotlib-venn
