@@ -50,6 +50,9 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
 - Cognitive load - small functions - unit testing
 - http://docs.pytest.org/en/latest/
 
+- Keep in mind that you should use numpy.testing for numpy data structures
+- [[https://www.olivierverdier.com/posts/2015/04/10/testing-scientific-computing/][Testing in Python for Scientific Computing]]
+
 
 ** Levels
 - Unit testin
