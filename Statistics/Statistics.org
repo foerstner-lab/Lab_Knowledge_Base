@@ -1,4 +1,4 @@
 http://www.biostathandbook.com/
 
 
-- Why multiple testing correction - https://xkcd.com/882/
+- Why multiple testing correction - [[https://xkcd.com/882/][xkcd comic demostrating the problem]]
