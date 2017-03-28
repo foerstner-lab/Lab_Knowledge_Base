@@ -1,3 +1,8 @@
 - DBs with othologs:
   - http://www.pathogenomics.sfu.ca/ortholugedb/?page=index
   - http://eggnogdb.embl.de
+
+
+- Use keyword parameters instead of position parameters (script.py
+  --input.csv xx --output result.pdf instead of script.py input.csv
+  result.pdf)
