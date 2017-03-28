@@ -3,9 +3,7 @@
 - Bioconductor
 
 Usuck R:
-- tidyverse
-- https://cran.r-project.org/web/packages/argparse/index.html
-
-http://r4ds.had.co.nz/
-http://arrgh.tim-smith.us/
-
+- What is the problem: [[http://arrgh.tim-smith.us/][aRrgh: a newcomer’s (angry) guide to R]]
+- [[https://blog.rstudio.org/2016/09/15/tidyverse-1-0-0/][tidyverse]]
+- To configure keyword paramater in pythonic way use [[https://cran.r-project.org/web/packages/argparse/index.html][argparse]]
+- [[http://r4ds.had.co.nz/][R for Data Science]]
