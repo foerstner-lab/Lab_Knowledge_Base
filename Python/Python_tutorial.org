@@ -103,6 +103,7 @@ Regression testing in all levels
 - pomegranate - https://pomegranate.readthedocs.io Fast, flexible and easy to use probabilistic modelling in Python;
   For Hidden-Markov-Model, Finite State Machines etc:
 - statsmodels.sourceforge.net  
+- [[https://csvkit.readthedocs.io/][csvkit]]
 
 
 * Book recommendations
