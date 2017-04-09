@@ -8,6 +8,9 @@
   Spacek DV, Snyder MP. High-throughput sequencing technologies. Mol
   Cell. 2015 May 21;58(4):586-97. doi: [[https://doi.org/10.1016/j.molcel.2015.05.004][10.1016/j.molcel.2015.05.004]].
 
+
+- http://www.nature.com/nbt/journal/v30/n11/full/nbt.2421.html
+
 * Sequencing read data bases
 
 - [[https://www.ncbi.nlm.nih.gov/geo/][NCBI GEO]]
