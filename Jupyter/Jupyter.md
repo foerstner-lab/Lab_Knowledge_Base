@@ -1,2 +1,2 @@
-
 - https://jupyter.org/
+- https://github.com/jupyterlab/jupyterlab
