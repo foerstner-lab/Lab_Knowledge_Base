@@ -20,7 +20,7 @@ Begin with the end in mind: Write some question/aim for each badge.
 - Tool for HTS (samtools, bedtools, cutadapt, FASTQC) - maybe merge with mappers
 ** Python badge starter (PEP008)
 ** Python intermedia (csv, list comprehension)
-** Python  testing (unit test, pytest, CI)
+** Python testing (unit test, pytest, CI)
 ** Python visualisation
 ** Python bioinformatics
 ** Python pandas
@@ -34,3 +34,4 @@ Begin with the end in mind: Write some question/aim for each badge.
 ** Preprints
 ** Genome browsers
 ** tmux
+** Academic carreer paths
