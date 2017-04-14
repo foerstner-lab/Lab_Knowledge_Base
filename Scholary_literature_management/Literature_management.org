@@ -1,1 +1,2 @@
-Zotero
+- [[https://www.zotero.org/][Zotero]]
+- [[http://www.jabref.org/][JabRef]]
