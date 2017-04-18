@@ -1,4 +1,5 @@
 * Lab Skill Badges
+
 Badge should help make sure that group members have a certain set of
 skills. They do not indicate masterhood but a basic understanding of
 the topic and related sources for further learning.
@@ -13,6 +14,15 @@ Begin with the end in mind: Write some question/aim for each badge.
 - What is git?
 - Which other 
 ** Projekt organization and documentation
+*** Reading recommendations
+
+- Noble WS. A quick guide to organizing computational biology
+  projects. PLoS Comput Biol. 2009 Jul;5(7):e1000424. doi:
+  10.1371/journal.pcbi.1000424. Epub 2009 Jul 31. PubMed PMID:
+  19649301; PubMed Central PMCID:
+  PMC2709440. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
+
+
 ** Plain text editors
 ** Unix shell
 ** File types
