@@ -96,6 +96,9 @@ Regression testing in all levels
 - https://python-packaging.readthedocs.io/en/latest/index.html
 - http://blog.securem.eu/tips%20and%20tricks/2016/02/29/creating-and-publishing-a-python-module/
 
+* Cheat Sheet
+- https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+
 * Biopython
 - http://biopython.org/
 - [[http://biopython.org/DIST/docs/tutorial/Tutorial.html][Biopython Tutorial and Cookbook]]
