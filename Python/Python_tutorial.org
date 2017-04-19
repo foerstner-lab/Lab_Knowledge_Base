@@ -47,6 +47,8 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
 
 * Testing
 
+- [[https://docs.pytest.org/en/latest/][pytest]]
+
 - Cognitive load - small functions - unit testing
 - http://docs.pytest.org/en/latest/
 
@@ -95,8 +97,13 @@ Regression testing in all levels
 - http://blog.securem.eu/tips%20and%20tricks/2016/02/29/creating-and-publishing-a-python-module/
 
 * Biopython
+- http://biopython.org/
+- [[http://biopython.org/DIST/docs/tutorial/Tutorial.html][Biopython Tutorial and Cookbook]]
 * Numpy/Scipy
 * Pandas
+- http://pandas.pydata.org/
+- [[https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf][Pandas cheat sheet]]
+
 * IDEs for Python
 * Futher useful libraries
 
