@@ -10,13 +10,21 @@ often used functionalities.
 * List of editors
 - [[https://en.wikipedia.org/wiki/List_of_text_editors][List of text editors on Wikipedia]]
 
+- Emacs
+- vim
 - nano 
 - gedit
 - Kate
-* Extension
+
+* Features/Extension
+
+  The following features might be helpful and should be provided by a
+  text editor besides it basic functions:
+  
   - Syntax highlighting / linting
   - Autocompletion
   - Remote file editing
+
 * Emacs
 
 - [[https://www.gnu.org/software/emacs/][Emacs]]
@@ -25,6 +33,10 @@ often used functionalities.
   tutorial]] (including helpful poster)
 - Org-mode
 - [[https://www.inkandben.com/org-mode-resources][Emacs and Org-mode resources]]
+- [[https://elpy.readthedocs.io][elpy - Emacs Python Development Environment]] 
 
 * vi/ vim
+
+- [[https://github.com/davidhalter/jedi-vim][jedi-vim - awesome Python autocompletion with VIM]]
+
 * other text editors
