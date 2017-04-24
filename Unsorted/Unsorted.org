@@ -6,3 +6,7 @@
 - Use keyword parameters instead of position parameters (script.py
   --input.csv xx --output result.pdf instead of script.py input.csv
   result.pdf)
+
+- [[https://en.wikipedia.org/wiki/Don%2527t_repeat_yourself][Don't repeat yourself]]
+- [[https://en.wikipedia.org/wiki/You_aren%2527t_gonna_need_it][You aren't gonna need it]]
+- 
