@@ -8,8 +8,10 @@ which editor(s) you use and try to make youself familiar with the
 often used functionalities.
 
 * List of editors
+
 - [[https://en.wikipedia.org/wiki/List_of_text_editors][List of text editors on Wikipedia]]
 
+A selection:
 - Emacs
 - vim
 - nano 
@@ -33,6 +35,7 @@ often used functionalities.
   tutorial]] (including helpful poster)
 - Org-mode
 - [[https://www.inkandben.com/org-mode-resources][Emacs and Org-mode resources]]
+- [[https://www.youtube.com/watch?v%3DoJTwQvgfgMM][Video "Emacs Org-mode - a system for note-taking and project planning" from the GoogleTechTalks series ]]
 - [[https://elpy.readthedocs.io][elpy - Emacs Python Development Environment]] 
 
 * vi/ vim
