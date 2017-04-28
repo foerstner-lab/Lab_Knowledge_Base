@@ -12,3 +12,6 @@
   https://dx.doi.org/10.1038/nrg3920,
   ([[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5204302/][Free version on PubMedCentral]])
 
+- Yip KY, Cheng C, Gerstein M. Machine learning and genome annotation:
+  a match meant to be? Genome Biol. 2013 May
+  29;14(5):205. https://dx.doi.org/10.1186/gb-2013-14-5-205.
