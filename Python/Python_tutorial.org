@@ -102,7 +102,11 @@ Regression testing in all levels
 * Biopython
 - http://biopython.org/
 - [[http://biopython.org/DIST/docs/tutorial/Tutorial.html][Biopython Tutorial and Cookbook]]
-* Numpy/Scipy
+* Numpy/SciPy
+
+- [[http://www.numpy.org/][Numpy]]
+- [[https://www.scipy.org/scipylib/index.html][SciPy]]
+
 * Pandas
 - http://pandas.pydata.org/
 - [[https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf][Pandas cheat sheet]]
