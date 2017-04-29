@@ -91,7 +91,7 @@ https://broadinstitute.github.io/picard/
 - [[https://bioconductor.org/packages/release/bioc/html/edgeR.html][EdgeR]]
 - [[https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-2-r29][voom]]
 - [[https://bioconductor.org/packages/release/bioc/html/RUVSeq.html][RUVSeq]] (remove unwanted variation) to use before other tools for DGEA
-* Gene set enrichment analysis tool
+* Gene set enrichment analysis tools
 
 - [[https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html][clusterProfiler]]
 - [[https://bioconductor.org/packages/release/bioc/html/topGO.html][topGO]]
