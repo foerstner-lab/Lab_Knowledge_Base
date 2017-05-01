@@ -116,3 +116,6 @@ https://broadinstitute.github.io/picard/
 - [[https://nservant.github.io/HiC-Pro/][HiC-Pro]]
 - [[https://bioconductor.org/packages/release/bioc/html/HiTC.html][HiTC]]
 - [[http://aidenlab.org/juicer/docs.html][Juicer]] / [[http://www.aidenlab.org/juicebox/][JuiceBox]]
+* Misc
+
+- [[https://statquest.org/2015/07/09/rpkm-fpkm-and-tpm-clearly-explained/][RPKM, FPKM and TPM, clearly explained]]
