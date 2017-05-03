@@ -13,6 +13,7 @@ Version: 0.1dev
 - https://www.latex-project.org/
 - pdflatex
 - xelatex
+- https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes
 
 * Markdown
 
