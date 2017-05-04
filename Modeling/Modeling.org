@@ -1,7 +1,16 @@
 #+Modelling
 
 ** Literature
+   :PROPERTIES:
+   :ID:       65853c21-a064-47f7-ad26-af116bf21581
+   :END:
 
-* Bartocci E, Lió P. Computational Modeling, Formal Analysis, and Tools for Systems Biology. PLoS Comput Biol. 2016 Jan 21;12(1):e1004591. 
-  doi:10.1371/journal.pcbi.1004591. 2016 Jan
+
+- Bartocci E, Lió P. Computational Modeling, Formal Analysis, and
+  Tools for Systems Biology. PLoS Comput Biol. 2016 Jan
+  21;12(1):e1004591.  doi:10.1371/journal.pcbi.1004591. 2016 Jan
   http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004591
+
+- Bar-Joseph Z, Gitter A, Simon I. Studying and modelling dynamic
+  biological processes using time-series gene expression data. Nat Rev
+  Genet. 2012 Jul 18;13(8):552-64. https://doi.org/10.1038/nrg3244
