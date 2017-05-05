@@ -16,3 +16,6 @@ http://bokeh.pydata.org
 * matplotlib-venn
 
 https://pypi.python.org/pypi/matplotlib-venn
+* Others
+
+- https://toyplot.readthedocs.io
