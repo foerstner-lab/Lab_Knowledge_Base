@@ -37,6 +37,8 @@ A selection:
 - [[https://www.inkandben.com/org-mode-resources][Emacs and Org-mode resources]]
 - [[https://www.youtube.com/watch?v%3DoJTwQvgfgMM][Video "Emacs Org-mode - a system for note-taking and project planning" from the GoogleTechTalks series ]]
 - [[https://elpy.readthedocs.io][elpy - Emacs Python Development Environment]] 
+- Use Emacs in [[https://www.emacswiki.org/emacs/EmacsClient][client mode]] to decrease starting time and make buffers
+  accessible between different instances.
 
 * vi/ vim
 
