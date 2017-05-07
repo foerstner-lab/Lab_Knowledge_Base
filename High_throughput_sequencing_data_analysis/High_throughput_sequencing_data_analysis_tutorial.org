@@ -119,3 +119,9 @@ https://broadinstitute.github.io/picard/
 * Misc
 
 - [[https://statquest.org/2015/07/09/rpkm-fpkm-and-tpm-clearly-explained/][RPKM, FPKM and TPM, clearly explained]]
+* Publications
+
+- Conesa A, Madrigal P, Tarazona S, Gomez-Cabrero D, Cervera A,
+  McPherson A, Szcześniak MW, Gaffney DJ, Elo LL, Zhang X, Mortazavi
+  A. A survey of best practices for RNA-seq data analysis. Genome
+  Biol. 2016 Jan 26;17:13. https://doi.org/10.1186/s13059-016-0881-8
