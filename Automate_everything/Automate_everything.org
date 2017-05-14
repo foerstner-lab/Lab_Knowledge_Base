@@ -1,4 +1,6 @@
-- Have script that informs  you if your job on the server is done
+#+TITLE: Automate everything
 
-- Have a script for uploading file to our web server and generate link
+Examples:
+- Have script that informs  you when your job on the server is done
+- Have a script for uploading files to our web server and generate link
   incl. hash sum etc.
