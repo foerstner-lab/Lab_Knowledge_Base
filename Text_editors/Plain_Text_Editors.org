@@ -39,6 +39,7 @@ A selection:
 - [[https://elpy.readthedocs.io][elpy - Emacs Python Development Environment]] 
 - Use Emacs in [[https://www.emacswiki.org/emacs/EmacsClient][client mode]] to decrease starting time and make buffers
   accessible between different instances.
+- [[http://ergoemacs.org/emacs/emacs_package_system.html][How to Install Packages Using ELPA, MELPA]]
 
 * vi/ vim
 
