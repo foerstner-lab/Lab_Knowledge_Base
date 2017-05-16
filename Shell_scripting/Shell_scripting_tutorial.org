@@ -1,3 +1,5 @@
+#+TITLE: Shell scripting
+
 * Basic template
 
 #+BEGIN_SRC sh
