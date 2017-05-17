@@ -12,3 +12,8 @@
 
 
 - [[http://zenodo.org/][Zenodo]]
+
+
+- General programming advices
+  - Be explicit
+  - User keyword parameters instead of positional parameters in the CLI
