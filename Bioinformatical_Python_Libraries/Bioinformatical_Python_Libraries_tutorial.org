@@ -1,4 +1,4 @@
-#+TITLE: Bioinformatical Python Libraries tutorial (UNDER DEVELOPMENT)
+#+TITLE: Bioinformatical Python Libraries tutorial
 #+AUTHOR: Konrad U. Förstner
 
 * Biopython
@@ -24,3 +24,5 @@ https://pythonhosted.org/bioservices/
 
 * ETE Toolkit
   http://etetoolkit.org/	
+* scikit-bio
+http://scikit-bio.org/
