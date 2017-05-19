@@ -28,11 +28,10 @@ A selection:
   - Remote file editing
 
 * Emacs
-
 - [[https://www.gnu.org/software/emacs/][Emacs]]
 - [[https://www.gnu.org/software/emacs/tour/][Tour through emacs]] 
-- [[http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/][How to Learn Emacs: A Hand-drawn One-pager for Beginners / A visual
-  tutorial]] (including helpful poster)
+- [[http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/][How to Learn Emacs: A Hand-drawn One-pager for Beginners / A visual tutorial]] (including helpful poster)
+- [[http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/][Absolute Beginner's Guide to Emacs]] 
 - Org-mode
 - [[https://www.inkandben.com/org-mode-resources][Emacs and Org-mode resources]]
 - [[https://www.youtube.com/watch?v%3DoJTwQvgfgMM][Video "Emacs Org-mode - a system for note-taking and project planning" from the GoogleTechTalks series ]]
