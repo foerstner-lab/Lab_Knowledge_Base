@@ -1,2 +1,3 @@
 - No picharts
 - Boxplot with additional dots
+- do not only write p-values, but also the test used and the n
