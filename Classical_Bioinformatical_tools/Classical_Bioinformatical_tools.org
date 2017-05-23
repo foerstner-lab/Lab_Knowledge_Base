@@ -1,2 +1,3 @@
 - BLAST
 - EMBOSS
+- ClustaW/Omega
