@@ -110,7 +110,6 @@ Regression testing in all levels
 * Pandas
 - http://pandas.pydata.org/
 - [[https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf][Pandas cheat sheet]]
-
 * IDEs for Python
 * Futher useful libraries
 
@@ -119,8 +118,6 @@ Regression testing in all levels
 - statsmodels.sourceforge.net  
 - [[https://csvkit.readthedocs.io/][csvkit]]
 
-
 * Book recommendations
-
   - Fluent Python
 
