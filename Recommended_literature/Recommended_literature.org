@@ -2,21 +2,20 @@
 
 - Wagner EG, Romby P. Small RNAs in bacteria and archaea: who they
   are, what they do, and how they do it. Adv
-  Genet. 2015;90:133-208. doi:10.1016/bs.adgen.2015.05.001. Review. PubMed
-  PMID: 26296935.
+  Genet. 2015;90:133-208. doi:10.1016/bs.adgen.2015.05.001
 
 - Noble WS. A quick guide to organizing computational biology
   projects. PLoS Comput Biol. 2009
-  Jul;5(7):e1000424. doi:10.1371/journal.pcbi.1000424. PubMed PMID:
-  19649301; PubMed Central PMCID: PMC2709440.
+  Jul;5(7):e1000424. doi:10.1371/journal.pcbi.1000424
 
 - Reuter JA, Spacek DV, Snyder MP. High-throughput sequencing
   technologies. Mol Cell. 2015 May
-  21;58(4):586-97. doi:10.1016/j.molcel.2015.05.004. Review. PubMed
-  PMID: 26000844; PubMed Central PMCID: PMC4494749.
+  21;58(4):586-97. doi:10.1016/j.molcel.2015.05.004
 
 - Finotello F, Di Camillo B. Measuring differential gene expression
   with RNA-seq: challenges and strategies for data analysis. Brief
   Funct Genomics. 2015
-  Mar;14(2):130-42. doi:10.1093/bfgp/elu035. Review. PubMed
-  PMID: 25240000.
+  Mar;14(2):130-42. doi:10.1093/bfgp/elu035
+
+- Ringnér M. What is principal component analysis? Nat
+  Biotechnol. 2008 Mar;26(3):303-4. doi:10.1038/nbt0308-303
