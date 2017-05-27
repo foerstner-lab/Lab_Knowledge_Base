@@ -13,7 +13,8 @@
 
 - [[http://zenodo.org/][Zenodo]]
 
-
 - General programming advices
   - Be explicit
   - User keyword parameters instead of positional parameters in the CLI
+
+- [[http://threevirtues.com/][Three great virtues of a programmer]]: Laziness, Impatience and Hubris
