@@ -17,5 +17,5 @@ http://bokeh.pydata.org
 
 https://pypi.python.org/pypi/matplotlib-venn
 * Others
-
 - https://toyplot.readthedocs.io
+- https://plotnine.readthedocs.io
