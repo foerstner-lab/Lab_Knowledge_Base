@@ -27,3 +27,5 @@ https://swcarpentry.github.io/git-novice/
 
 
 - http://learngitbranching.js.org/
+
+- .git/config !
