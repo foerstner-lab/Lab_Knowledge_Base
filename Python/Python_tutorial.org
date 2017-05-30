@@ -111,6 +111,8 @@ Regression testing in all levels
 - http://pandas.pydata.org/
 - [[https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf][Pandas cheat sheet]]
 * IDEs for Python
+- PyCharm
+- elpy
 * Futher useful libraries
 
 - pomegranate - https://pomegranate.readthedocs.io Fast, flexible and easy to use probabilistic modelling in Python;
