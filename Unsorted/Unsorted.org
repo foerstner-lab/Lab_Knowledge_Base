@@ -21,3 +21,6 @@
 
 
 - Don't call your software "pipeline" but "tool" or something else.
+
+- [[https://en.wikipedia.org/wiki/Technical_debt][Technical debt]]
+
