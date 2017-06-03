@@ -1,3 +1,6 @@
 - https://xkcd.com/
 - http://www.smbc-comics.com/
 - http://phdcomics.com/
+
+
+- [[https://github.com/lonsbio/fastqe][FASTQ sequence quality visualisation with Emoji]]
