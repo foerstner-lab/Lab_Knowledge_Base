@@ -24,3 +24,8 @@
 
 - [[https://en.wikipedia.org/wiki/Technical_debt][Technical debt]]
 
+
+
+- Q & A
+  - http://biostars.org/
+  - https://bioinformatics.stackexchange.com
