@@ -87,7 +87,6 @@ Regression testing in all levels
 - [[https://access.redhat.com/blogs/766093/posts/2802001][Pythonic code review]]
 
 * Packaging
-
 - [[https://packaging.python.org/][Python Packaging User Guide]]
 - [[https://python-packaging.readthedocs.io/][How To Package Your Python Code]]
 - https://conda.io/
@@ -123,3 +122,9 @@ Regression testing in all levels
 * Book recommendations
   - Fluent Python
 
+* Intermedite / Advanced
+
+- List comprehension
+- Decorators
+- Type hinting (starting from 3.5)
+  - https://www.blog.pythonlibrary.org/2016/01/19/python-3-an-intro-to-type-hinting/
