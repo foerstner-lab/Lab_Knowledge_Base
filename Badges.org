@@ -57,3 +57,11 @@ Begin with the end in mind: Write some question/aim for each badge.
 ** Genome browsers
 ** tmux
 ** Academic carreer paths
+** Basic Statistics
+
+*** Questions
+- What is a t-test?
+- What is a p-value
+- What is correction for multiple testing?
+
+
