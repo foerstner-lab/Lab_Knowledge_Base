@@ -15,3 +15,14 @@
 - Yip KY, Cheng C, Gerstein M. Machine learning and genome annotation:
   a match meant to be? Genome Biol. 2013 May
   29;14(5):205. https://dx.doi.org/10.1186/gb-2013-14-5-205.
+
+- Noble WS. What is a support vector machine? Nat Biotechnol. 2006
+  Dec;24(12):1565-7. https://doi.org/10.1038/nbt1206-1565
+
+- Ben-Hur A, Ong CS, Sonnenburg S, Schölkopf B, Rätsch G. Support
+  vector machines and kernels for computational biology. PLoS Comput
+  Biol. 2008 Oct;4(10):e1000173. https://doi.org/10.1371/journal.pcbi.1000173
+
+- Kingsford C, Salzberg SL. What are decision trees? Nat
+  Biotechnol. 2008 Sep;26(9):1011-3.
+  https://doi.org/10.1038/nbt0908-1011
