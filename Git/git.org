@@ -1,19 +1,25 @@
+#+TITLE: Git
 
 - Use only for small files - not for large data set
 
-- init
-- add
-- commit
-- log
-- status
-- diff
-- checkout
+Most important commands
+- local
+  - config (run only for the first time)
+  - init
+  - add
+  - commit
+  - checkout
+  - log
+  - status
+  - diff
+- remote 
+  - clone
+  - push
+  - pull
 
-- clone
-- push
-- pull
-
-- (branch)
+More advanced
+- branch
+- stash
 
 - "git add -p" !
   http://johnkary.net/blog/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/
