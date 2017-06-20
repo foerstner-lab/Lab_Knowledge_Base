@@ -24,7 +24,7 @@
 
 - [[https://en.wikipedia.org/wiki/Technical_debt][Technical debt]]
 
-
+- Do backups of you laptop - e.g. with [[https://github.com/restic/restic][restic]]
 
 - Q & A
   - http://biostars.org/
@@ -33,3 +33,7 @@
 - [[https://github.com/kailashahirwar/cheatsheets-ai][Essential Cheat Sheets for deep learning and machine learning researchers]]
 
 - https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
+
+- [[https://github.com/audreyr/cookiecutter][Cookiecutter]]
+  - [[https://github.com/audreyr/cookiecutter-pypackage][Python project template]]
