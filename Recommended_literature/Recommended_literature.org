@@ -19,3 +19,7 @@
 
 - Ringnér M. What is principal component analysis? Nat
   Biotechnol. 2008 Mar;26(3):303-4. doi:10.1038/nbt0308-303
+
+* Books 
+
+- [[%20https://pragprog.com/book/btlang/seven-languages-in-seven-weeks][Seven Languages in Seven Weeks]], Bruce A. Tate
