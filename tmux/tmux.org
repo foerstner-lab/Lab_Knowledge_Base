@@ -9,6 +9,7 @@ Practical implication - you can go home and you job is running on server.
 - [[https://wiki.archlinux.org/index.php/Tmux][tmux wiki page of the ArcheLinux community]]
 - [[https://robots.thoughtbot.com/a-tmux-crash-course][tmux crash course]]
 - [[https://gist.github.com/MohamedAlaa/2961058][tmux shortcuts & cheatsheet]]
+- [[https://dominik.honnef.co/posts/2010/10/tmux-vs-screen/][Why You Should Try tmux Instead of screen]]
 
 ** Important keys
 
