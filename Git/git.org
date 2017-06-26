@@ -35,3 +35,11 @@ https://swcarpentry.github.io/git-novice/
 - http://learngitbranching.js.org/
 
 - .git/config !
+
+Commit messages
+- https://github.com/slashsBin/styleguide-git-commit-message
+- https://chris.beams.io/posts/git-commit/
+- https://github.com/erlang/otp/wiki/Writing-good-commit-messages
+
+
+- [[https://24ways.org/2013/keeping-parts-of-your-codebase-private-on-github/][Keeping Parts of Your Codebase Private on GitHub]]
