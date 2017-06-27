@@ -26,3 +26,15 @@
 - Kingsford C, Salzberg SL. What are decision trees? Nat
   Biotechnol. 2008 Sep;26(9):1011-3.
   https://doi.org/10.1038/nbt0908-1011
+
+** Books
+
+-  [[http://shop.oreilly.com/product/0636920030515.do][Introduction to Machine Learning with Python - A Guide for Data
+   Scientists]], Andreas C. Müller, Sarah Guido, O'Reilly Media, 2016,
+   ISBN-13: 978-1449369415
+
+-  [[https://mitpress.mit.edu/books/machine-learning-0][Machine Learning - A Probabilistic Perspective]], Kevin P. Murphy,
+   2012, ISBN: 9780262018029
+
+   
+
