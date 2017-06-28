@@ -37,7 +37,9 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
 
 
 - Pandas
-  Podcast: https://www.podcastinit.com/episode-98-pandas-with-jeff-reback/
+  - Podcast: https://www.podcastinit.com/episode-98-pandas-with-jeff-reback/
+  - Videos:
+    - [[https://www.youtube.com/watch?v%3D9d5-Ti6onew][A Visual Guide To Pandas]]
 
 - https://talkpython.fm/
   - Episode #100: Python past, present, and future with Guido van Rossum https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum
