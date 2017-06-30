@@ -37,3 +37,18 @@
 
 - [[https://github.com/audreyr/cookiecutter][Cookiecutter]]
   - [[https://github.com/audreyr/cookiecutter-pypackage][Python project template]]
+
+
+- [[https://www.nature.com/nature/journal/v546/n7656/full/nj7656-175a.html][Workplace habits: Full-time is full enough]]
+- [[http://calnewport.com/books/deep-work/][Deep Work - Rules for Focused Success in a Distracted World]]
+- [[http://www.paulgraham.com/makersschedule.html][Maker's Schedule, Manager's Schedule ]]
+- [[https://www.amazon.de/Slow-Professor-Challenging-Culture-Academy/dp/1442645563][The Slow Professor]]
+
+
+- use [[http://www.zsh.org/][zsh]] instead of bash
+
+
+- https://en.wikipedia.org/wiki/Chartjunk
+
+
+- http://eng.localytics.com/exploring-cli-best-practices/
