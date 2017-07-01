@@ -43,3 +43,7 @@ Commit messages
 
 
 - [[https://24ways.org/2013/keeping-parts-of-your-codebase-private-on-github/][Keeping Parts of Your Codebase Private on GitHub]]
+
+- [[https://marklodato.github.io/visual-git-guide/index-en.html][A Visual Git Reference]]
+
+- [[https://onlywei.github.io/explain-git-with-d3][Visualizing Git Concepts with D3]]
