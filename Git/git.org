@@ -47,3 +47,5 @@ Commit messages
 - [[https://marklodato.github.io/visual-git-guide/index-en.html][A Visual Git Reference]]
 
 - [[https://onlywei.github.io/explain-git-with-d3][Visualizing Git Concepts with D3]]
+
+- [[https://www.atlassian.com/git/tutorials][Become a git guru]]
