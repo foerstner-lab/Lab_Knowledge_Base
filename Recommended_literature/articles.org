@@ -14,3 +14,20 @@
 	year = {2008},
 	pages = {770--780}
 }
+
+@article{weissgerber_beyond_2015,
+	title = {Beyond {Bar} and {Line} {Graphs}: {Time} for a {New} {Data} {Presentation} {Paradigm}},
+	volume = {13},
+	shorttitle = {Beyond {Bar} and {Line} {Graphs}},
+	url = {http://dx.doi.org/10.1371/journal.pbio.1002128},
+	doi = {10.1371/journal.pbio.1002128},
+	abstract = {A systematic review of research articles reveals widespread poor practice in the presentation of continuous data. The authors recommend training for investigators and supply templates for easy use.},
+	number = {4},
+	urldate = {2015-05-12},
+	journal = {PLoS Biol},
+	author = {Weissgerber, Tracey L. and Milic, Natasa M. and Winham, Stacey J. and Garovic, Vesna D.},
+	month = apr,
+	year = {2015},
+	keywords = {visualization},
+	pages = {e1002128},
+}
