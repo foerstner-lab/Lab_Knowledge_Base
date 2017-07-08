@@ -6,6 +6,8 @@ http://mkweb.bcgsc.ca/pointsofview/bibliography.mhtml
 
 - http://matplotlib.org/
 
+- plt.plot vs ax.plot: [[https://stackoverflow.com/questions/37970424/what-is-the-difference-between-drawing-plots-using-plot-axes-or-figure-in-matpl][1]], [[https://stackoverflow.com/questions/43482191/matplotlib-axes-plot-vs-pyplot-plot][2]]
+
 * seaborn
 
 http://stanford.edu/~mwaskom/software/seaborn/
