@@ -43,6 +43,10 @@ Begin with the end in mind: Write some question/aim for each badge.
 ** Python visualisation
 ** Python bioinformatics
 ** Python pandas
+** Python packaging/projects
+
+** Questions
+   - Which files belong into a Python project and what is their function?
 ** R basics
 ** R tidyverse
 ** Rstudio
