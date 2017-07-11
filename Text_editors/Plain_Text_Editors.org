@@ -42,6 +42,7 @@ A selection:
 - [[https://emacs.stackexchange.com][Emacs Stack Exchange Q&A]]
 - [[https://blog.insightdatascience.com/emacs-for-data-science-af814b78eb41][Emacs for Data Science]]
 - Run the Emacs tutorial: ~C-h t~
+- [[https://magit.vc/][A Git Porcelain inside Emacs]]
 
 * vi/ vim
 
