@@ -24,7 +24,12 @@ Begin with the end in mind: Write some question/aim for each badge.
 
 
 ** Plain text editors
-** Unix shell
+** Unix shell - basics
+** Unix shell - advanced
+- shell scripts
+- for loops
+- & and while
+- unnamed pipes
 ** File types
 ** Short read mappers
 - Tool for HTS (samtools, bedtools, cutadapt, FASTQC) - maybe merge with mappers
@@ -68,4 +73,6 @@ Begin with the end in mind: Write some question/aim for each badge.
 - What is a p-value
 - What is correction for multiple testing?
 
+
+** Peer reviewing
 
