@@ -132,3 +132,6 @@ Regression testing in all levels
 - Decorators
 - Type hinting (starting from 3.5)
   - https://www.blog.pythonlibrary.org/2016/01/19/python-3-an-intro-to-type-hinting/
+* Code documentation
+- [[http://www.sphinx-doc.org][Sphinx]]
+
