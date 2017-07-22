@@ -47,6 +47,9 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
   
 - vulture - Find dead code https://github.com/jendrikseipp/vulture
 
+- [[https://www.python.org/dev/peps/pep-0008/][PEP008]]
+- http://pep8.org/
+
 * Testing
 
 - [[https://docs.pytest.org/en/latest/][pytest]]
