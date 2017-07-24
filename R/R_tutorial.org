@@ -8,3 +8,6 @@
   - [[https://blog.rstudio.org/2016/09/15/tidyverse-1-0-0/][tidyverse]]
   - To configure keyword paramater in pythonic way use [[https://cran.r-project.org/web/packages/argparse/index.html][argparse]]
   - [[http://r4ds.had.co.nz/][R for Data Science]]
+
+
+- [[https://github.com/rstudio/cheatsheets/blob/master/source/pdfs/list-columns-cheatsheet.pdf][list column cheat sheet]]
