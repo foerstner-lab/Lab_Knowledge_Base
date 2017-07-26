@@ -1,6 +1,7 @@
 * Genaral introduction - Points of view
 
-http://mkweb.bcgsc.ca/pointsofview/bibliography.mhtml
+- http://mkweb.bcgsc.ca/pointsofview/bibliography.mhtml
+- Video: [[https://www.youtube.com/watch?v%3DFytuB8nFHPQ][Jake VanderPlas The Python Visualization Landscape PyCon 2017 ]]
 
 * matpltolib
 
@@ -18,6 +19,10 @@ http://bokeh.pydata.org
 * matplotlib-venn
 
 https://pypi.python.org/pypi/matplotlib-venn
+* Altair
+
+- https://altair-viz.github.io/
+
 * Others
 - https://toyplot.readthedocs.io
 - https://plotnine.readthedocs.io
