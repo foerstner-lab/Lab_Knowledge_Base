@@ -52,3 +52,6 @@
 
 
 - http://eng.localytics.com/exploring-cli-best-practices/
+
+
+- “Write code as if you had to support it for the rest of your life.” - Yuriy Zubarev
