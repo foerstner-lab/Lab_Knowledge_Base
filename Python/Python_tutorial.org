@@ -138,3 +138,6 @@ Regression testing in all levels
 * Code documentation
 - [[http://www.sphinx-doc.org][Sphinx]]
 
+* Debugging
+- https://docs.python.org/3.6/library/pdb.html
+- [[https://documen.tician.de/pudb/][PuDB]] is a full-screen, console-based visual debugger for Python
