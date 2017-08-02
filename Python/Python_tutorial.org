@@ -36,10 +36,7 @@ https://www.youtube.com/watch?v=o9pEzgHorH0
 - http://www.pythontutor.com/
 
 
-- Pandas
-  - Podcast: https://www.podcastinit.com/episode-98-pandas-with-jeff-reback/
-  - Videos:
-    - [[https://www.youtube.com/watch?v%3D9d5-Ti6onew][A Visual Guide To Pandas]]
+
 
 - https://talkpython.fm/
   - Episode #100: Python past, present, and future with Guido van Rossum https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum
@@ -116,6 +113,11 @@ Regression testing in all levels
 * Pandas
 - http://pandas.pydata.org/
 - [[https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf][Pandas cheat sheet]]
+- Podcast: https://www.podcastinit.com/episode-98-pandas-with-jeff-reback/
+- Videos:
+  - [[https://www.youtube.com/watch?v%3D9d5-Ti6onew][A Visual Guide To Pandas]]
+- [[http://pbpython.com/pandas-grouper-agg.html][Pandas Grouper and Agg Functions Explained]]
+
 * IDEs for Python
 - PyCharm
 - elpy
