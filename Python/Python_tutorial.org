@@ -10,40 +10,18 @@
 
 * General hints
 * Misc/Unsorted links
-
-- main() => get an overview
-
+- write a ~main~ function => get an overview
 - https://www.python.org/dev/peps/pep-0008/
-
-
-- How to organize a Python package
-  http://docs.python-guide.org/en/latest/writing/structure/
-
+- [[http://docs.python-guide.org/en/latest/writing/structure/][How to organize a Python package]]
 - https://en.wikipedia.org/wiki/Syntactic_sugar
-
 - Use Python 3 http://pythonclock.org/
-
 - Scientific Python Cheat Sheet https://github.com/IPGP/scientific_python_cheat_sheet
-
-https://www.youtube.com/watch?v=o9pEzgHorH0
-
-
-- Stop Writing Classes 
-https://www.youtube.com/watch?v=o9pEzgHorH0
-
-- pyformat https://pypi.python.org/pypi/pyformat
-
+- [[https://www.youtube.com/watch?v%3Do9pEzgHorH0][Talk - Stop Writing Classes]]
+- [[https://pypi.python.org/pypi/pyformat][pyformat]] 
 - http://www.pythontutor.com/
-
-
-
-
 - https://talkpython.fm/
   - Episode #100: Python past, present, and future with Guido van Rossum https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum
 - https://www.podcastinit.com
-  
-- vulture - Find dead code https://github.com/jendrikseipp/vulture
-
 - [[https://www.python.org/dev/peps/pep-0008/][PEP008]]
 - http://pep8.org/
 
@@ -146,5 +124,6 @@ Regression testing in all levels
 - [[http://flake8.pycqa.org/en/latest/][flake8]]
 - [[https://www.pylint.org/][pylint]]
 - [[https://pycodestyle.readthedocs.io][pycodestyle]] (previous known as pep8) 
+- [[pycodestyle][vulture]] - Find dead code 
 - [[https://docs.python.org/3.6/library/pdb.html][pdb]]
 - [[https://documen.tician.de/pudb/][PuDB]] is a full-screen, console-based visual debugger for Python
