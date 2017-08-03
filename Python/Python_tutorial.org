@@ -121,6 +121,8 @@ Regression testing in all levels
 * IDEs for Python
 - PyCharm
 - elpy
+- 
+
 * Futher useful libraries
 
 - pomegranate - https://pomegranate.readthedocs.io Fast, flexible and easy to use probabilistic modelling in Python;
@@ -140,6 +142,9 @@ Regression testing in all levels
 * Code documentation
 - [[http://www.sphinx-doc.org][Sphinx]]
 
-* Debugging
-- https://docs.python.org/3.6/library/pdb.html
+* Debugging / Code checking
+- [[http://flake8.pycqa.org/en/latest/][flake8]]
+- [[https://www.pylint.org/][pylint]]
+- [[https://pycodestyle.readthedocs.io][pycodestyle]] (previous known as pep8) 
+- [[https://docs.python.org/3.6/library/pdb.html][pdb]]
 - [[https://documen.tician.de/pudb/][PuDB]] is a full-screen, console-based visual debugger for Python
