@@ -4,10 +4,7 @@
 * Why Python
 
 * Introduction for beginner without programming experiences
-
-- An Introduction to Programming for Bioscientists: A Python-Based Primer
-  http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004867
-
+- [[http://journals.plos.org/ploscompbiol/article?id%3D10.1371/journal.pcbi.1004867][An Introduction to Programming for Bioscientists: A Python-Based Primer]]
 * General hints
 * Misc/Unsorted links
 - write a ~main~ function => get an overview
@@ -60,13 +57,10 @@ Regression testing in all levels
 - http://masnun.com/2016/04/10/python-pyenv-pyvenv-virtualenv-whats-the-difference.html
 
 * Best practices 
-
 - [[https://www.python.org/dev/peps/pep-0008/][PEP 8 - Style Guide for Python Code]]
-- pylint
-- flake8
 - Video: [[https://www.youtube.com/watch?v%3DOSGv2VnC0go][Transforming Code into Beautiful, Idiomatic Python]]
 - [[https://access.redhat.com/blogs/766093/posts/2802001][Pythonic code review]]
-
+- [[https://gist.github.com/JeffPaine/6213790][Transforming Code into Beautiful, Idiomatic Python]]
 * Packaging
 - [[https://packaging.python.org/][Python Packaging User Guide]]
 - [[https://python-packaging.readthedocs.io/][How To Package Your Python Code]]
@@ -79,47 +73,35 @@ Regression testing in all levels
 
 * Cheat Sheet
 - https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
-
-* Biopython
+* Important packages
 - http://biopython.org/
-- [[http://biopython.org/DIST/docs/tutorial/Tutorial.html][Biopython Tutorial and Cookbook]]
-* Numpy/SciPy
-
+  - [[http://biopython.org/DIST/docs/tutorial/Tutorial.html][Biopython Tutorial and Cookbook]]
 - [[http://www.numpy.org/][Numpy]]
 - [[https://www.scipy.org/scipylib/index.html][SciPy]]
-
-* Pandas
-- http://pandas.pydata.org/
-- [[https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf][Pandas cheat sheet]]
-- Podcast: https://www.podcastinit.com/episode-98-pandas-with-jeff-reback/
-- Videos:
-  - [[https://www.youtube.com/watch?v%3D9d5-Ti6onew][A Visual Guide To Pandas]]
-- [[http://pbpython.com/pandas-grouper-agg.html][Pandas Grouper and Agg Functions Explained]]
-
-* IDEs for Python
-- PyCharm
-- elpy
-- 
-
-* Futher useful libraries
-
+- [[http://pandas.pydata.org/][Pandas]]
+  - [[https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf][Pandas cheat sheet]]
+  - Podcast: https://www.podcastinit.com/episode-98-pandas-with-jeff-reback/
+  - Videos:
+    - [[https://www.youtube.com/watch?v%3D9d5-Ti6onew][A Visual Guide To Pandas]]
+    - [[http://pbpython.com/pandas-grouper-agg.html][Pandas Grouper and Agg Functions Explained]]
 - pomegranate - https://pomegranate.readthedocs.io Fast, flexible and easy to use probabilistic modelling in Python;
   For Hidden-Markov-Model, Finite State Machines etc:
 - statsmodels.sourceforge.net  
 - [[https://csvkit.readthedocs.io/][csvkit]]
 
+* IDEs for Python
+- [[https://www.jetbrains.com/pycharm/][PyCharm]]
+- [[https://elpy.readthedocs.io][elpy]] (for Emacs)
+- [[https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/][VIM and Python - a Match Made in Heaven]]
 * Book recommendations
   - [[http://shop.oreilly.com/product/0636920032519.do][Fluent Python]]
-
 * Intermedite / Advanced
-
 - List comprehension
 - Decorators
 - Type hinting (starting from 3.5)
   - https://www.blog.pythonlibrary.org/2016/01/19/python-3-an-intro-to-type-hinting/
 * Code documentation
 - [[http://www.sphinx-doc.org][Sphinx]]
-
 * Debugging / Code checking
 - [[http://flake8.pycqa.org/en/latest/][flake8]]
 - [[https://www.pylint.org/][pylint]]
