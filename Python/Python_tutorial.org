@@ -5,23 +5,6 @@
 
 * Introduction for beginner without programming experiences
 - [[http://journals.plos.org/ploscompbiol/article?id%3D10.1371/journal.pcbi.1004867][An Introduction to Programming for Bioscientists: A Python-Based Primer]]
-* General hints
-* Misc/Unsorted links
-- write a ~main~ function => get an overview
-- https://www.python.org/dev/peps/pep-0008/
-- [[http://docs.python-guide.org/en/latest/writing/structure/][How to organize a Python package]]
-- https://en.wikipedia.org/wiki/Syntactic_sugar
-- Use Python 3 http://pythonclock.org/
-- Scientific Python Cheat Sheet https://github.com/IPGP/scientific_python_cheat_sheet
-- [[https://www.youtube.com/watch?v%3Do9pEzgHorH0][Talk - Stop Writing Classes]]
-- [[https://pypi.python.org/pypi/pyformat][pyformat]] 
-- http://www.pythontutor.com/
-- https://talkpython.fm/
-  - Episode #100: Python past, present, and future with Guido van Rossum https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum
-- https://www.podcastinit.com
-- [[https://www.python.org/dev/peps/pep-0008/][PEP008]]
-- http://pep8.org/
-
 * Testing
 
 - [[https://docs.pytest.org/en/latest/][pytest]]
@@ -48,14 +31,6 @@ Regression testing in all levels
 - http://pythontesting.net/
   - Discussion of the different levels http://pythontesting.net/podcast/27-mahmoud-hashemi-unit-integration-system-testing/
 
-* Environments
-
-- "The pyvenv script has been deprecated as of Python 3.6 in favor of
-  using python3 -m venv to help prevent any potential confusion as to
-  which Python interpreter a virtual environment will be based on."
-  https://docs.python.org/3/library/venv.html
-- http://masnun.com/2016/04/10/python-pyenv-pyvenv-virtualenv-whats-the-difference.html
-
 * Best practices 
 - [[https://www.python.org/dev/peps/pep-0008/][PEP 8 - Style Guide for Python Code]]
 - Video: [[https://www.youtube.com/watch?v%3DOSGv2VnC0go][Transforming Code into Beautiful, Idiomatic Python]]
@@ -71,8 +46,10 @@ Regression testing in all levels
 - http://blog.securem.eu/tips%20and%20tricks/2016/02/29/creating-and-publishing-a-python-module/
 - [[https://github.com/audreyr/cookiecutter-pypackage][Cookiecutter template for a Python package]]
 
-* Cheat Sheet
-- https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+* IDEs for Python
+- [[https://www.jetbrains.com/pycharm/][PyCharm]]
+- [[https://elpy.readthedocs.io][elpy]] (for Emacs)
+- [[https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/][VIM and Python - a Match Made in Heaven]]
 * Important packages
 - http://biopython.org/
   - [[http://biopython.org/DIST/docs/tutorial/Tutorial.html][Biopython Tutorial and Cookbook]]
@@ -89,10 +66,6 @@ Regression testing in all levels
 - statsmodels.sourceforge.net  
 - [[https://csvkit.readthedocs.io/][csvkit]]
 
-* IDEs for Python
-- [[https://www.jetbrains.com/pycharm/][PyCharm]]
-- [[https://elpy.readthedocs.io][elpy]] (for Emacs)
-- [[https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/][VIM and Python - a Match Made in Heaven]]
 * Book recommendations
   - [[http://shop.oreilly.com/product/0636920032519.do][Fluent Python]]
 * Intermedite / Advanced
@@ -109,3 +82,29 @@ Regression testing in all levels
 - [[pycodestyle][vulture]] - Find dead code 
 - [[https://docs.python.org/3.6/library/pdb.html][pdb]]
 - [[https://documen.tician.de/pudb/][PuDB]] is a full-screen, console-based visual debugger for Python
+* Cheat Sheet
+- https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+* Podcasts
+- [[https://talkpython.fm/][Talk Python to me]]
+  - Episode #100: Python past, present, and future with Guido van Rossum https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum
+- https://www.podcastinit.com
+* Environments
+
+- "The pyvenv script has been deprecated as of Python 3.6 in favor of
+  using python3 -m venv to help prevent any potential confusion as to
+  which Python interpreter a virtual environment will be based on."
+  https://docs.python.org/3/library/venv.html
+- http://masnun.com/2016/04/10/python-pyenv-pyvenv-virtualenv-whats-the-difference.html
+
+* Misc/Unsorted links
+- write a ~main~ function => get an overview
+- https://www.python.org/dev/peps/pep-0008/
+- [[http://docs.python-guide.org/en/latest/writing/structure/][How to organize a Python package]]
+- https://en.wikipedia.org/wiki/Syntactic_sugar
+- Use Python 3 http://pythonclock.org/
+- Scientific Python Cheat Sheet https://github.com/IPGP/scientific_python_cheat_sheet
+- [[https://www.youtube.com/watch?v%3Do9pEzgHorH0][Talk - Stop Writing Classes]]
+- [[https://pypi.python.org/pypi/pyformat][pyformat]] 
+- http://www.pythontutor.com/
+
+- http://pep8.org/
