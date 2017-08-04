@@ -1,9 +1,14 @@
 #+TITLE: Git
 
+* Introduction 
+
+- Video: [[https://www.youtube.com/watch?v%3DOqmSzXDrJBk][What is Git - A Quick Introduction to the Git Version Control System]]
+
 - Use only for small files - not for large data set
 
-Most important commands
-- local
+* Most important commands
+
+**  local
   - config (run only for the first time)
   - init
   - add
@@ -12,40 +17,28 @@ Most important commands
   - log
   - status
   - diff
-- remote 
+
+** remote 
   - clone
   - push
   - pull
 
-More advanced
+** More advanced
 - branch
 - stash
+- "git add -p" - [[http://johnkary.net/blog/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/][for selecting parts of a file]] 
+- .git/config
 
-- "git add -p" !
-  http://johnkary.net/blog/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/
-
-https://www.youtube.com/watch?v=OqmSzXDrJBk
-
-https://swcarpentry.github.io/git-novice/
-
-- Ten Simple Rules for Taking Advantage of Git and GitHub
-  http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947
-
-
-- http://learngitbranching.js.org/
-
-- .git/config !
-
-Commit messages
+* Good Commit messages
+- https://github.com/erlang/otp/wiki/Writing-good-commit-messages
 - https://github.com/slashsBin/styleguide-git-commit-message
 - https://chris.beams.io/posts/git-commit/
-- https://github.com/erlang/otp/wiki/Writing-good-commit-messages
 
-
+* Further links
+- http://learngitbranching.js.org/
+- [[http://journals.plos.org/ploscompbiol/article?id%3D10.1371/journal.pcbi.1004947][Ten Simple Rules for Taking Advantage of Git and GitHub]]
+- https://swcarpentry.github.io/git-novice/
 - [[https://24ways.org/2013/keeping-parts-of-your-codebase-private-on-github/][Keeping Parts of Your Codebase Private on GitHub]]
-
 - [[https://marklodato.github.io/visual-git-guide/index-en.html][A Visual Git Reference]]
-
 - [[https://onlywei.github.io/explain-git-with-d3][Visualizing Git Concepts with D3]]
-
 - [[https://www.atlassian.com/git/tutorials][Become a git guru]]
