@@ -14,7 +14,12 @@ Begin with the end in mind: Write some question/aim for each badge.
 - What are version control systemy?
 - What are distributed version control
 - What is git?
-- Which other 
+- Which other?
+*** Task
+- Generate dummy article Markdown file and put put under version
+  control with git
+- Share this it on Github
+
 ** Projekt organization and documentation
 *** Reading recommendations
 
@@ -32,9 +37,11 @@ Begin with the end in mind: Write some question/aim for each badge.
 - & and while
 - unnamed pipes
 ** File types
+** SSH
 ** Short read mappers
 - Tool for HTS (samtools, bedtools, cutadapt, FASTQC) - maybe merge with mappers
-** Python badge starter 
+** Good practices for programming
+** Python beginner 
 - PEP008
 
 *** Questions
@@ -73,7 +80,6 @@ Begin with the end in mind: Write some question/aim for each badge.
 - What is a t-test?
 - What is a p-value
 - What is correction for multiple testing?
-
 
 ** Peer reviewing
 
