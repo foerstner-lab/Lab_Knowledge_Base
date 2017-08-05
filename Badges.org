@@ -8,7 +8,7 @@ Begin with the end in mind: Write some question/aim for each badge.
 
 ** Supervision agreement
 ** Code of conduct
-** Version control system and Git basics
+** Git basics
 *** Reading recommendations
 *** Questions:
 - What are version control systemy?
@@ -17,9 +17,8 @@ Begin with the end in mind: Write some question/aim for each badge.
 - Which other?
 *** Task
 - Generate dummy article Markdown file and put put under version
-  control with git
+  control with git. Make changes.
 - Share this it on Github
-
 ** Projekt organization and documentation
 *** Reading recommendations
 
