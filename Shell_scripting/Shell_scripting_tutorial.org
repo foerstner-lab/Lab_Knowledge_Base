@@ -3,27 +3,33 @@
 * Basic template
 
 #+BEGIN_SRC sh
-#!/bin/bash
-
+#!/usr/bin/env bash
 main(){
-    INPUT_FOLDER=input
-    OUTPUT_FOLDER=output
-
+    readonly input_folder=input
+    readonly output_folder=output
     create_folders
 }
 
 create_folders(){
     mkdir -p \
-        $INPUT_FOLDER \
-        $OUTPUT_FOLDER
+        "${input_folder}" \
+        "${output_folder}"
 }
 
 main
-
 #+END_SRC
 
 
 * Further resources
 
-- http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/
+- [[http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/][Defensive BASH Programming]]
+- [[https://google.github.io/styleguide/shell.xml][Google's Shell Style Guide]]
+- [[https://github.com/progrium/bashstyle][Bash Style]]
+- [[http://bash3boilerplate.sh/][Bash 3 boilerplate]]
+- [[http://www.tldp.org/LDP/abs/html/index.html][Advanced Bash-Scripting Guide]]
+  - [[http://www.tldp.org/LDP/abs/html/string-manipulation.html][Manipulating Strings]]
 
+* Best Practices
+
+- https://github.com/progrium/bashstyle
+- https://fahdshariff.blogspot.de/2013/10/shell-scripting-best-practices.html
