@@ -26,10 +26,7 @@ main
 - [[https://google.github.io/styleguide/shell.xml][Google's Shell Style Guide]]
 - [[https://github.com/progrium/bashstyle][Bash Style]]
 - [[http://bash3boilerplate.sh/][Bash 3 boilerplate]]
+- [[https://fahdshariff.blogspot.de/2013/10/shell-scripting-best-practices.html][Shell Scripting - Best Practices]]
 - [[http://www.tldp.org/LDP/abs/html/index.html][Advanced Bash-Scripting Guide]]
   - [[http://www.tldp.org/LDP/abs/html/string-manipulation.html][Manipulating Strings]]
 
-* Best Practices
-
-- https://github.com/progrium/bashstyle
-- https://fahdshariff.blogspot.de/2013/10/shell-scripting-best-practices.html
