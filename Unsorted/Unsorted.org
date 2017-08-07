@@ -55,3 +55,5 @@
 
 
 - “Write code as if you had to support it for the rest of your life.” - Yuriy Zubarev
+
+- https://en.wikipedia.org/wiki/Entry_point
