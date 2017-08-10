@@ -36,6 +36,10 @@ Git is your parachut, time machine and much more.
 - https://github.com/erlang/otp/wiki/Writing-good-commit-messages
 - https://github.com/slashsBin/styleguide-git-commit-message
 - https://chris.beams.io/posts/git-commit/
+* Workflows
+- [[https://about.gitlab.com/2014/09/29/gitlab-flow/][Git Flow]]
+- [[http://scottchacon.com/2011/08/31/github-flow.html][GitHub Flow]]
+- [[https://about.gitlab.com/2014/09/29/gitlab-flow/][GitLab Flow]]
 
 * Further links
 - Video: [[https://www.youtube.com/watch?v%3DuR6G2v_WsRA][Introduction to Git - Core Concepts]]
@@ -46,4 +50,3 @@ Git is your parachut, time machine and much more.
 - [[https://onlywei.github.io/explain-git-with-d3][Visualizing Git Concepts with D3]]
 - [[https://www.atlassian.com/git/tutorials][Become a git guru]]
 - [[http://learngitbranching.js.org/][Learn Git Branching]] - cool, interactive page!
-
