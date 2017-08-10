@@ -4,6 +4,7 @@
 
 Git is your parachut, time machine and much more.
 
+- [[https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-8-7][Git can facilitate greater reproducibility and increased transparency in science]]
 - Video: [[https://www.youtube.com/watch?v%3DOqmSzXDrJBk][What is Git - A Quick Introduction to the Git Version Control System]]
 - Use only for small files - not for large data set
 
