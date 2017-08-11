@@ -33,6 +33,23 @@ Git is your parachut, time machine and much more.
 - merge
 - ... much, much more
 
+
+* Solutions to some problems
+
+** Show all commits of a file and get a copy of an old version
+
+Get the history of the file
+
+#+BEGIN_SRC 
+git log -p <FILE_PATH>
+#+END_SRC
+
+Then use the hash sum of a commit of choice:
+
+#+BEGIN_SRC 
+git cat-file -p <SHA1-HASH>:<FILE_PATH> > <ANOTHER_FILE_NAME>
+#+END_SRC
+
 * Good Commit messages
 - https://github.com/erlang/otp/wiki/Writing-good-commit-messages
 - https://github.com/slashsBin/styleguide-git-commit-message
