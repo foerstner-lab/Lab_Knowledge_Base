@@ -2,3 +2,6 @@
 - https://opensource.org/
 - https://pantonprinciples.org
 - https://choosealicense.com/
+
+
+- http://ivory.idyll.org/blog/2015-on-licensing-in-bioinformatics.html
