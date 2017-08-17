@@ -11,3 +11,7 @@
 
 
 - [[https://github.com/rstudio/cheatsheets/blob/master/source/pdfs/list-columns-cheatsheet.pdf][list column cheat sheet]]
+
+
+- Configure via ~.Rprofile~ and ~.Renviron~
+
