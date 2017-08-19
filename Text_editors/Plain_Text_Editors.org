@@ -37,6 +37,7 @@ A selection:
 - [[https://www.youtube.com/watch?v%3DoJTwQvgfgMM][Video "Emacs Org-mode - a system for note-taking and project planning" from the GoogleTechTalks series ]]
 - [[https://elpy.readthedocs.io][elpy - Emacs Python Development Environment]] 
   - run ~M-x elpy-config~ and install pacakges
+  - should automatically suggest completion - if not t can be force by ~M-Tab~
 - Use Emacs in [[https://www.emacswiki.org/emacs/EmacsClient][client mode]] to decrease starting time and make buffers
   accessible between different instances.
 - [[http://ergoemacs.org/emacs/emacs_package_system.html][How to Install Packages Using ELPA, MELPA]]
@@ -47,7 +48,7 @@ A selection:
 - [[https://cestlaz.github.io/stories/emacs/][Using Emacs Series]]
 - Video [[https://www.youtube.com/watch?v%3DmflvdXKyA_g][Emacs as a Python Editor and IDE (Part 2): All the tricks of elpy.el, jedi and rope modes ]] 
 - [[http://www.lysator.liu.se/~tab/artist/][Artist Mode]]
-- 
+- [[https://emacsthemes.com/][Emacs Themes]]
 
 * vi/ vim
 
