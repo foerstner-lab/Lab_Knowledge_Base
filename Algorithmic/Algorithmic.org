@@ -1,0 +1,4 @@
+#+TITLE: Algorithmic
+
+- [[https://github.com/OmkarPathak/pygorithm][Pygorithm - A Python module to learn all the major algorithms on the go]]
+
