@@ -26,7 +26,6 @@ https://www.rstudio.com/
 Advantage:
 - Can interpret several languages (http://yihui.name/knitr/demo/engines/)
 
-
 * Spyder
 
 https://pythonhosted.org/spyder/
@@ -62,3 +61,5 @@ http://www.dexy.it/
 
 Advantages: 
 - Multi language support
+* Cauldron - The Unnotebook
+- http://www.unnotebook.com/
