@@ -81,4 +81,5 @@ Begin with the end in mind: Write some question/aim for each badge.
 - What is correction for multiple testing?
 
 ** Peer reviewing
-
+** Samtools
+** Bedtools
