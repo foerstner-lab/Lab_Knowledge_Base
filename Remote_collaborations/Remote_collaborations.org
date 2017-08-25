@@ -1,0 +1,12 @@
+* Avoid misunderstandings
+
+- Write an agenda before a call
+- Write a summary after the call
+
+* Tools
+** Video
+- Google Hangout
+- jitsi
+** Text 
+- etherpads
+- hackmd.io
