@@ -31,3 +31,18 @@
 	keywords = {visualization},
 	pages = {e1002128},
 }
+
+@article{nitzan_integration_2017,
+	title = {Integration of {Bacterial} {Small} {RNAs} in {Regulatory} {Networks}},
+	volume = {46},
+	url = {https://doi.org/10.1146/annurev-biophys-070816-034058},
+	doi = {10.1146/annurev-biophys-070816-034058},
+	abstract = {Small RNAs (sRNAs) are central regulators of gene expression in bacteria, controlling target genes posttranscriptionally by base pairing with their mRNAs. sRNAs are involved in many cellular processes and have unique regulatory characteristics. In this review, we discuss the properties of regulation by sRNAs and how it differs from and combines with transcriptional regulation. We describe the global characteristics of the sRNA–target networks in bacteria using graph-theoretic approaches and review the local integration of sRNAs in mixed regulatory circuits, including feed-forward loops and their combinations, feedback loops, and circuits made of an sRNA and another regulator, both derived from the same transcript. Finally, we discuss the competition effects in posttranscriptional regulatory networks that may arise over shared targets, shared regulators, and shared resources and how they may lead to signal propagation across the network.},
+	number = {1},
+	urldate = {2017-07-01},
+	journal = {Annual Review of Biophysics},
+	author = {Nitzan, Mor and Rehani, Rotem and Margalit, Hanah},
+	year = {2017},
+	pmid = {28532217},
+	pages = {131--148},
+}
