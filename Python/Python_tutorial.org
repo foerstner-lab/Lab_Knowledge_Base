@@ -3,6 +3,11 @@
 
 * Why Python
 
+Python is powerful general purpose language used by companies like
+[[http://quintagroup.com/cms/python/google][Google]] and [[https://www.infoworld.com/article/2613828/python/why-netflix-is-embracing-python-over-java.html][Netflix]] as well as research institutions like NASA and
+[[https://www.infoworld.com/article/2613828/python/why-netflix-is-embracing-python-over-java.html][CERN]]. It is very expressive and due does usually not need much
+boilerplate code.
+
 * Introduction for beginner without programming experiences
 - [[http://journals.plos.org/ploscompbiol/article?id%3D10.1371/journal.pcbi.1004867][An Introduction to Programming for Bioscientists: A Python-Based Primer]]
 - [[https://docs.python.org/3/][The official documentation]]
