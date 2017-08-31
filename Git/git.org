@@ -2,11 +2,18 @@
 
 * Introduction 
 
-Git is your parachut, time machine and much more.
+[[https://git-scm.com/][Git]] is a distributed version control system that helps to track
+changes in files (ideally plain text) and enables efficient
+collaboration even remotely. In general you should track only small
+files like scripts, configuration files, text file in markdown or
+LaTeX but there is [[https://git-lfs.github.com/][extension for also dealing with larger files]].
+
+Git is your parachut, time machine and much more. While it might look
+a lot of effort in the beginning to use git you will soon that it pays
+of. 
 
 - [[https://scfbm.biomedcentral.com/articles/10.1186/1751-0473-8-7][Git can facilitate greater reproducibility and increased transparency in science]]
 - Video: [[https://www.youtube.com/watch?v%3DOqmSzXDrJBk][What is Git - A Quick Introduction to the Git Version Control System]]
-- Use only for small files - not for large data set
 
 * Most important commands
 
