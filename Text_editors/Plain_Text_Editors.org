@@ -49,6 +49,7 @@ A selection:
 - Video [[https://www.youtube.com/watch?v%3DmflvdXKyA_g][Emacs as a Python Editor and IDE (Part 2): All the tricks of elpy.el, jedi and rope modes ]] 
 - [[http://www.lysator.liu.se/~tab/artist/][Artist Mode]]
 - [[https://emacsthemes.com/][Emacs Themes]]
+- [[https://magit.vc/][Git integration for Emacs]]
 
 * vi/ vim
 
