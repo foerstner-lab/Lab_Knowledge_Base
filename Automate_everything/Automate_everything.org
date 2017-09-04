@@ -1,6 +1,11 @@
 #+TITLE: Automate everything
 
-Examples:
+Motivation:
+- First larger time investment but then saves time
+- Reproducibility and documentation
+
+Examples for other handy tools:
+
 - Have script that informs  you when your job on the server is done
 - Have a script for uploading files to our web server and generate link
   incl. hash sum etc.
