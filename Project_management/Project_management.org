@@ -1,1 +1,4 @@
 - "Plan your work; work your plan"
+
+- [[http://eleganthack.com/the-art-of-the-okr/][The Art of the OKR]]
+
