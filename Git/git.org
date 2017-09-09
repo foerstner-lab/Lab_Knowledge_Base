@@ -16,7 +16,6 @@ of.
 - Video: [[https://www.youtube.com/watch?v%3DOqmSzXDrJBk][What is Git - A Quick Introduction to the Git Version Control System]]
 
 * Most important commands
-
 ** For local use
   - config (run only for the first time)
   - init
@@ -65,6 +64,10 @@ git cat-file -p <SHA1-HASH>:<FILE_PATH> > <ANOTHER_FILE_NAME>
 - [[https://about.gitlab.com/2014/09/29/gitlab-flow/][Git Flow]]
 - [[http://scottchacon.com/2011/08/31/github-flow.html][GitHub Flow]]
 - [[https://about.gitlab.com/2014/09/29/gitlab-flow/][GitLab Flow]]
+* Git LFS
+
+- [[https://git-lfs.github.com/][Git LFS]]
+- [[https://github.com/git-lfs/git-lfs/wiki/Tutorial][Git LFS Tutorial]]
 
 * Further links
 - Video: [[https://www.youtube.com/watch?v%3DuR6G2v_WsRA][Introduction to Git - Core Concepts]]
