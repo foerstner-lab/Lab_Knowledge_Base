@@ -61,7 +61,7 @@ git cat-file -p <SHA1-HASH>:<FILE_PATH> > <ANOTHER_FILE_NAME>
 - https://github.com/slashsBin/styleguide-git-commit-message
 - https://chris.beams.io/posts/git-commit/
 * Workflows
-- [[https://about.gitlab.com/2014/09/29/gitlab-flow/][Git Flow]]
+- [[http://nvie.com/posts/a-successful-git-branching-model/][Git Flow]]
 - [[http://scottchacon.com/2011/08/31/github-flow.html][GitHub Flow]]
 - [[https://about.gitlab.com/2014/09/29/gitlab-flow/][GitLab Flow]]
 * Git LFS
