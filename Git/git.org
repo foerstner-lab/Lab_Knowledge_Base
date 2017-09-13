@@ -39,7 +39,6 @@ of.
 - merge
 - ... much, much more
 
-
 * Solutions to some problems
 
 ** Show all commits of a file and get a copy of an old version
@@ -55,6 +54,11 @@ Then use the hash sum of a commit of choice:
 #+BEGIN_SRC 
 git cat-file -p <SHA1-HASH>:<FILE_PATH> > <ANOTHER_FILE_NAME>
 #+END_SRC
+
+** You have want to have another project/manuscript folder inside you main project
+
+If you for examples have a project on Git lab but want a manuscript
+inside of that shared with collaboration partner you can use [[https://git-scm.com/book/en/v2/Git-Tools-Submodules][submodules]].
 
 * Good Commit messages
 - https://github.com/erlang/otp/wiki/Writing-good-commit-messages
