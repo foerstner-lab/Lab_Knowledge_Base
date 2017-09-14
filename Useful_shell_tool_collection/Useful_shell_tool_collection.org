@@ -2,3 +2,7 @@
 - htop
 - rename
 - 
+
+
+Bioinformatical tools
+- [[http://weblogo.berkeley.edu/][WebLogo]]
