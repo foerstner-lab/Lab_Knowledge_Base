@@ -1,3 +1,5 @@
 - BLAST
 - EMBOSS
 - ClustaW/Omega
+- WebLogo
+- MEME
