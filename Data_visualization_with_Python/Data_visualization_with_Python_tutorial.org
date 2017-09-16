@@ -26,3 +26,6 @@ https://pypi.python.org/pypi/matplotlib-venn
 * Others
 - https://toyplot.readthedocs.io
 - https://plotnine.readthedocs.io
+* Misc
+
+- [[http://pythonplot.com/][Python Plotting for Exploratory Data Analysis]]
