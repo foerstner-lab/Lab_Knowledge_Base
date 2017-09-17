@@ -22,6 +22,7 @@ boilerplate code.
 - [[https://www.olivierverdier.com/posts/2015/04/10/testing-scientific-computing/][Testing in Python for Scientific Computing]]
 - [[https://www.youtube.com/watch?v%3DyACtdj1_IxE][Best Testing Practices for Data Science (Eric J Ma, PyCon 2017, Video)]]
 - SWC - [[https://katyhuff.github.io/python-testing/][Python Testing and Continuous Integration]]
+- [[https://github.com/joeyespo/pytest-watch][pytest-watch - Continuous pytest runner]]
 
 ** Levels
 - Unit testin
