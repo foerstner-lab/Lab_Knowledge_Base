@@ -1,7 +1,8 @@
-http://www.biostathandbook.com/
 
-
-- Why multiple testing correction - [[https://xkcd.com/882/][xkcd comic demostrating the problem]]
+- [[http://www.biostathandbook.com/][Handbook of Biological Statistics]]
+- Why multiple testing correction 
+  - [[https://xkcd.com/882/][xkcd comic demostrating the problem]]
+    - [[https://stats.stackexchange.com/questions/88065/explain-the-xkcd-jelly-bean-comic-what-makes-it-funny][explanation]]
 - [[https://genomeinformatician.blogspot.de/2011/06/five-statistical-things-i-wished-i-had.html][Five statistical things I wished I had been taught 20 years ago ]]
 - [[http://www.statsoft.com/Textbook/Nonparametric-Statistics][How to Analyze Data with Low Quality or Small Samples - Nonparametric Statistics]]
 - [[http://journals.plos.org/ploscompbiol/article?id%3D10.1371/journal.pcbi.1004961][Ten Simple Rules for Effective Statistical Practice]]
