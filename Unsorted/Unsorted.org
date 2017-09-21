@@ -57,3 +57,11 @@
 - “Write code as if you had to support it for the rest of your life.” - Yuriy Zubarev
 
 - https://en.wikipedia.org/wiki/Entry_point
+
+
+- [[https://blog.algorithmia.com/becoming-a-10x-data-scientist/][Becoming a 10x Data Scientist]]
+
+
+- For collaboration partner: [[https://peerj.com/preprints/3183/][Data organization in spreadsheets]]
+
+- [[http://third-bit.com/teaching/][How to Teach Programming (and Other Things)]]
