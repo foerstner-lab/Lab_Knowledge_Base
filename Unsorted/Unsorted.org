@@ -64,4 +64,4 @@
 
 - For collaboration partner: [[https://peerj.com/preprints/3183/][Data organization in spreadsheets]]
 
-- [[http://third-bit.com/teaching/][How to Teach Programming (and Other Things)]]
+

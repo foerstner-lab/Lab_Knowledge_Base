@@ -1,0 +1,15 @@
+#+TITLE: Learning and Teaching
+
+- Feedback!
+  - http://www.lunarbaboon.com/comics/feedback.html
+
+* References
+
+- [[https://swcarpentry.github.io/instructor-training/][Software Carpentry Instructor Training]]
+
+- How Learning Works: Seven Research-Based Principles for Smart
+  Teaching, Susan A. Ambrose, Michael W. Bridges, Michele DiPietro,
+  Marsha C. Lovett, Marie K. Norman, Richard E. Mayer, ISBN:
+  978-0-470-48410-4 336 pages May 2010,
+
+- [[http://third-bit.com/teaching/][How to Teach Programming (and Other Things)]]
