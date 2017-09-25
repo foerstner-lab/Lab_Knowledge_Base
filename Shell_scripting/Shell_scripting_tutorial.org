@@ -29,4 +29,4 @@ main
 - [[https://fahdshariff.blogspot.de/2013/10/shell-scripting-best-practices.html][Shell Scripting - Best Practices]]
 - [[http://www.tldp.org/LDP/abs/html/index.html][Advanced Bash-Scripting Guide]]
   - [[http://www.tldp.org/LDP/abs/html/string-manipulation.html][Manipulating Strings]]
-
+- [[http://www.pixelbeat.org/docs/unix-parallel-tools.html][Parallel processing with unix tools]]
