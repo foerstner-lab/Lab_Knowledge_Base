@@ -1,2 +1,5 @@
+#+TITLE: Jupyter
+
+
 - https://jupyter.org/
-- https://github.com/jupyterlab/jupyterlab
+- [[https://github.com/jupyterlab/jupyterlab][Jupyter Lab]]
