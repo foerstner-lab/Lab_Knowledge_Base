@@ -6,7 +6,7 @@
 * Tools
 ** Video
 - Google Hangout
-- jitsi
+- [[https://meet.jit.si/][jitsi Meet]] (no account required)
 ** Text 
 - etherpads
 - hackmd.io
