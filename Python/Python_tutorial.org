@@ -109,6 +109,7 @@ Regression testing in all levels
 - write a ~main~ function => get an overview
 - https://www.python.org/dev/peps/pep-0008/
 - [[http://docs.python-guide.org/en/latest/writing/structure/][How to organize a Python package]]
+- [[https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b][Intro to Threads and Processes in Python]]
 - https://en.wikipedia.org/wiki/Syntactic_sugar
 - Use Python 3 http://pythonclock.org/
 - Scientific Python Cheat Sheet https://github.com/IPGP/scientific_python_cheat_sheet
