@@ -1,3 +1,5 @@
+#+TITLE: Licenses for opening content, data and source code
+
 - https://creativecommons.org/
 - https://opensource.org/
 - https://pantonprinciples.org
