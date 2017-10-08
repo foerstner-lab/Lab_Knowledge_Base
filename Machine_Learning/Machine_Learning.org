@@ -3,7 +3,7 @@
 ** Links 
   
 - [[https://www.openml.org/][OpenML]]
-
+- [[https://blog.floydhub.com/coding-the-history-of-deep-learning/][Coding the History of Deep Learning]]
 
 ** Articles/Reviews
 
