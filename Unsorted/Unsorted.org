@@ -65,3 +65,5 @@
 - For collaboration partner: [[https://peerj.com/preprints/3183/][Data organization in spreadsheets]]
 
 - [[https://www.learning-theories.com/self-theories-dweck.html][Self-Theories by Carol Dweck]] - entity vs. incremental
+
+- [[https://www.ncbi.nlm.nih.gov/refseq/about/prokaryotes/reannotation/][Documentation of NCBI's Prokaryotic RefSeq Genome Re-annotation Project]]
