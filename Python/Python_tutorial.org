@@ -65,6 +65,7 @@ Regression testing in all levels
 - [[http://www.numpy.org/][Numpy]]
 - [[https://www.scipy.org/scipylib/index.html][SciPy]]
 - [[http://pandas.pydata.org/][Pandas]]
+  - [[https://pandas.pydata.org/pandas-docs/stable/10min.html][10 Minutes to pandas]]
   - [[https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf][Pandas cheat sheet]]
   - Podcast: https://www.podcastinit.com/episode-98-pandas-with-jeff-reback/
   - Videos:
