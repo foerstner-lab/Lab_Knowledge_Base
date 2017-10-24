@@ -11,6 +11,7 @@ boilerplate code.
 * Introduction for beginner without programming experiences
 - [[http://journals.plos.org/ploscompbiol/article?id%3D10.1371/journal.pcbi.1004867][An Introduction to Programming for Bioscientists: A Python-Based Primer]]
 - [[https://docs.python.org/3/][The official documentation]]
+- [[http://www.diveintopython3.net/][Dive Into Python 3]]
 * Testing
 
 - [[https://docs.pytest.org/en/latest/][pytest]]
