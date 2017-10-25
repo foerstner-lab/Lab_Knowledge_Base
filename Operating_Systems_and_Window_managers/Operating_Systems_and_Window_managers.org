@@ -1,0 +1,6 @@
+#+TITLE: Operating Systems and Window managers
+
+- VM vs Dual boot
+- in principle only ssh needed => then work on our GNU/Linux servers
+- still good to have local GNU/Linux installation to get deeper
+  insights
