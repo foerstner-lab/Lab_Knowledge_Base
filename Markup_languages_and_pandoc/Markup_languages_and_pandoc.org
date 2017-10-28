@@ -6,9 +6,17 @@
 * LaTeX
 
 - https://www.latex-project.org/
-- pdflatex
-- xelatex
+
 - https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes
+- Software
+  - pdflatex
+  - xelatex
+  - [[http://www.xm1math.net/texmaker/][Texmaker]]
+  - [[http://texstudio.sourceforge.net/][TeXstudio]]
+  - [[https://kile.sourceforge.io/][Kile]]
+  - Extension for Emacs
+    - [[http://piotrkazmierczak.com/2010/emacs-as-the-ultimate-latex-editor/][Emacs as the Ultimate LaTeX Editor]]
+    - https://www.emacswiki.org/emacs/AutoCompleteSources#toc2
 
 * Markdown
 
