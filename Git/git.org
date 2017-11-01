@@ -75,6 +75,7 @@ inside of that shared with collaboration partner you can use [[https://git-scm.c
 
 * Further links
 - Video: [[https://www.youtube.com/watch?v%3DuR6G2v_WsRA][Introduction to Git - Core Concepts]]
+- [[http://journals.plos.org/ploscompbiol/article?id%3D10.1371/journal.pcbi.1004668][A Quick Introduction to Version Control with Git and GitHub]] (PLOS Comp Bio)
 - [[http://journals.plos.org/ploscompbiol/article?id%3D10.1371/journal.pcbi.1004947][Ten Simple Rules for Taking Advantage of Git and GitHub]]
 - https://swcarpentry.github.io/git-novice/
 - [[https://24ways.org/2013/keeping-parts-of-your-codebase-private-on-github/][Keeping Parts of Your Codebase Private on GitHub]]
