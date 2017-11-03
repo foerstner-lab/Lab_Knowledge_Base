@@ -1,4 +1,6 @@
-Before you start:
+#+TITLE: Writing a thesis
+
+Before you start your project:
 - Write an  expose / research proposal about your project https://en.wikipedia.org/wiki/Research_proposal
 
 - Begin with the end in mind: Generate a thesis document that you can;
@@ -11,6 +13,5 @@ Master thesis:
 - You are responsible for your work
 
 - There are **rare** cases where a Wikipedia article can be used as a
-reference. If so give the exact version.
-
-- 
+  reference. If so give the exact version (use the links in the
+  history tab).
