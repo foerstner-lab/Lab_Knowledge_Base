@@ -1,6 +1,7 @@
-
+#+TITLE: Maintaining a lab journal
 
 - Include aim of a project
 - Description of used data
 - Literatur references
-- Meeting protocols
+- Meeting/call protocols
+- Report about analysis the conclusion based on them
