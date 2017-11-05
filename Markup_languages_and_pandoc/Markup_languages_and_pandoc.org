@@ -17,6 +17,7 @@
   - Extension for Emacs
     - [[http://piotrkazmierczak.com/2010/emacs-as-the-ultimate-latex-editor/][Emacs as the Ultimate LaTeX Editor]]
     - https://www.emacswiki.org/emacs/AutoCompleteSources#toc2
+  - [[https://mg.readthedocs.io/latexmk.html][Latexmk]]
 
 * Markdown
 
