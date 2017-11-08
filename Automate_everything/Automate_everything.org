@@ -1,11 +1,10 @@
 #+TITLE: Automate everything
 
 Motivation:
-- First larger time investment but then saves time
-- Reproducibility and documentation
+- First larger time investment but on the long term automation saves time
+- Reproducibility and "executable" documentation of your work
 
-Examples for other handy tools:
-
+Examples for some handy tools:
 - Have script that informs  you when your job on the server is done
 - Have a script for uploading files to our web server and generate link
   incl. hash sum etc.
