@@ -1,6 +1,8 @@
 #+TITLE: Operating Systems and Window managers
 
-- VM vs Dual boot
-- in principle only ssh needed => then work on our GNU/Linux servers
+- [[https://en.wikipedia.org/wiki/Unix][Unix]], [[https://en.wikipedia.org/wiki/GNU/Linux][GNU/Linux]], [[https://en.wikipedia.org/wiki/BSD][BSD]] flavors link FreeBSD, NetBSD, OpenBSD
+- Virtual machine (e.g. with VirtualBox) vs. Dual boot
+- In principle only SSH is needed => then work on our Unix servers
 - still good to have local GNU/Linux installation to get deeper
   insights
+- Gnu/Linux Distributions
