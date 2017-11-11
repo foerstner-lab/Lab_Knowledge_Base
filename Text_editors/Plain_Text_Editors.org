@@ -17,6 +17,8 @@ A selection:
 - nano 
 - gedit
 - Kate
+- Atom
+- PyCharm
 
 * Features/Extension
 
@@ -62,4 +64,4 @@ A selection:
 - Video: [[https://www.youtube.com/watch?v%3D5r6yzFEXajQ][vim + tmux - OMG!Code ]]
 - Video https://www.youtube.com/watch?v=67OZNp9Z0CQ
 
-* other text editors
+
