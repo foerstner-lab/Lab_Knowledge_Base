@@ -1,0 +1,13 @@
+#+TITLE:
+
+* General introductions
+
+- Good overview articles
+  - Reuter JA, Spacek DV, Snyder MP. High-throughput sequencing
+    technologies. Mol Cell. 2015 May
+    21;58(4):586-97. https://doi.org/10.1016/j.molcel.2015.05.004. Review. PubMed
+    PMID: 26000844; PubMed Central PMCID: PMC4494749.
+
+* Nanopore
+  
+  - [[http://blogs.nature.com/naturejobs/2017/10/16/techblog-the-nanopore-toolbox/][TechBlog: The nanopore toolbox]]
