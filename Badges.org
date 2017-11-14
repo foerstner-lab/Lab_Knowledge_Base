@@ -4,10 +4,11 @@ Badge should help make sure that group members have a certain set of
 skills. They do not indicate masterhood but a basic understanding of
 the topic and related sources for further learning.
 
-Begin with the end in mind: Write some question/aim for each badge.
+Begin with the end in mind: Write some questions/aims for each badge.
 
 ** Supervision agreement
 ** Code of conduct
+** Server-"Seepferdchen" (server seahorse)
 ** Git basics
 *** Reading recommendations
 *** Questions:
@@ -56,8 +57,7 @@ Begin with the end in mind: Write some question/aim for each badge.
 ** Python bioinformatics
 ** Python pandas
 ** Python packaging/projects
-
-** Questions
+*** Questions
    - Which files belong into a Python project and what is their function?
 ** R basics
 ** R tidyverse
