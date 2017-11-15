@@ -60,6 +60,7 @@ A selection:
 - [[https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/][VIM and Python - a Match Made in Heaven]]
 
 - [[https://medium.com/@peterxjang/how-to-learn-vim-a-four-week-plan-cd8b376a9b85][How To Learn Vim: A Four Week Plan]]
+- [[http://vimsheet.com/][Vim Cheat Sheet]]
 
 - Video: [[https://www.youtube.com/watch?v%3D5r6yzFEXajQ][vim + tmux - OMG!Code ]]
 - Video https://www.youtube.com/watch?v=67OZNp9Z0CQ
