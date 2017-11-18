@@ -1,10 +1,6 @@
 #+Modelling
 
 ** Literature
-   :PROPERTIES:
-   :ID:       65853c21-a064-47f7-ad26-af116bf21581
-   :END:
-
 
 - Bartocci E, Lió P. Computational Modeling, Formal Analysis, and
   Tools for Systems Biology. PLoS Comput Biol. 2016 Jan
