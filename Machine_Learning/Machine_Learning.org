@@ -1,9 +1,13 @@
-* Machine Learning
+#+TITLE: Machine Learning
 
 ** Links 
   
 - [[https://www.openml.org/][OpenML]]
 - [[https://blog.floydhub.com/coding-the-history-of-deep-learning/][Coding the History of Deep Learning]]
+
+** Python libraries
+- [[http://scikit-learn.org/][scikit-learn]] - Numorous ML methods with a cosistent interface
+- [[http://pytorch.org/][pytorch]] - Tensors and Neural Networks 
 
 ** Articles/Reviews
 
