@@ -1,1 +1,3 @@
-- An Open Science Peer Review Oath http://f1000research.com/articles/3-271/v2
+#+TITLE: Peer reviewing
+
+- [[http://f1000research.com/articles/3-271/v2][An Open Science Peer Review Oath]]
