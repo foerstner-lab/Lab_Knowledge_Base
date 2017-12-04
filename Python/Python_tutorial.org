@@ -55,7 +55,6 @@ Regression testing in all levels
 - http://blog.securem.eu/tips%20and%20tricks/2016/02/29/creating-and-publishing-a-python-module/
 - [[https://github.com/audreyr/cookiecutter-pypackage][Cookiecutter template for a Python package]]
 - [[https://jonemo.github.io/neubertify/2017/09/13/publishing-your-first-pypi-package/][Publishing your First PyPI Package by/for the Absolute Beginner]]
-
 * IDEs for Python
 - [[https://www.jetbrains.com/pycharm/][PyCharm]]
 - [[https://elpy.readthedocs.io][elpy]] (for Emacs)
@@ -73,6 +72,7 @@ Regression testing in all levels
     - [[https://www.youtube.com/watch?v%3D9d5-Ti6onew][A Visual Guide To Pandas]]
     - [[http://pbpython.com/pandas-grouper-agg.html][Pandas Grouper and Agg Functions Explained]]
   - [[https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6][A Beginner’s Guide to Optimizing Pandas Code for Speed]]
+  - [[https://medium.com/dunder-data/how-to-learn-pandas-108905ab4955][How to Learn Pandas]]
 - pomegranate - https://pomegranate.readthedocs.io Fast, flexible and easy to use probabilistic modelling in Python;
   For Hidden-Markov-Model, Finite State Machines etc:
 - statsmodels.sourceforge.net  
