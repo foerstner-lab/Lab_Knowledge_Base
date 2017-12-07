@@ -9,9 +9,9 @@
   - To configure keyword paramater in pythonic way use [[https://cran.r-project.org/web/packages/argparse/index.html][argparse]]
   - [[http://r4ds.had.co.nz/][R for Data Science]]
 
-
 - [[https://github.com/rstudio/cheatsheets/blob/master/source/pdfs/list-columns-cheatsheet.pdf][list column cheat sheet]]
-
 
 - Configure via ~.Rprofile~ and ~.Renviron~
 
+
+- [[https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html][Introduction to R Programming]]
