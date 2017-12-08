@@ -1,5 +1,11 @@
 #+TITLE: Automate everything
 
+Whenever you do something more than once consider to automate it
+e.g. by a simple script or even more suffisticated solution. Data
+analysis should always be scipted in order to make them reproducible
+but also processes like creating a new project, making data available
+for others on server or paper work can often be automized.
+
 Motivation:
 - First larger time investment but on the long term automation saves time
 - Reproducibility and "executable" documentation of your work
@@ -8,3 +14,6 @@ Examples for some handy tools:
 - Have script that informs  you when your job on the server is done
 - Have a script for uploading files to our web server and generate link
   incl. hash sum etc.
+
+Reding recommendations:
+- Free book [[https://automatetheboringstuff.com/][Automate the Boring Stuff with Python]]
