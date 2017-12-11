@@ -15,3 +15,4 @@
 
 
 - [[https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html][Introduction to R Programming]]
+- [[https://www.jessesadler.com/post/excel-vs-r/][Excel vs R: A Brief Introduction to R]]
