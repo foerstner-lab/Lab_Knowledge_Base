@@ -17,3 +17,9 @@ Examples for some handy tools:
 
 Reding recommendations:
 - Free book [[https://automatetheboringstuff.com/][Automate the Boring Stuff with Python]]
+
+
+Workflow tools etc.:
+- Snakemake
+- nextflow
+- gnu parallel
