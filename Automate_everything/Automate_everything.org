@@ -20,6 +20,6 @@ Reding recommendations:
 
 
 Workflow tools etc.:
-- Snakemake
-- nextflow
-- gnu parallel
+- [[https://snakemake.readthedocs.io/][Snakemake]]
+- [[https://www.nextflow.io/][nextflow]]
+- [[https://www.gnu.org/software/parallel/][gnu parallel]]
