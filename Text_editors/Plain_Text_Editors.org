@@ -42,6 +42,7 @@ A selection:
 - [[https://elpy.readthedocs.io][elpy - Emacs Python Development Environment]] 
   - run ~M-x elpy-config~ and install pacakges
   - should automatically suggest completion - if not t can be force by ~M-Tab~
+  - Video [[https://www.youtube.com/watch?v%3D6BlTGPsjGJk][Emacs as a Python IDE]] and [[https://www.youtube.com/watch?v%3DmflvdXKyA_g][Emacs as a Python Editor and IDE (Part 2)]]
 - Use Emacs in [[https://www.emacswiki.org/emacs/EmacsClient][client mode]] to decrease starting time and make buffers
   accessible between different instances.
 - [[http://ergoemacs.org/emacs/emacs_package_system.html][How to Install Packages Using ELPA, MELPA]]
