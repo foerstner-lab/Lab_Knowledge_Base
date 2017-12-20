@@ -51,12 +51,11 @@ A selection:
 - Run the Emacs tutorial: ~C-h t~
 - [[https://magit.vc/][A Git Porcelain inside Emacs]]
 - [[https://cestlaz.github.io/stories/emacs/][Using Emacs Series]]
-- Video [[https://www.youtube.com/watch?v%3DmflvdXKyA_g][Emacs as a Python Editor and IDE (Part 2): All the tricks of elpy.el, jedi and rope modes ]] 
 - [[http://www.lysator.liu.se/~tab/artist/][Artist Mode]]
 - [[https://emacsthemes.com/][Emacs Themes]]
 - [[https://magit.vc/][Git integration for Emacs]]
 - Use C-h m to describe a mode and it's keys
-
+- https://projectile.readthedocs.io/en/latest/
 * vi/ vim
 
 - [[https://github.com/davidhalter/jedi-vim][jedi-vim - awesome Python autocompletion with VIM]]
