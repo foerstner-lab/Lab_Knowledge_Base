@@ -1,3 +1,5 @@
+#+TITLE: Remote Collaborations
+
 * Avoid misunderstandings
 
 - Write an agenda before a call
@@ -7,6 +9,7 @@
 ** Video
 - Google Hangout
 - [[https://meet.jit.si/][jitsi Meet]] (no account required)
+- [[https://about.riot.im/][Riot]]
 ** Text 
 - etherpads
 - hackmd.io
