@@ -1,5 +1,5 @@
-- BLAST
-- EMBOSS
-- ClustaW/Omega
-- WebLogo
-- MEME
+- [[https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE%3DBlastDocs&DOC_TYPE%3DDownload][BLAST]]
+- [[http://emboss.sourceforge.net/][EMBOSS]]
+- [[http://www.clustal.org/][ClustaW/Omega]]
+- [[http://weblogo.berkeley.edu/][WebLogo]]
+- [[http://meme-suite.org/][MEME]]
