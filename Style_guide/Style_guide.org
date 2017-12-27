@@ -1,2 +1,8 @@
+#+TITLE: Stype guides
+
 - Dates
+  - ISO 8606 / see [[https://xkcd.com/1179/][xkcd]]
 - project names
+
+Programing
+- PEP 008
