@@ -83,3 +83,4 @@ inside of that shared with collaboration partner you can use [[https://git-scm.c
 - [[https://onlywei.github.io/explain-git-with-d3][Visualizing Git Concepts with D3]]
 - [[https://www.atlassian.com/git/tutorials][Become a git guru]]
 - [[http://learngitbranching.js.org/][Learn Git Branching]] - cool, interactive page!
+- [[http://ohshitgit.com/][Oh shit, git!]]
