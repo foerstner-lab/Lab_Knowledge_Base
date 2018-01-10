@@ -67,3 +67,5 @@
 - [[https://www.learning-theories.com/self-theories-dweck.html][Self-Theories by Carol Dweck]] - entity vs. incremental
 
 - [[https://www.ncbi.nlm.nih.gov/refseq/about/prokaryotes/reannotation/][Documentation of NCBI's Prokaryotic RefSeq Genome Re-annotation Project]]
+
+- [[https://www.youtube.com/watch?v%3Dr6fZnWeysSY][Learn to make a Graduation Cap]]
