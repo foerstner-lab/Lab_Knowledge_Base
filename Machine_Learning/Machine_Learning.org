@@ -8,6 +8,7 @@
 ** Python libraries
 - [[http://scikit-learn.org/][scikit-learn]] - Numorous ML methods with a cosistent interface
 - [[http://pytorch.org/][pytorch]] - Tensors and Neural Networks 
+- [[https://github.com/hmmlearn/hmmlearn][hmmlearn]]
 
 ** Articles/Reviews
 
