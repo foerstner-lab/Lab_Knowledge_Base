@@ -16,6 +16,8 @@ http://stanford.edu/~mwaskom/software/seaborn/
 * bokeh
 
 http://bokeh.pydata.org
+* HoloViews
+ http://holoviews.org/
 * matplotlib-venn
 
 https://pypi.python.org/pypi/matplotlib-venn
