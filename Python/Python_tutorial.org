@@ -56,6 +56,7 @@ Regression testing in all levels
 - http://blog.securem.eu/tips%20and%20tricks/2016/02/29/creating-and-publishing-a-python-module/
 - [[https://github.com/audreyr/cookiecutter-pypackage][Cookiecutter template for a Python package]]
 - [[https://jonemo.github.io/neubertify/2017/09/13/publishing-your-first-pypi-package/][Publishing your First PyPI Package by/for the Absolute Beginner]]
+- [[https://pipenv.readthedocs.io/en/latest/][Pipenv: Python Dev Workflow for Humans]]
 * IDEs for Python
 - [[https://www.jetbrains.com/pycharm/][PyCharm]]
 - [[https://elpy.readthedocs.io][elpy]] (for Emacs)
