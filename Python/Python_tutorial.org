@@ -15,7 +15,7 @@ boilerplate code.
 * Testing
 
 - [[https://docs.pytest.org/en/latest/][pytest]]
-
+  - [[https://www.youtube.com/watch?v%3DUPanUFVFfzY][Introduction to Unit Testing in Python with Pytest - PyCon 2016]]
 - Cognitive load - small functions - unit testing
 - http://docs.pytest.org/en/latest/
 
@@ -98,9 +98,9 @@ Regression testing in all levels
 - [[pycodestyle][vulture]] - Find dead code 
 - [[https://docs.python.org/3.6/library/pdb.html][pdb]]
 - [[https://documen.tician.de/pudb/][PuDB]] is a full-screen, console-based visual debugger for Python
-* Cheat Sheet
+* Cheat Sheets
 - https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
-
+- 
 * Environments
 
 - "The pyvenv script has been deprecated as of Python 3.6 in favor of
