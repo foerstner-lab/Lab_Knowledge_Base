@@ -57,6 +57,10 @@ Regression testing in all levels
 - [[https://github.com/audreyr/cookiecutter-pypackage][Cookiecutter template for a Python package]]
 - [[https://jonemo.github.io/neubertify/2017/09/13/publishing-your-first-pypi-package/][Publishing your First PyPI Package by/for the Absolute Beginner]]
 - [[https://pipenv.readthedocs.io/en/latest/][Pipenv: Python Dev Workflow for Humans]]
+** Conda
+- [[https://conda.io/docs/_downloads/conda-cheatsheet.pdf][Conda Cheatsheet]]
+- [[https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/][Conda: Myths and Misconceptions]]
+
 * IDEs for Python
 - [[https://www.jetbrains.com/pycharm/][PyCharm]]
 - [[https://elpy.readthedocs.io][elpy]] (for Emacs)
