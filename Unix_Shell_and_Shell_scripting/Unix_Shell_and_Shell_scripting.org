@@ -1,6 +1,25 @@
-#+TITLE: Shell scripting
+#+TITLE: Unix Shell and Shell scripting
 
-* Basic template
+* Unix Shell
+** Run programs in parallel using find and xargs
+
+#+BEGIN_SRC sh
+find . -name "*xml" | xargs -n 1 -P 4 bash long_lasting_analysis.sh
+#+END_SRC
+
+** Run programs in parallel using for-loops, & and wait
+
+#+BEGIN_SRC sh
+for FILE in *txt
+do
+   bash long_lasting_analysis.sh ${FILE} &
+done
+wait
+#+END_SRC
+
+** [[https://www.datascienceatthecommandline.com/][Data Science at the Command Line]]
+* Shell Scripting
+** Basic template
 
 #+BEGIN_SRC sh
 #!/usr/bin/env bash
@@ -19,8 +38,7 @@ create_folders(){
 main
 #+END_SRC
 
-
-* Further resources
+** Further resources
 
 - [[http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/][Defensive BASH Programming]]
 - [[https://google.github.io/styleguide/shell.xml][Google's Shell Style Guide]]
