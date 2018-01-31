@@ -1,5 +1,4 @@
-#+TITLE: Jupyter
-
+#+TITLE: Jupyter Notebook/Lba
 
 - https://jupyter.org/
 - [[https://github.com/jupyterlab/jupyterlab][Jupyter Lab]]
