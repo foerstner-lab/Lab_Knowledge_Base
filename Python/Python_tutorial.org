@@ -103,6 +103,7 @@ Regression testing in all levels
 - [[pycodestyle][vulture]] - Find dead code 
 - [[https://docs.python.org/3.6/library/pdb.html][pdb]]
 - [[https://documen.tician.de/pudb/][PuDB]] is a full-screen, console-based visual debugger for Python
+- [[https://python-hunter.readthedocs.io][Hunter]]
 * Cheat Sheets
 - https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
 - 
