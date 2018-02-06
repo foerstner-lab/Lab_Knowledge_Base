@@ -71,3 +71,18 @@
 - [[https://www.youtube.com/watch?v%3Dr6fZnWeysSY][Learn to make a Graduation Cap]]
 
 - In German: [[http://www.dfg.de/formulare/1_90/][DFG - Empfehlungen für das Erstellen von Betreuungsvereinbarungen]]
+
+- In case you cannot touch type learn it! Now! :) (https://www.linuxlinks.com/typingtutors/)
+
+- Optimize how you interact with you desktop environments. 
+  - set/use keys for often use actions (open terminal, open editor,
+    close window, maximize windoe, switch window etc.)
+  - organising contexts ans transitions between them - e.g.
+    - different Emacs buffers (editing buffer, shell buffer)
+    - tmux windows
+    - stacked windows other and switching with key (for many
+      desktop environents Alt-Tab works) 
+    - tilling window managers
+    - IDE
+
+  
