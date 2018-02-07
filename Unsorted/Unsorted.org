@@ -77,12 +77,12 @@
 - Optimize how you interact with you desktop environments. 
   - set/use keys for often use actions (open terminal, open editor,
     close window, maximize windoe, switch window etc.)
-  - organising contexts ans transitions between them - e.g.
-    - different Emacs buffers (editing buffer, shell buffer)
-    - tmux windows
-    - stacked windows other and switching with key (for many
-      desktop environents Alt-Tab works) 
+  - organising different contexts and transitions between them - e.g.
+    - IDE like PyCharm with panels for different activities or
+      different Emacs buffers (editing buffer, shell buffer)
+    - tmux windows/panels
+    - stacked windows and switching with keyboard shortcuts (for many
+      desktop environents Alt-Tab works)
     - tilling window managers
-    - IDE
-
-  
+    - different virtual desktops or physical screens
+  - Reduce the usage of a compute mouse
