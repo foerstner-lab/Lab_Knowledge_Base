@@ -85,4 +85,6 @@
       desktop environents Alt-Tab works)
     - tilling window managers
     - different virtual desktops or physical screens
+    - Put the editor into the background (Ctr-z), run the test (or
+      other task) and use /fg/ to bring it back to the foreground.
   - Reduce the usage of a compute mouse
