@@ -2,3 +2,5 @@
 
 - [[http://journals.plos.org/plosbiology/article?id%3D10.1371/journal.pbio.1002128][Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm]]
 - The [[http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html][points of view]] series inf Nature Methods
+
+- [[http://colorbrewer2.org/][Color Brewer]]
