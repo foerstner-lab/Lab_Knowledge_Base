@@ -32,6 +32,9 @@
   Biotechnol. 2008 Sep;26(9):1011-3.
   https://doi.org/10.1038/nbt0908-1011
 
+- The Matrix Calculus You Need For Deep Learning, Terence Parr, Jeremy
+  Howard, arXiv:1802.01528, https://arxiv.org/pdf/1802.01528.pdf
+
 ** Books
 
 -  [[http://shop.oreilly.com/product/0636920030515.do][Introduction to Machine Learning with Python - A Guide for Data
