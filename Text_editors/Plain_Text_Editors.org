@@ -57,8 +57,9 @@ A selection:
 - [[https://magit.vc/][Git integration for Emacs]]
 - Use C-h m to describe a mode and it's keys
 - https://projectile.readthedocs.io/en/latest/
+- [[http://www.wilfred.me.uk/blog/2018/01/06/the-emacs-guru-guide-to-key-bindings/][The Emacs Guru Guide to Key Bindings]]
 - Video: [[https://www.youtube.com/watch?v%3D1-dUkyn_fZA][Emacs + org-mode + python in reproducible research]]
-* vi/ vim
+* vi/vim
 
 - [[https://github.com/davidhalter/jedi-vim][jedi-vim - awesome Python autocompletion with VIM]]
 - [[https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/][VIM and Python - a Match Made in Heaven]]
