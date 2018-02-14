@@ -39,6 +39,7 @@ A selection:
 - [[http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/][Absolute Beginner's Guide to Emacs]] 
 - Org-mode
 - [[https://www.inkandben.com/org-mode-resources][Emacs and Org-mode resources]]
+- Video: [[https://www.youtube.com/watch?v%3DbzZ09dAbLEE][Taking Notes In Emacs Org-Mode]]
 - [[https://www.youtube.com/watch?v%3DoJTwQvgfgMM][Video "Emacs Org-mode - a system for note-taking and project planning" from the GoogleTechTalks series ]]
 - [[https://elpy.readthedocs.io][elpy - Emacs Python Development Environment]] 
   - run ~M-x elpy-config~ and install pacakges
@@ -59,6 +60,7 @@ A selection:
 - https://projectile.readthedocs.io/en/latest/
 - [[http://www.wilfred.me.uk/blog/2018/01/06/the-emacs-guru-guide-to-key-bindings/][The Emacs Guru Guide to Key Bindings]]
 - Video: [[https://www.youtube.com/watch?v%3D1-dUkyn_fZA][Emacs + org-mode + python in reproducible research]]
+- https://github.com/emacs-tw/awesome-emacs/blob/master/README.org
 * vi/vim
 
 - [[https://github.com/davidhalter/jedi-vim][jedi-vim - awesome Python autocompletion with VIM]]
