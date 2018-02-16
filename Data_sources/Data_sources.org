@@ -1,11 +1,12 @@
 * Data sources
 
+A collection of common data source we use in our work.
+
 ** Bacteria genomes
 
 ftp://ftp.ncbi.nih.gov/genomes/refseq/bacteria/
 
 Obsolete: ftp://ftp.ncbi.nih.gov/genomes/archive/old_refseq/Bacteria/
-
 
 ** Human and Mouse genome
 
