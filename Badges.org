@@ -42,13 +42,24 @@ Begin with the end in mind: Write some questions/aims for each badge.
 - Tool for HTS (samtools, bedtools, cutadapt, FASTQC) - maybe merge with mappers
 ** Good practices for programming
 ** Python beginner 
-- PEP008
+   
+- [ ] scripts, REPL (python and ipython), Jupyter notebook
+- [ ] variables
+- [ ] literal
+- [ ] data structures (list, tubles, dictionaries)
+- [ ] conditionals
+- [ ] for loops
+- [ ] functions
+- [ ] PEP008
 
 *** Questions
 - What are conditionals
 - What is an iterator
 - What does "pythonic mean?
 ** Python intermediate
+
+- classes
+
 - What is list comprehension?
 - What are generators
 
@@ -62,7 +73,10 @@ Begin with the end in mind: Write some questions/aims for each badge.
 ** R basics
 ** R tidyverse
 ** Rstudio
-** Open licenses
+** Opens Science
+
+- Research cycle
+
 - Creative Commons
 - OSI
 - BSD / MIT / GPL / ISCL
