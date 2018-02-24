@@ -62,6 +62,7 @@ A selection:
 - Video: [[https://www.youtube.com/watch?v%3D1-dUkyn_fZA][Emacs + org-mode + python in reproducible research]]
 - https://github.com/emacs-tw/awesome-emacs/blob/master/README.org
 - [[http://google-ebook.com/blog/2016/01/13/pdf-tools-in-emacs/][Emacs as a pdf reader an annotator with pdf-tools]]
+- [[https://www.emacswiki.org/emacs/LaTeXPreviewPane][LaTeX Preview Pane]]
 * vi/vim
 
 - [[https://github.com/davidhalter/jedi-vim][jedi-vim - awesome Python autocompletion with VIM]]
