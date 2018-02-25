@@ -20,6 +20,7 @@
   - [[https://mg.readthedocs.io/latexmk.html][Latexmk]]
 - [[http://www.texample.net/tikz/][TikZ and PGF]]
   - [[https://www.ctan.org/pkg/smartdiagram][smartdiagram]]
+- https://github.com/egeerardyn/awesome-LaTeX
 
 * Markdown
 
