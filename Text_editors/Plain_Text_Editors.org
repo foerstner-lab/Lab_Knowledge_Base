@@ -63,6 +63,7 @@ A selection:
 - https://github.com/emacs-tw/awesome-emacs/blob/master/README.org
 - [[http://google-ebook.com/blog/2016/01/13/pdf-tools-in-emacs/][Emacs as a pdf reader an annotator with pdf-tools]]
 - [[https://www.emacswiki.org/emacs/LaTeXPreviewPane][LaTeX Preview Pane]]
+- [[https://jblevins.org/projects/deft/][Deft is an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes]]
 * vi/vim
 
 - [[https://github.com/davidhalter/jedi-vim][jedi-vim - awesome Python autocompletion with VIM]]
