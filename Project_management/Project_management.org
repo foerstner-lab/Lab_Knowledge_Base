@@ -1,6 +1,0 @@
-#+TITLE: Project management
-
-- "Plan your work; work your plan"
-
-
-

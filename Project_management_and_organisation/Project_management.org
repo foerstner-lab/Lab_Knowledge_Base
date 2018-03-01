@@ -1,0 +1,10 @@
+#+TITLE: Project management
+
+- "Plan your work; work your plan"
+
+
+When woking with colaborators:
+- At the beginning ask for a expose/abstract
+- Have a share todo list
+
+
