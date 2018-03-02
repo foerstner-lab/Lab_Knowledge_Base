@@ -1,5 +1,8 @@
 #+TITLE: Python coding exercise
 #+AUTHOR: Konrad U. Förstner
+
+ Have a look at the [[https://github.com/The-Sequence-Ontology/Specifications/blob/master/gff3.md][GFF3 specification]]
+
 ** Setting up
 
 Download the Genome of /Salmonella/ Thyphimurium SL1344
