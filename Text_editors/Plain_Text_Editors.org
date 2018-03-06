@@ -1,3 +1,5 @@
+#+TITLE: Texteditors
+
 * Introduction
 
 A plain text editor is for a bioinformatician like a saw for a
@@ -80,4 +82,15 @@ A selection:
 - Video: [[https://www.youtube.com/watch?v%3D5r6yzFEXajQ][vim + tmux - OMG!Code ]]
 - Video https://www.youtube.com/watch?v=67OZNp9Z0CQ
 
+- https://github.com/mhinz/vim-signify
+- https://github.com/nvie/vim-flake8 (syntax and style checker for python source code)
+- https://github.com/vim-syntastic/syntastic (syntax check report)
+- https://github.com/Valloric/YouCompleteMe (code completion engine for vim)
+- https://github.com/jistr/vim-nerdtree-tabs (NERDTree implementation in vim)
+* Atom
 
+- minimap
+- autocomplete-python
+- python-indent
+- linter
+- linter-flake8
