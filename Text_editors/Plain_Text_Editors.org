@@ -89,8 +89,9 @@ A selection:
 - https://github.com/jistr/vim-nerdtree-tabs (NERDTree implementation in vim)
 * Atom
 
-- minimap
-- autocomplete-python
-- python-indent
-- linter
-- linter-flake8
+** Recommended extension
+- [[https://atom.io/packages/minimap][minimap]]
+- [[https://atom.io/packages/autocomplete-python][autocomplete-python]]
+- [[https://atom.io/packages/python-indent][python-indent]]
+- [[https://atom.io/packages/linter][linter]]
+- [[https://atom.io/packages/linter-flake8][linter-flake8]]
