@@ -4,7 +4,7 @@
 
 A plain text editor is for a bioinformatician like a saw for a
 carpenter - it is an essential tool that is basically constantly
-use. We need them to write software, configuration files,
+used. We need them to write software, configuration files,
 documentation and much more. Due to this you should choose wisely
 which editor(s) you use and try to make youself familiar with the
 often used functionalities. Ideally use one editor for all you text
