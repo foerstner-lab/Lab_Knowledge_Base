@@ -3,3 +3,5 @@
 - Docker
 - rkt
 - LXC
+- Singularity
+  - [[http://www.rce-cast.com/Podcast/rce-106-singularity.html][Reseach, Computing and Engineering Podcast 106 - Singularity]]
