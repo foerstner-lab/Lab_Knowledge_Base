@@ -3,3 +3,7 @@
 - Before:
   - Compile agenda
   - Set time frames
+
+- During the meeting:
+  - Attach persons directly to tasks
+
