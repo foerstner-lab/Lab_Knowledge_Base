@@ -84,3 +84,4 @@ inside of that shared with collaboration partner you can use [[https://git-scm.c
 - [[https://www.atlassian.com/git/tutorials][Become a git guru]]
 - [[http://learngitbranching.js.org/][Learn Git Branching]] - cool, interactive page!
 - [[http://ohshitgit.com/][Oh shit, git!]]
+- [[http://www-cs-students.stanford.edu/~blynn/gitmagic/][Git Magic]]
