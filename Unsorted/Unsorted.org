@@ -88,3 +88,7 @@
     - Put the editor into the background (Ctr-z), run the test (or
       other task) and use /fg/ to bring it back to the foreground.
   - Reduce the usage of a compute mouse
+
+
+Working togeter:
+- [[https://en.wikipedia.org/wiki/Hofstede%2527s_cultural_dimensions_theory][Hofstede's cultural dimensions theory]]
