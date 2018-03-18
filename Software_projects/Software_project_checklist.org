@@ -3,3 +3,6 @@
 - Documenation
 - Tests
 - PEP008 etc
+- Contributors
+- Contributing (how to contribute)
+
