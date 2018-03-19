@@ -7,6 +7,6 @@
 
 - [[https://doi.org/10.5281/zenodo.840652][Fact Sheet on Creative Commons & Open Science]] 
 
-- http://ivory.idyll.org/blog/2015-on-licensing-in-bioinformatics.html
+- [[http://ivory.idyll.org/blog/2015-on-licensing-in-bioinformatics.html][On licensing bioinformatics software: use the BSD, Luke.]]
 
 - https://opensource.guide/
