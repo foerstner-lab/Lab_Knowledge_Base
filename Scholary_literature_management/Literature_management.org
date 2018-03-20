@@ -1,2 +1,4 @@
+#+TITLE: Tools for literature management
+
 - [[https://www.zotero.org/][Zotero]]
 - [[http://www.jabref.org/][JabRef]]
