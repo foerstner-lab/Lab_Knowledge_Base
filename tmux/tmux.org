@@ -1,8 +1,9 @@
-* tmux tutorial
+#+TITLE: tmux
 
 tmux is  terminal multiplexer and modern replacement for [[https://www.gnu.org/software/screen/screen.html][GNU screen]].
 
-Practical implication - you can go home and you job is running on server.
+Practical implication - you can go home and your job is running on
+server.
 
 ** Links and reading recommendations
 - [[https://tmux.github.io/][tmux project page]]
