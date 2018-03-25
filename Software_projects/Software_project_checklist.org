@@ -1,8 +1,9 @@
 #+TITLE: How start and maintain a software project
 
+
 - Documenation
 - Tests
 - PEP008 etc
 - Contributors
 - Contributing (how to contribute)
-
+- [[https://github.com/audreyr/cookiecutter-pypackage][Cookiecutter template for a Python package]]
