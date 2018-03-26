@@ -6,3 +6,4 @@
 - still good to have local GNU/Linux installation to get deeper
   insights
 - Gnu/Linux Distributions
+- [[https://i3wm.org/][i3 window manager]]
