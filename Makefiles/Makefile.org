@@ -1,3 +1,5 @@
 #+TITLE: Makefiles
 
 - [[https://www.gnu.org/software/make/manual/html_node/index.html#Top][GNU make documentation]]
+- [[https://krzysztofzuraw.com/blog/2016/makefiles-in-python-projects.html][Makefiles in python projects]]
+
