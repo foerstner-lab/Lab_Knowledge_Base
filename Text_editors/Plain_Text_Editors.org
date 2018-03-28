@@ -73,6 +73,87 @@ A selection:
 - [[https://magit.vc/][Magit]] - A Git Porcelain inside Emacs
 - [[https://github.com/vermiculus/magithub/][Magithub]]
 - helm
+** Recommendations for the init.el
+
+#+BEGIN_SRC 
+; === Misc ===
+;; Added by Package.el.  This must come before configurations of
+;; installed packages. Don't delete this line.  If you don't want it,
+;; just comment it out by adding a semicolon to the start of the line.
+;; You may delete these explanatory comments.  (package-initialize)
+(setq inhibit-startup-message t)
+
+; highlight marked area
+(setq transient-mark-mode t)
+
+; display column number in mode line
+(setq column-number-mode 1)
+
+; display line number in mode line
+(setq line-number-mode 1)
+
+; Word completion with C-c C-g
+(global-set-key [ (control c) (control g) ] 'dabbrev-expand)
+
+; Auto-Completion
+(require 'auto-complete)
+(global-auto-complete-mode t)
+
+;=== helm ====
+
+(require 'helm)
+(require 'helm-config)
+
+(global-set-key (kbd "C-x b") 'helm-buffers-list)
+(global-set-key (kbd "M-x") 'helm-M-x)
+(global-set-key (kbd "M-y") 'helm-show-kill-ring)
+
+(helm-mode 1)
+
+; === Package source ===
+
+(add-to-list 'package-archives
+             '("marmalade" . "http://marmalade-repo.org/packages/"))
+(add-to-list 'package-archives
+             '("melpa" . "http://melpa.org/packages/"))
+
+; === YAsnippet ====
+
+(yas-global-mode 1)
+
+; === org-babel ===
+
+(org-babel-do-load-languages
+ 'org-babel-load-languages
+ '((emacs-lisp . t)
+   (R . t)
+   (sh . t)
+   (emacs-lisp . t)   
+   (python . t)))
+
+(setq org-babel-python-command "python3")
+
+(setq org-confirm-babel-evaluate nil)
+
+(setq org-src-fontify-natively t)
+
+; Elpy
+(setq elpy-rpc-python-command "/opt/anaconda3/bin/python3")
+(setq python-shell-interpreter "/opt/anaconda3/bin/python3")
+(set-face-background 'highlight-indentation-face "#E3E3D3")
+(set-face-background 'highlight-indentation-current-column-face "#E3E3D3")
+(elpy-enable)
+
+; === magit ===
+
+(global-set-key (kbd "C-x g") 'magit-status)
+
+; === git-gutter ===
+; Set marker for changes in comparison to previous commit
+(global-git-gutter-mode +1)
+
+#+END_SRC
+
 * vi/vim
 
 - [[https://github.com/davidhalter/jedi-vim][jedi-vim - awesome Python autocompletion with VIM]]
