@@ -34,15 +34,12 @@ A selection:
   - Remote file editing
 
 * Emacs
+** Basics
 - [[https://www.gnu.org/software/emacs/][Emacs]]
 - [[https://www.gnu.org/software/emacs/tour/][Tour through emacs]] 
 - [[http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/][How to Learn Emacs: A Hand-drawn One-pager for Beginners / A visual tutorial]] (including helpful poster)
 - [[https://www.gnu.org/software/emacs/refcards/pdf/survival.pdf][GNU Emacs Survival Card]]
 - [[http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/][Absolute Beginner's Guide to Emacs]] 
-- Org-mode
-- [[https://www.inkandben.com/org-mode-resources][Emacs and Org-mode resources]]
-- Video: [[https://www.youtube.com/watch?v%3DbzZ09dAbLEE][Taking Notes In Emacs Org-Mode]]
-- [[https://www.youtube.com/watch?v%3DoJTwQvgfgMM][Video "Emacs Org-mode - a system for note-taking and project planning" from the GoogleTechTalks series ]]
 - Use Emacs in [[https://www.emacswiki.org/emacs/EmacsClient][client mode]] to decrease starting time and make buffers
   accessible between different instances.
 - [[http://ergoemacs.org/emacs/emacs_package_system.html][How to Install Packages Using ELPA, MELPA]]
@@ -50,20 +47,20 @@ A selection:
 - [[https://blog.insightdatascience.com/emacs-for-data-science-af814b78eb41][Emacs for Data Science]]
 - Run the Emacs tutorial: ~C-h t~
 - [[https://cestlaz.github.io/stories/emacs/][Using Emacs Series]]
-- [[http://www.lysator.liu.se/~tab/artist/][Artist Mode]]
 - [[https://emacsthemes.com/][Emacs Themes]]
 - [[https://magit.vc/][Git integration for Emacs]]
 - Use C-h m to describe a mode and it's keys
 - https://projectile.readthedocs.io/en/latest/
 - [[http://www.wilfred.me.uk/blog/2018/01/06/the-emacs-guru-guide-to-key-bindings/][The Emacs Guru Guide to Key Bindings]]
-- Video: [[https://www.youtube.com/watch?v%3D1-dUkyn_fZA][Emacs + org-mode + python in reproducible research]]
 - [[https://github.com/emacs-tw/awesome-emacs/blob/master/README.org][Awesome Emacs link collection]]
 - [[http://google-ebook.com/blog/2016/01/13/pdf-tools-in-emacs/][Emacs as a pdf reader an annotator with pdf-tools]]
 - [[https://www.emacswiki.org/emacs/LaTeXPreviewPane][LaTeX Preview Pane]]
-- [[https://jblevins.org/projects/deft/][Deft is an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes]]
-- [[https://github.com/nashamri/academic-phrases][Academic-phrases]]
 ** Useful extensions
 - org-mode
+  - Video: [[https://www.youtube.com/watch?v%3DbzZ09dAbLEE][Taking Notes In Emacs Org-Mode]]
+  - [[https://www.youtube.com/watch?v%3DoJTwQvgfgMM][Video "Emacs Org-mode - a system for note-taking and project planning" from the GoogleTechTalks series ]]
+  - [[https://www.inkandben.com/org-mode-resources][Emacs and Org-mode resources]]
+  - Video: [[https://www.youtube.com/watch?v%3D1-dUkyn_fZA][Emacs + org-mode + python in reproducible research]]
 - [[https://elpy.readthedocs.io][elpy - Emacs Python Development Environment]] 
   - run ~M-x elpy-config~ and install pacakges
   - should automatically suggest completion - if not t can be force by ~M-Tab~
@@ -73,6 +70,9 @@ A selection:
 - [[https://magit.vc/][Magit]] - A Git Porcelain inside Emacs
 - [[https://github.com/vermiculus/magithub/][Magithub]]
 - helm
+- [[https://github.com/nashamri/academic-phrases][Academic-phrases]]
+- [[http://www.lysator.liu.se/~tab/artist/][Artist Mode]]
+- [[https://jblevins.org/projects/deft/][Deft is an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes]]
 ** Recommendations for the init.el
 
 #+BEGIN_SRC 
