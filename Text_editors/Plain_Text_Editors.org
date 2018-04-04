@@ -75,6 +75,8 @@ A selection:
 - [[https://jblevins.org/projects/deft/][Deft is an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes]]
 ** Recommendations for the init.el
 
+Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
+
 #+BEGIN_SRC 
 ; === Misc ===
 ;; Added by Package.el.  This must come before configurations of
