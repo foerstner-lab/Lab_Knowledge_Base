@@ -156,8 +156,9 @@ Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
 
 #+END_SRC
 
-* vi/vim
+* vi/vim/neovim
 
+- [[https://neovim.io/][neovim]]
 - [[https://github.com/davidhalter/jedi-vim][jedi-vim - awesome Python autocompletion with VIM]]
 - [[https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/][VIM and Python - a Match Made in Heaven]]
 
