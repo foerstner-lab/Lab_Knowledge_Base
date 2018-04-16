@@ -24,9 +24,10 @@
 
 * Markdown
 
-https://daringfireball.net/projects/markdown/
+- https://daringfireball.net/projects/markdown/
+- [[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet][Markdown Cheatsheet]]
 
-(Add different flavours)
+(TODO:Add different flavours)
 
 ** Restructured Text
 http://docutils.sourceforge.net/rst.html
