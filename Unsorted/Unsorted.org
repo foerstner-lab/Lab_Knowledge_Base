@@ -95,3 +95,7 @@ Working togeter:
 
 Before you start a PhD write down why you want to do a PhD. In harder
 times this might help you. (F&L 4|2018, p. 305)
+
+- suspend job (Ctr-Z), bringing it back ("fg") or butting them into
+  background ("bg"); show them ("jobs")
+  
