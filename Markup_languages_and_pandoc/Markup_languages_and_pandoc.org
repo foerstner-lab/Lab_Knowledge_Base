@@ -9,8 +9,9 @@
 
 - https://www.sharelatex.com/learn/Learn_LaTeX_in_30_minutes
 - Software
-  - pdflatex
-  - xelatex
+  - [[https://www.tug.org/applications/pdftex/][pdflatex]]
+  - [[http://xetex.sourceforge.net/][xelatex]]
+    - [[https://tex.stackexchange.com/questions/3393/what-is-xetex-exactly-and-why-should-i-use-it][What is XeTeX exactly and why should I use it?]]
   - [[http://www.xm1math.net/texmaker/][Texmaker]]
   - [[http://texstudio.sourceforge.net/][TeXstudio]]
   - [[https://kile.sourceforge.io/][Kile]]
@@ -20,6 +21,7 @@
   - [[https://mg.readthedocs.io/latexmk.html][Latexmk]]
 - [[http://www.texample.net/tikz/][TikZ and PGF]]
   - [[https://www.ctan.org/pkg/smartdiagram][smartdiagram]]
+- [[https://tex.stackexchange.com/questions/36/differences-between-luatex-context-and-xetex][Differences between LuaTeX, ConTeXt and XeTeX]]
 - https://github.com/egeerardyn/awesome-LaTeX
 
 * Markdown
@@ -37,6 +39,7 @@ http://docutils.sourceforge.net/rst.html
 - https://www.gnu.org/software/emacs/
 - [[http://karl-voit.at/2017/09/23/orgmode-as-markup-only/][Org-Mode Is One of the Most Reasonable Markup Language to Use for Text]]
 
+* reStructuredText
 * Pandoc
 http://pandoc.org/
 
