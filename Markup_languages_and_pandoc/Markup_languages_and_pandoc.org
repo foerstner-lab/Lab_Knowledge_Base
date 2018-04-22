@@ -1,9 +1,10 @@
 #+TITLE: Markup languages and pandoc tutorial
 #+AUTHOR: Konrad U. Förstner
 
-* What are markup languages 
-* HTML
-* LaTeX
+* What are markup languages
+* Selection of relevant markup languages
+** HTML
+** LaTeX
 
 - https://www.latex-project.org/
 
@@ -24,22 +25,20 @@
 - [[https://tex.stackexchange.com/questions/36/differences-between-luatex-context-and-xetex][Differences between LuaTeX, ConTeXt and XeTeX]]
 - https://github.com/egeerardyn/awesome-LaTeX
 
-* Markdown
+** Markdown
 
 - https://daringfireball.net/projects/markdown/
 - [[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet][Markdown Cheatsheet]]
-
-(TODO:Add different flavours)
+- Be ware that there are [[https://github.com/commonmark/CommonMark/wiki/Markdown-Flavors][different flavours of markdown]]
 
 ** Restructured Text
-http://docutils.sourceforge.net/rst.html
-* Org-Mode
-
+- http://docutils.sourceforge.net/rst.html
+** Org-Mode
 - http://orgmode.org/
 - https://www.gnu.org/software/emacs/
 - [[http://karl-voit.at/2017/09/23/orgmode-as-markup-only/][Org-Mode Is One of the Most Reasonable Markup Language to Use for Text]]
 
-* reStructuredText
+** reStructuredText
 * Pandoc
 http://pandoc.org/
 
