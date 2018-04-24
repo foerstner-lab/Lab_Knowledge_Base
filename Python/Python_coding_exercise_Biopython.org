@@ -1,0 +1,9 @@
+#+TITLE: Biopython exercise
+
+http://biopython.org/DIST/docs/tutorial/Tutorial.html
+
+- DNA fasta file
+  - reverse complement
+
+- Protein fasta file
+  - Blast all-against-all => extract best-reciprocal-hits
