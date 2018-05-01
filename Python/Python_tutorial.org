@@ -66,6 +66,7 @@ Regression testing in all levels
 - [[https://www.jetbrains.com/pycharm/][PyCharm]]
 - [[https://elpy.readthedocs.io][elpy]] (for Emacs)
 - [[https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/][VIM and Python - a Match Made in Heaven]]
+- [[https://pythonhosted.org/spyder/][Spyder]]
 * Important packages
 - http://biopython.org/
   - [[http://biopython.org/DIST/docs/tutorial/Tutorial.html][Biopython Tutorial and Cookbook]]
