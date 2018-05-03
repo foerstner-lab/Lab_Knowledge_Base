@@ -1,15 +1,12 @@
 #+TITLE: Machine Learning
 
 ** Links 
-  
 - [[https://www.openml.org/][OpenML]]
 - [[https://blog.floydhub.com/coding-the-history-of-deep-learning/][Coding the History of Deep Learning]]
-
 ** Python libraries
 - [[http://scikit-learn.org/][scikit-learn]] - Numorous ML methods with a cosistent interface
 - [[http://pytorch.org/][pytorch]] - Tensors and Neural Networks 
 - [[https://github.com/hmmlearn/hmmlearn][hmmlearn]]
-
 ** Articles/Reviews
 
 - Libbrecht MW, Noble WS. Machine learning applications in genetics
@@ -34,6 +31,16 @@
 
 - The Matrix Calculus You Need For Deep Learning, Terence Parr, Jeremy
   Howard, arXiv:1802.01528, https://arxiv.org/pdf/1802.01528.pdf
+
+- Ching T, Himmelstein DS, Beaulieu-Jones BK, Kalinin AA, Do BT, Way
+  GP, Ferrero E, Agapow PM, Zietz M, Hoffman MM, Xie W, Rosen GL,
+  Lengerich BJ, Israeli J, Lanchantin J, Woloszynek S, Carpenter AE,
+  Shrikumar A, Xu J, Cofer EM, Lavender CA, Turaga SC, Alexandari AM,
+  Lu Z, Harris DJ, DeCaprio D, Qi Y, Kundaje A, Peng Y, Wiley LK,
+  Segler MHS, Boca SM, Swamidass SJ, Huang A, Gitter A, Greene CS.
+  Opportunities and obstacles for deep learning in biology and
+  medicine. J R Soc Interface. 2018
+  Apr;15(141). pii: 20170387. https://doi.org/110.1098/rsif.2017.0387
 
 ** Books
 
