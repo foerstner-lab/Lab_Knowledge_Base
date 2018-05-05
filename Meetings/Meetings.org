@@ -1,9 +1,9 @@
 #+TITLE: Running meetings efficiently
 
 - Before:
-  - Compile agenda
-  - Set time frames
+  - Compile an agenda
+  - Set time frames (tell how long each item should be discussed)
 
 - During the meeting:
-  - Attach persons directly to tasks
-
+  - Attach persons directly to tasks (one single person is responsible
+    for the outcome)
