@@ -3,3 +3,4 @@
 * Principles
 
 - KISS
+- DRY
