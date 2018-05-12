@@ -4,3 +4,4 @@
 
 - KISS
 - DRY
+- YAGNI
