@@ -5,3 +5,5 @@
 - KISS
 - DRY
 - YAGNI
+- SOLID
+
