@@ -2,7 +2,7 @@
 
 * Principles
 
-- KISS - Keep It Simple Stupid
+- [[https://en.wikipedia.org/wiki/KISS_principle][KISS]] - Keep It Simple Stupid
 - DRY - Don't Repeat yourself
 - YAGNI - You Aren’t Gonna Need It
 - SOLID
