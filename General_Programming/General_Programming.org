@@ -3,6 +3,6 @@
 * Principles
 
 - [[https://en.wikipedia.org/wiki/KISS_principle][KISS]] - Keep It Simple Stupid
-- DRY - Don't Repeat yourself
+- [[https://en.wikipedia.org/wiki/Don%2527t_repeat_yourself][DRY]] - Don't Repeat yourself
 - YAGNI - You Aren’t Gonna Need It
 - SOLID
