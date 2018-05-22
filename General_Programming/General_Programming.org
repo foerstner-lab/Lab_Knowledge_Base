@@ -6,3 +6,8 @@
 - [[https://en.wikipedia.org/wiki/Don%2527t_repeat_yourself][DRY]] - Don't Repeat yourself
 - [[https://en.wikipedia.org/wiki/You_aren%2527t_gonna_need_it][YAGNI]] - You Aren’t Gonna Need It
 - SOLID
+  - S - Single Responsibility
+  - O - Open-Closed
+  - L - Liskov Substitution
+  - I - Interface Segregation
+  - D - Dependency Inversion
