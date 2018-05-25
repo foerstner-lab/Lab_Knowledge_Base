@@ -1,5 +1,10 @@
 #+TITLE: General Programming
 
+* Misc
+
+- Congitive Load
+  - [[https://en.wikipedia.org/wiki/Cognitive_load][WP]]
+
 * Principles
 
 - [[https://en.wikipedia.org/wiki/KISS_principle][KISS]] - Keep It Simple Stupid
