@@ -1,5 +1,5 @@
 #+TITLE: Python Web development
 
-- https://www.djangoproject.com/
-- http://flask.pocoo.org/
-- https://trypyramid.com/
+- [[https://www.djangoproject.com/][Django]]
+- [[http://flask.pocoo.org/][Flask]]
+- [[https://trypyramid.com/][Pyramid]]
