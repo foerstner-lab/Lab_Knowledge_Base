@@ -1,5 +1,6 @@
 #+TITLE: Python Web development
 
 - [[https://www.djangoproject.com/][Django]]
+  - [[https://github.com/rosarior/awesome-django][Awesome Django]]
 - [[http://flask.pocoo.org/][Flask]]
 - [[https://trypyramid.com/][Pyramid]]
