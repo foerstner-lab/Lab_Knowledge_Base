@@ -3,4 +3,5 @@
 - [[https://www.djangoproject.com/][Django]]
   - [[https://github.com/rosarior/awesome-django][Awesome Django]]
 - [[http://flask.pocoo.org/][Flask]]
+  - [[https://github.com/humiaozuzu/awesome-flask][Awesome flask]]
 - [[https://trypyramid.com/][Pyramid]]
