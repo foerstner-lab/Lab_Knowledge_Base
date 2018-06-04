@@ -12,3 +12,8 @@ Obsolete: ftp://ftp.ncbi.nih.gov/genomes/archive/old_refseq/Bacteria/
 
 http://www.gencodegenes.org/
 
+** Full text articles from PMC
+
+- https://www.ncbi.nlm.nih.gov/pmc/tools/get-full-text/                                                                                                                       
+- https://www.ncbi.nlm.nih.gov/pmc/tools/ftp/                                                                                                                                 
+- https://europepmc.org/downloads 
