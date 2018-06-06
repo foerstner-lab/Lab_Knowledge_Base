@@ -16,13 +16,14 @@ automatically improve the processing of all these tasks.
 - [[https://en.wikipedia.org/wiki/List_of_text_editors][List of text editors on Wikipedia]]
 
 A selection:
-- Emacs
-- vim
-- nano 
-- gedit
-- Kate
 - Atom
+- Emacs
+- Kate
 - PyCharm
+- Spyder
+- gedit
+- nano 
+- vi(m)
 
 * Features/Extension
 
