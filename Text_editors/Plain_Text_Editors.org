@@ -16,8 +16,8 @@ automatically improve the processing of all these tasks.
 - [[https://en.wikipedia.org/wiki/List_of_text_editors][List of text editors on Wikipedia]]
 
 A selection:
-- Atom
-- Emacs
+- [[http://atom.io/][Atom]]
+- [[https://www.gnu.org/software/emacs/][Emacs]]
 - Kate
 - PyCharm
 - Spyder
@@ -175,6 +175,8 @@ Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
 - https://github.com/Valloric/YouCompleteMe (code completion engine for vim)
 - https://github.com/jistr/vim-nerdtree-tabs (NERDTree implementation in vim)
 * Atom
+
+- http://atom.io/
 
 ** Recommended extension
 - [[https://atom.io/packages/minimap][minimap]]
