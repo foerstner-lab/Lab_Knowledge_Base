@@ -75,6 +75,7 @@ A selection:
 - [[http://www.lysator.liu.se/~tab/artist/][Artist Mode]]
 - [[https://jblevins.org/projects/deft/][Deft is an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes]]
 - [[https://www.emacswiki.org/emacs/AbbrevMode][Abbrev Mode]]
+- [[https://joaotavora.github.io/yasnippet/][YASnippet]]
 ** Recommendations for the init.el
 
 Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
