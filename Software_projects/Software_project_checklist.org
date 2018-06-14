@@ -1,9 +1,13 @@
 #+TITLE: How start and maintain a software project
 
-
 - Documenation
 - Tests
 - PEP008 etc
 - Contributors
 - Contributing (how to contribute)
 - [[https://github.com/audreyr/cookiecutter-pypackage][Cookiecutter template for a Python package]]
+- Citations
+  - [[https://www.force11.org/software-citation-principles][Software Citation Principles]]
+  - [[https://www.software.ac.uk/index.php/blog/2017-12-12-standard-format-citation-files][A standard format for CITATION files]]
+  - [[https://citation-file-format.github.io/][Citation File Format (CFF)]]
+
