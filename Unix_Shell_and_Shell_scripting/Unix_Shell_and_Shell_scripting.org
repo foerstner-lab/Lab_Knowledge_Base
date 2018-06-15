@@ -18,6 +18,9 @@ wait
 #+END_SRC
 
 ** [[https://www.datascienceatthecommandline.com/][Data Science at the Command Line]]
+** Misc links
+- [[http://www.unixguide.net/unix/faq/1.3.shtml][What does {some strange unix command name} stand for?]]
+
 * Shell Scripting
 ** Basic template
 
