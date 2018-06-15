@@ -67,7 +67,7 @@ inside of that shared with collaboration partner you can use [[https://git-scm.c
 * Workflows
 - [[http://nvie.com/posts/a-successful-git-branching-model/][Git Flow]]
 - [[http://scottchacon.com/2011/08/31/github-flow.html][GitHub Flow]]
-- [[https://about.gitlab.com/2014/09/29/gitlab-flow/][GitLab Flow]]
+- [[https://about.gitlab.com/2014/09/29/gitlab-flow/][GitLab Flow]] (and overview of other workflow)
 * Git LFS
 
 - [[https://git-lfs.github.com/][Git LFS]]
