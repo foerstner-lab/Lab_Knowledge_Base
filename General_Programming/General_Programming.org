@@ -4,6 +4,7 @@
 
 - Congitive Load
   - [[https://en.wikipedia.org/wiki/Cognitive_load][WP]]
+- [[https://github.com/ctb/titus-blog/blob/add/command_line_patterns/src/2018-our-command-line-patterns.md][Patterns and anti-patterns for writing command-line bioinformatics software]]
 
 * Principles
 
