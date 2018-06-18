@@ -18,8 +18,9 @@ Examples for some handy tools:
 Reding recommendations:
 - Free book [[https://automatetheboringstuff.com/][Automate the Boring Stuff with Python]]
 
-
 Workflow tools etc.:
 - [[https://snakemake.readthedocs.io/][Snakemake]]
 - [[https://www.nextflow.io/][nextflow]]
 - [[https://www.gnu.org/software/parallel/][gnu parallel]]
+
+- [[https://en.wikipedia.org/wiki/Infrastructure_as_Code][Infrastructure as Code]]
