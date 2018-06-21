@@ -20,6 +20,7 @@ wait
 ** [[https://www.datascienceatthecommandline.com/][Data Science at the Command Line]]
 ** Misc links
 - [[http://www.unixguide.net/unix/faq/1.3.shtml][What does {some strange unix command name} stand for?]]
+- [[https://sanctum.geek.nz/arabesque/series/unix-as-ide/][Unix as IDE: Introduction]]
 
 * Shell Scripting
 ** Basic template
