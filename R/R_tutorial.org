@@ -1,4 +1,4 @@
-#+TITLE: R
+#+TITLE: The programming language R
 
 - [[http://www.r-tutor.com/r-introduction][R Introduction]]
 
