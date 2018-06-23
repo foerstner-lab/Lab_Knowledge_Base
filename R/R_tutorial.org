@@ -2,7 +2,7 @@
 
 - [[http://www.r-tutor.com/r-introduction][R Introduction]]
 
-- ggplot
+- [[https://ggplot2.tidyverse.org/][ggplot2]]
 - Bioconductor
 
 - Usuck R:
