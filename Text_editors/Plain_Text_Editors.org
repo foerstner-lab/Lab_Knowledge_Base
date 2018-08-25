@@ -56,6 +56,7 @@ A selection:
 - [[https://github.com/emacs-tw/awesome-emacs/blob/master/README.org][Awesome Emacs link collection]]
 - [[http://google-ebook.com/blog/2016/01/13/pdf-tools-in-emacs/][Emacs as a pdf reader an annotator with pdf-tools]]
 - [[https://www.emacswiki.org/emacs/LaTeXPreviewPane][LaTeX Preview Pane]]
+- [[https://huytd.github.io/emacs-from-scratch.html][Emacs from scratch]]
 ** Useful extensions
 - org-mode
   - Video: [[https://www.youtube.com/watch?v%3DbzZ09dAbLEE][Taking Notes In Emacs Org-Mode]]
@@ -76,6 +77,7 @@ A selection:
 - [[https://jblevins.org/projects/deft/][Deft is an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes]]
 - [[https://www.emacswiki.org/emacs/AbbrevMode][Abbrev Mode]]
 - [[https://joaotavora.github.io/yasnippet/][YASnippet]]
+- [[https://jblevins.org/projects/markdown-mode/][Markdown Mode]]
 ** Recommendations for the init.el
 
 Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
@@ -159,6 +161,15 @@ Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
 
 #+END_SRC
 
+** Emacs as editor for Python
+   
+- [[https://realpython.com/emacs-the-best-python-editor/][Emacs – The Best Python Editor?]]
+- [[https://elpy.readthedocs.io][elpy]]
+  - some useful keybindings:
+    - ~M-.~ => go to definition (e.g. of function under the cursor)
+    - ~C-c C-d~ => get documentation
+    - ~C-c C-t~ => run test runner (set testrunner with ~M-x elpy-set-test-runner~)
+- Debugging with [[https://github.com/realgud/realgud][realgud]] + [[https://docs.python.org/3/library/pdb.html][pdb]] or (better) [[http:https://github.com/gotcha/ipdb][ipdb]]
 * vi/vim/neovim
 
 - [[https://neovim.io/][neovim]]
