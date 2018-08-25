@@ -161,7 +161,7 @@ Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
 
 #+END_SRC
 
-** Emacs as editor for Python
+** Emacs as Python IDE
    
 - [[https://realpython.com/emacs-the-best-python-editor/][Emacs – The Best Python Editor?]]
 - [[https://elpy.readthedocs.io][elpy]]
