@@ -97,6 +97,7 @@ Regression testing in all levels
   - [[https://nbviewer.jupyter.org/github/austin-taylor/code-vault/blob/master/python_expert_notebook.ipynb][Notebook based on the talk]]
 * Code documentation
 - [[http://www.sphinx-doc.org][Sphinx]]
+- [[https://realpython.com/documenting-python-code/][Documenting Python Code: A Complete Guide]]
 * Debugging / Code checking
 - [[http://flake8.pycqa.org/en/latest/][flake8]]
 - [[https://www.pylint.org/][pylint]]
