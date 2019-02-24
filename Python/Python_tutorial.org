@@ -129,8 +129,8 @@ Regression testing in all levels
 - [[https://pypi.python.org/pypi/pyformat][pyformat]] 
 - http://www.pythontutor.com/
 - [[https://realpython.com/run-python-scripts/][How to Run Your Python Scripts]]
-
 - http://pep8.org/
+- [[https://www.nature.com/articles/d41586-019-00653-5][The ten commandments for learning how to code]]
 * Podcasts
 - [[https://talkpython.fm/][Talk Python to me]]
   - Episode #100: Python past, present, and future with Guido van Rossum https://talkpython.fm/episodes/show/100/python-past-present-and-future-with-guido-van-rossum
