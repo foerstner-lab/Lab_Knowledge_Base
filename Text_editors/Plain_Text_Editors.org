@@ -34,7 +34,8 @@ A selection:
   - Autocompletion
   - Remote file editing
 
-* Emacs
+** Further references for selected editors
+** Emacs
 ** Basics
 - [[https://www.gnu.org/software/emacs/][Emacs]]
 - [[https://www.gnu.org/software/emacs/tour/][Tour through emacs]] 
@@ -49,6 +50,7 @@ A selection:
 - Run the Emacs tutorial: ~C-h t~
 - [[https://cestlaz.github.io/stories/emacs/][Using Emacs Series]]
 - [[https://emacsthemes.com/][Emacs Themes]]
+- https://pawelbx.github.io/emacs-theme-gallery/
 - [[https://magit.vc/][Git integration for Emacs]]
 - Use C-h m to describe a mode and it's keys
 - https://projectile.readthedocs.io/en/latest/
@@ -170,7 +172,7 @@ Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
     - ~C-c C-d~ => get documentation
     - ~C-c C-t~ => run test runner (set testrunner with ~M-x elpy-set-test-runner~)
 - Debugging with [[https://github.com/realgud/realgud][realgud]] + [[https://docs.python.org/3/library/pdb.html][pdb]] or (better) [[http:https://github.com/gotcha/ipdb][ipdb]]
-* vi/vim/neovim
+** vi/vim/neovim
 
 - [[https://neovim.io/][neovim]]
 - [[https://github.com/davidhalter/jedi-vim][jedi-vim - awesome Python autocompletion with VIM]]
@@ -187,7 +189,7 @@ Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
 - https://github.com/vim-syntastic/syntastic (syntax check report)
 - https://github.com/Valloric/YouCompleteMe (code completion engine for vim)
 - https://github.com/jistr/vim-nerdtree-tabs (NERDTree implementation in vim)
-* Atom
+** Atom
 
 - http://atom.io/
 
