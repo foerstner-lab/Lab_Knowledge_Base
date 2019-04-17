@@ -6,10 +6,41 @@ the topic and related sources for further learning.
 
 Begin with the end in mind: Write some questions/aims for each badge.
 
-** Supervision agreement
-** Code of conduct
-** Server-"Seepferdchen" (server seahorse)
-** Git basics
+- States [Active] / [Draft] / [Obsolete]
+- Tags: HTS, Progamming, Software Develeopment
+
+** S0001 - Code of conduct
+   :PROPERTIES:
+   :Version:  1.0
+   :Tags: Legal
+   :State: Draft
+   :END:
+
+- Also refer to ZB MED's person for this
+
+** S0002 - Supervision agreement
+   :PROPERTIES:
+   :Version:  1.0
+   :Tags: Legal
+   :Status: Active
+   :END:
+** S0003 - Start with your document now
+   :PROPERTIES:
+   :Version:  1.0
+   :Tags: Legal
+   :Status: Active
+   :END:
+
+If you start a project thesis ... start writing it already at the
+beginning..
+
+** S000X - Server-"Seepferdchen" (server seahorse)
+** S000X - Use a lab journal
+** S000X - Git basics
+   :PROPERTIES:
+   :Version:  1.0
+   :Tags: Software Develeopment
+   :END:
 *** Reading recommendations
 *** Questions:
 - What are version control systemy?
@@ -20,7 +51,8 @@ Begin with the end in mind: Write some questions/aims for each badge.
 - Generate dummy article Markdown file and put put under version
   control with git. Make changes.
 - Share this it on Github
-** Projekt organization and documentation
+** S000X - Project data organisation
+** S000X - Projekt organization and documentation
 *** Reading recommendations
 
 - Noble WS. A quick guide to organizing computational biology
@@ -29,19 +61,19 @@ Begin with the end in mind: Write some questions/aims for each badge.
   19649301; PubMed Central PMCID:
   PMC2709440. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
 
-** Plain text editors
-** Unix shell - basics
-** Unix shell - advanced
+** S000X - Plain text editors
+** S000X - Unix shell - basics
+** S000X - Unix shell - advanced
 - shell scripts
 - for loops
 - & and while
 - unnamed pipes
-** File types
-** SSH
-** Short read mappers
+** S000X - Plain text files
+** S000X - SSH
+** S000X - Short read mappers
 - Tool for HTS (samtools, bedtools, cutadapt, FASTQC) - maybe merge with mappers
-** Good practices for programming
-** Python beginner 
+** S000X - Good practices for programming
+** S000X - Python beginner 
    
 - [ ] scripts, REPL (python and ipython), Jupyter notebook
 - [ ] variables
@@ -56,44 +88,44 @@ Begin with the end in mind: Write some questions/aims for each badge.
 - What are conditionals
 - What is an iterator
 - What does "pythonic mean?
-** Python intermediate
+** S000X - Python intermediate
 
 - classes
 
 - What is list comprehension?
 - What are generators
 
-** Python testing (unit test, pytest, CI)
-** Python visualisation
-** Python bioinformatics
-** Python pandas
-** Python packaging/projects
+** S000X - Python testing (unit test, pytest, CI)
+** S000X - Python visualisation packages
+** S000X - Python bioinformatics packages
+** S000X - Python pandas
+** S000X - Python packaging/projects
 *** Questions
    - Which files belong into a Python project and what is their function?
-** R basics
-** R tidyverse
-** Rstudio
-** Opens Science
-
-- Research cycle
-
-- Creative Commons
-- OSI
-- BSD / MIT / GPL / ISCL
-** Markup languages
-** Markdown
-** LaTeX
-** Preprints
-** Genome browsers
-** tmux
-** Academic carreer paths
-** Basic Statistics
+** S000X - R basics
+** S000X - R tidyverse
+** S000X - Rstudio
+** S000X - Opens Science - Research Cycle
+** S000X - Creative commons Licenses
+** S000X - Software licenses
+** S000X - Markup languages overview
+** S000X - Markdown
+** S000X - LaTeX
+** S000X - Preprints
+** S000X - Genome browsers
+** S000X - tmux
+** S000X - Academic carreer paths
+** S000X - Basic Statistics
 
 *** Questions
 - What is a t-test?
 - What is a p-value
 - What is correction for multiple testing?
 
-** Peer reviewing
-** Samtools
-** Bedtools
+** S000X - Peer reviewing
+** S000X - Samtools
+** S000X - Bedtools
+** S000X - Continious Integration
+** S000X - Continious Delivery
+** S000X - Rsync
+
