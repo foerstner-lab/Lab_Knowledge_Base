@@ -1,43 +1,64 @@
 #+TITLE: Running meetings efficiently
 
+* General hints
+
+- For larger group there should be person to moderate and one for
+  taking notes
+
 - Before:
   - Compile an agenda
   - Set time frames (tell how long each item should be discussed)
+  - Send agenda early enough to the other participants
+  - Clarify the channel (meeting in person, video call, phone call)
 
 - During the meeting:
-  - Attach persons directly to tasks (one single person is responsible
-    for the outcome)
+  - 
 
+- After the meeting:
+  - Add you task to you own plan.
 
-- [[https://twitter.com/gvwilson/status/994555871429578752][Greg Wilsons tweet series]]
-  - 1. Decide if there actually needs to be a meeting. If the only
-    purpose is to share information, send a brief email instead.
-  - 2. Write and circulate an agenda. If nobody cares enough to do
-     this, the meeting doesn't need to happen.
-  - 3. Include timings in the agenda to help you keep the meeting moving.
-  - 4. Prioritize. Things that will have high impact but take little
-    time should be done first.
-  - 5. Put someone in charge. This doesn't mean doing all the talking,
-    any more than being a referee means kicking the ball the most.
-  - 6. Require politeness. No one gets to be rude and no one gets
-    to ramble (because the purest form of politeness is respecting
-    others' time).
-  - 7. No technology. Insist that everyone put their phones, tablets,
-    and laptops into politeness mode (i.e., closes them).
-  - 8. No interruptions. Participants should raise a finger or put up
-    a sticky note if they want to speak, and the chair should handle
-    sequencing.
-  - 9. Record minutes. Write down the most important pieces of
-    information that were shared, every decision that was made, and
-    every task that was assigned to someone.
-  - 10. Take notes. While other people are talking, participants
-    should take notes of questions they want to ask or points they
-    want to make. (You'll be surprised how smart it makes you look
-    when it's your turn to speak.)
-  - 11. End early. If your meeting is scheduled for 10:00-11:00, you
-    should aim to end at 10:55 to give people time to get where they
-    need to go next.
-  - As soon as the meeting is over, the minutes should be circulated
-    so that people who weren't at the meeting can keep track of what's
-    going on.
+* Meeting minutes:
+
+- Write down results and decission, not the whole discussion
+- Note the next steps and task Attach persons directly to tasks (one
+  single person is responsible for the outcome) it should be clear:
+  Who is doing what until when?
+- And next meeting date, add this for the different time zone if
+  needed
+
+* Greg Wilsons tweet series
+
+[[https://twitter.com/gvwilson/status/994555871429578752][Link]]
+
+- 1. Decide if there actually needs to be a meeting. If the only
+  purpose is to share information, send a brief email instead.
+- 2. Write and circulate an agenda. If nobody cares enough to do this,
+  the meeting doesn't need to happen.
+- 3. Include timings in the agenda to help you keep the meeting
+  moving.
+- 4. Prioritize. Things that will have high impact but take little
+  time should be done first.
+- 5. Put someone in charge. This doesn't mean doing all the talking,
+  any more than being a referee means kicking the ball the most.
+- 6. Require politeness. No one gets to be rude and no one gets to
+  ramble (because the purest form of politeness is respecting others'
+  time).
+- 7. No technology. Insist that everyone put their phones, tablets,
+  and laptops into politeness mode (i.e., closes them).
+- 8. No interruptions. Participants should raise a finger or put up a
+  sticky note if they want to speak, and the chair should handle
+  sequencing.
+- 9. Record minutes. Write down the most important pieces of
+  information that were shared, every decision that was made, and
+  every task that was assigned to someone.
+- 10. Take notes. While other people are talking, participantsshould
+  take notes of questions they want to ask or points they want to
+  make. (You'll be surprised how smart it makes you look when it's
+  your turn to speak.)
+- 11. End early. If your meeting is scheduled for 10:00-11:00, you
+  should aim to end at 10:55 to give people time to get where they
+  need to go next.
+- As soon as the meeting is over, the minutes should be circulated so
+  that people who weren't at the meeting can keep track of what's
+  going on.
   
