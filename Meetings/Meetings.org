@@ -15,7 +15,8 @@
   - 
 
 - After the meeting:
-  - Add you task to you own plan.
+  - Extend the minutes by furter links and background info if needed
+  - Add your tasks to you own plan
 
 * Meeting minutes:
 
