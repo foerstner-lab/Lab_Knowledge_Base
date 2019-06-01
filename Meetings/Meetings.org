@@ -1,4 +1,4 @@
-#+TITLE: Running meetings efficiently
+#+TITLE: How to run and document meetings
 
 * General hints
 
@@ -18,7 +18,7 @@
   - Extend the minutes by furter links and background info if needed
   - Add your tasks to you own plan
 
-* Meeting minutes:
+* Writing meeting minutes
 
 - Write down results and decission, not the whole discussion
 - Note the next steps and task Attach persons directly to tasks (one
