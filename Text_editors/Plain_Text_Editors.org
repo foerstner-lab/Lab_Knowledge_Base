@@ -18,12 +18,11 @@ automatically improve the processing of all these tasks.
 A selection:
 - [[http://atom.io/][Atom]]
 - [[https://www.gnu.org/software/emacs/][Emacs]]
-- Kate
-- PyCharm
-- Spyder
-- gedit
-- nano 
-- vi(m)
+- [[https://kate-editor.org/][Kate]]
+- [[https://www.jetbrains.com/pycharm/][PyCharm]]
+- [[https://www.spyder-ide.org/][Spyder]]
+- [[https://wiki.gnome.org/Apps/Gedit][gedit]]
+- [[https://www.vim.org/][vim]]
 
 * Features/Extension
 

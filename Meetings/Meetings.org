@@ -1,27 +1,28 @@
 #+TITLE: How to run and document meetings
 
-* General hints
+* General procedure
 
 - For larger group there should be person to moderate and one for
   taking notes
 
-- Before:
+- Do before the meeting:
   - Compile an agenda
   - Set time frames (tell how long each item should be discussed)
   - Send agenda early enough to the other participants
   - Clarify the channel (meeting in person, video call, phone call)
 
-- During the meeting:
-  - 
+- Do during the meeting:
+  - take rough notes and ask in case something is not clear
 
-- After the meeting:
+- Do after the meeting:
   - Extend the minutes by furter links and background info if needed
   - Add your tasks to you own plan
 
 * Writing meeting minutes
 
+- Note the date, time and participants
 - Write down results and decission, not the whole discussion
-- Note the next steps and task Attach persons directly to tasks (one
+- Note the next steps and task attach persons directly to tasks (one
   single person is responsible for the outcome) it should be clear:
   Who is doing what until when?
 - And next meeting date, add this for the different time zone if
@@ -52,7 +53,7 @@
 - 9. Record minutes. Write down the most important pieces of
   information that were shared, every decision that was made, and
   every task that was assigned to someone.
-- 10. Take notes. While other people are talking, participantsshould
+- 10. Take notes. While other people are talking, participants should
   take notes of questions they want to ask or points they want to
   make. (You'll be surprised how smart it makes you look when it's
   your turn to speak.)
