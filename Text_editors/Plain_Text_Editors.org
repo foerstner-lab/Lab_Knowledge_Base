@@ -22,6 +22,7 @@ A selection:
 - [[https://www.jetbrains.com/pycharm/][PyCharm]]
 - [[https://www.spyder-ide.org/][Spyder]]
 - [[https://wiki.gnome.org/Apps/Gedit][gedit]]
+- [[https://www.geany.org/][Geany]]
 - [[https://www.vim.org/][vim]]
 
 * Features/Extension
