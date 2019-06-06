@@ -1,0 +1,21 @@
+
+* Format
+
+- Generate the presentation as PDF or HTML file and avoid proprietary
+  platform like prezi to ensure a long term availability and avoid
+  dependencies.
+- PDF - LaTeX beamer
+- HTML
+  - 
+  - [[https://revealjs.com/#/][Reveal.js]]
+  - [[https://impress.js.org/#/overview][impress.js]]
+  
+
+* Content
+
+- Try to avoid copyrighted content and use ideally only CC-BY (or CC0)
+  licensed content; don't forget to add the citation / source.
+- ideally use a CC-BY licence for you slided
+- Work with visuals 
+- Avoid to much text on slides
+- Use high resolution of images if possible
