@@ -3,6 +3,7 @@
 ** Links 
 - [[https://www.openml.org/][OpenML]]
 - [[https://blog.floydhub.com/coding-the-history-of-deep-learning/][Coding the History of Deep Learning]]
+- [[https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/][Visual explanation of the backpropagation algorithm]]
 ** Python libraries
 - [[http://scikit-learn.org/][scikit-learn]] - Numorous ML methods with a cosistent interface
 - [[http://pytorch.org/][pytorch]] - Tensors and Neural Networks 
