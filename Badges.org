@@ -68,6 +68,7 @@ beginning..
 - for loops
 - & and while
 - unnamed pipes
+** S000X - Hash sums
 ** S000X - Plain text files
 ** S000X - SSH (and Mosh)
 
@@ -89,13 +90,18 @@ beginning..
 - What are conditionals
 - What is an iterator
 - What does "pythonic mean?
-** S000X - Python intermediate
+** S000X - Python - object oriented programming
 
 - classes
 
+** S000X - Python - list comprehension
 - What is list comprehension?
 - What are generators
+** S000X - Python - linting
 
+pylint
+black
+** S0000 - Python - type hints
 ** S000X - Python testing (unit test, pytest, CI)
 ** S000X - Python visualisation packages
 ** S000X - Python bioinformatics packages
