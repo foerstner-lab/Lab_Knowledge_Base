@@ -61,7 +61,9 @@ beginning..
   19649301; PubMed Central PMCID:
   PMC2709440. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
 
-** S000X - Plain text editors
+** S000X - Text editors
+** S000X - Text files
+
 ** S000X - Unix shell - basics
 ** S000X - Unix shell - advanced
 - shell scripts
@@ -69,6 +71,8 @@ beginning..
 - & and while
 - unnamed pipes
 ** S000X - Hash sums
+** S000X - Writing dates
+** S000X - Writing tables
 ** S000X - Plain text files
 ** S000X - SSH (and Mosh)
 
@@ -152,3 +156,10 @@ black
 - pgzip, pbzip2, pzx
 
 tar cf myfile.tar.bz2 --use-compress-prog=pbzip2 dir_to_compress/
+** S000X - Password management
+** S000X - Functional enrichment analysis
+
+ClusterProfiler
+- with standard organisms (~enrichKEGG~ or ~enrichGO~)
+- with non-standard organims (~enricher~ or ~GSEA~)
+
