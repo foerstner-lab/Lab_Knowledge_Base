@@ -70,7 +70,7 @@ inside of that shared with collaboration partner you can use [[https://git-scm.c
 - [[https://about.gitlab.com/2014/09/29/gitlab-flow/][GitLab Flow]] (and overview of other workflow)
 * Clients
 - [[https://github.com/jesseduffield/lazygit][lazygit]] - terminal UI
-- [[https://git-scm.com/download/gui/windows][list of misc GUI clients]]
+- [[https://git-scm.com/downloads/guis/][list of misc GUI clients]]
 
 * Git LFS
 
