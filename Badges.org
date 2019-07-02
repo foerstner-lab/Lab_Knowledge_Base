@@ -1,15 +1,17 @@
-#+TITLE: Lab Skill Badges
+#+TITLE: Training Badges
 
-Badge should help make sure that group members have a certain set of
-skills. They do not indicate masterhood but a basic understanding of
-the topic and related sources for further learning.
+Badge should help make sure that group members have a certain knowelge
+or set of skills . They do not indicate masterhood but a basic
+understanding of the topic and related sources for further learning.
 
 Begin with the end in mind: Write some questions/aims for each badge.
 
 - States [Active] / [Draft] / [Obsolete]
 - Tags: Basics, HTS, Progamming, Software Develeopment
 
-** S0001 - Code of conduct
+- "TT" stand for training topic
+
+** TT0001 - Code of conduct
    :PROPERTIES:
    :Version:  1.0
    :Tags: Legal
@@ -18,13 +20,13 @@ Begin with the end in mind: Write some questions/aims for each badge.
 
 - Also refer to ZB MED's person for this
 
-** S0002 - Supervision agreement
+** TT0002 - Supervision agreement
    :PROPERTIES:
    :Version:  1.0
    :Tags: Legal
    :Status: Active
    :END:
-** S0003 - Start with your document now
+** TT0003 - Start with your document now
    :PROPERTIES:
    :Version:  1.0
    :Tags: Legal
@@ -34,9 +36,21 @@ Begin with the end in mind: Write some questions/aims for each badge.
 If you start a project thesis ... start writing it already at the
 beginning..
 
-** S000X - Server-"Seepferdchen" (server seahorse)
-** S000X - Use a lab journal
-** S000X - Git basics
+** TT000X - Server-"Seepferdchen" (server seahorse)
+
+- tmux
+- ssh
+- mosh
+- remote file editing
+- top / htop
+- df 
+- store in data folder not home
+- ansible
+- Anacondo for software
+- Docker / singularity
+
+** TT000X - Lab journal
+** TT000X - Git (+ GitHub/GitLab) basics
    :PROPERTIES:
    :Version:  1.0
    :Tags: Software Develeopment
@@ -51,8 +65,8 @@ beginning..
 - Generate dummy article Markdown file and put put under version
   control with git. Make changes.
 - Share this it on Github
-** S000X - Project data organisation
-** S000X - Projekt organization and documentation
+** TT000X - Project data organisation
+** TT000X - Projekt organization and documentation
 *** Reading recommendations
 
 - Noble WS. A quick guide to organizing computational biology
@@ -61,25 +75,39 @@ beginning..
   19649301; PubMed Central PMCID:
   PMC2709440. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
 
-** S000X - Text editors
-** S000X - Text files
+** TT000X - Text editors
+** TT000X - Text files
 
-** S000X - Unix shell - basics
-** S000X - Unix shell - advanced
+** TT000X - Unix shell - basics
+** TT000X - Unix shell - advanced
 - shell scripts
 - for loops
 - & and while
 - unnamed pipes
-** S000X - Hash sums
-** S000X - Writing dates
-** S000X - Writing tables
-** S000X - Plain text files
-** S000X - SSH (and Mosh)
+** TT000X - Hash sums
+** TT000X - Writing dates
+-**** TT000X - Storing data in tables
 
-** S000X - Short read mappers
+https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
+
+** TT000X - Plain text files
+** TT000X - SSH (and Mosh)
+
+** TT000X - Short read mappers
 - Tool for HTS (samtools, bedtools, cutadapt, FASTQC) - maybe merge with mappers
-** S000X - Good practices for programming
-** S000X - Python beginner 
+** TT000X - Good practices for programming
+** TT000X - Making Software Citable
+
+- [[https://guides.github.com/activities/citable-code/][Automatic workflow for GitHub and Zenodo to the a DOI]]
+- https://citation-file-format.github.io/
+
+** TOO00X - Importnatn persistent identifiers
+
+- DOI
+- ORCID
+- ROR
+
+** TT000X - Python beginner 
    
 - [ ] scripts, REPL (python and ipython), Jupyter notebook
 - [ ] variables
@@ -94,61 +122,95 @@ beginning..
 - What are conditionals
 - What is an iterator
 - What does "pythonic mean?
-** S000X - Python - object oriented programming
+** TT000X - Python - object oriented programming
 
 - classes
 
-** S000X - Python - list comprehension
+** TT000X - Python - list comprehension
 - What is list comprehension?
 - What are generators
-** S000X - Python - linting
+** TT000X - Python - linting
 
 pylint
 black
-** S0000 - Python - type hints
-** S000X - Python testing (unit test, pytest, CI)
-** S000X - Python visualisation packages
-** S000X - Python bioinformatics packages
-** S000X - Python pandas
-** S000X - Python packaging/projects
+** TT0000 - Python - type hints
+** TT000X - Python testing (unit test, pytest, CI)
+
+- pytest
+- code coverage
+- 
+
+** TT000X - Python visualisation packages
+** TT000X - Python bioinformatics packages
+** TT000X - Python pandas
+** TT000X - Python packaging/projects
 *** Questions
    - Which files belong into a Python project and what is their function?
-** S000X - R basics
-** S000X - R tidyverse
-** S000X - Rstudio
-** S000X - Opens Science - Research Cycle
-** S000X - Creative commons licenses
-** S000X - Software licenses
-** S000X - Markup languages overview
-** S000X - Markdown
-** S000X - LaTeX
-** S000X - Preprints
-** S000X - Genome browsers
-** S000X - tmux
-** S000X - Academic carreer paths
-** S000X - Basic Statistics
+** TT000X - R basics
+** TT000X - R tidyverse
+** TT000X - Rstudio
+** TT000X - HTML and CSS
+
+- https://www.w3schools.com/html/default.asp
+- https://www.w3schools.com/html/html_css.asp
+
+** TT000X - Static site generator
+** TTOOOX - Python web programming
+
+- static vs. dynamic
+
+- flask vs. Django
+
+** TT000X - Python flask
+** TT000X - Python Django
+** TT000x - Python - Bioserves
+** TT000X - Opens Science 
+
+- Research Cycle
+
+** TT000X - Creative commons licenses
+** TT000X - Open Source and open software licenses
+
+- Cathedral and Bazaar
+- copyleft vs. permissive
+- Research software 
+- 
+
+** TT000X - Markup languages overview
+** TT000X - Markdown
+** TT000X - LaTeX
+** TT000X - Preprints
+** TT000X - Genome browsers
+** TT000X - tmux
+** TT000X - Academic carreer paths
+** TT000X - Basic Statistics
 
 *** Questions
 - What is a t-test?
 - What is a p-value
 - What is correction for multiple testing?
 
-** S000X - Peer reviewing
-** S000X - Samtools
-** S000X - Bedtools
-** S000X - Continious Integration
-** S000X - Continious Delivery
-** S000X - Rsync
-** S000X - DFG - Good scientific practice
-** S000X - Semantic Versioning
-** S000X - Making a poster
-** S000X - Repositories
+** TT000X - Peer reviewing
+** TT000X - Samtools
+** TT000X - Bedtools
+** TT000X - Continious Integration
+** TT000X - Continious Delivery
+** TT000X - Using Docker containers 
+** TT000X - Using Singularity 
+** TT000X - Rsync
+** TT000X - Good scientific practice guidelinder of the DFG
+** TT000X - Semantic Versioning
+** TT000X - Making a poster
+** TT000X - Research Data Repositories
+
+https://www.re3data.org/
 
 - Zenodo
 - SRA
 - GEO
-** S000X - Meetings
-** S000X - Packing and compressing
+
+** TT000X - Meetings
+** TT000X - Packing and compressing
 
 - tar
 - zip
@@ -156,10 +218,11 @@ black
 - pgzip, pbzip2, pzx
 
 tar cf myfile.tar.bz2 --use-compress-prog=pbzip2 dir_to_compress/
-** S000X - Password management
-** S000X - Functional enrichment analysis
+** TT000X - Password management
+** TT000X - Functional enrichment analysis
 
 ClusterProfiler
 - with standard organisms (~enrichKEGG~ or ~enrichGO~)
 - with non-standard organims (~enricher~ or ~GSEA~)
 
+** TT000X - Wikidata
