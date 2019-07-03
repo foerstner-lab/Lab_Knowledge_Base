@@ -29,13 +29,13 @@ Begin with the end in mind: Write some questions/aims for each badge.
    :PROPERTIES:
    :Version:  0.1
    :Tags: Legal
-   :Status: Active
+   :Status: Draft
    :END:
 ** TT0003 - Start with your document now
    :PROPERTIES:
    :Version:  0.1
    :Tags: Legal
-   :Status: Active
+   :Status: Draft
    :END:
 
 If you start a project thesis ... start writing it already at the
@@ -572,6 +572,9 @@ ClusterProfiler
    :Tags: 
    :State: Draft
    :END:
+
+
+
 ** TT000X - Writing documentation
    :PROPERTIES:
    :Version:  0.1

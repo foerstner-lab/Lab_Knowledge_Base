@@ -99,4 +99,5 @@ management is important.
 
 - suspend job (Ctr-Z), bringing it back ("fg") or butting them into
   background ("bg"); show them ("jobs")
-  
+
+- https://en.wikipedia.org/wiki/Mertonian_norms  
