@@ -7,7 +7,13 @@ understanding of the topic and related sources for further learning.
 Begin with the end in mind: Write some questions/aims for each badge.
 
 - States [Active] / [Draft] / [Obsolete]
-- Tags: Basics, HTS, Progamming, Software Develeopment
+
+- Tags/Categories: 
+  - Group organisation
+  - General Data Science
+  - High throughput sequencing
+  - Software Develeopment
+
 - "TT" stand for training topic
 
 ** TT0001 - Code of conduct
@@ -532,6 +538,21 @@ tar cf myfile.tar.bz2 --use-compress-prog=pbzip2 dir_to_compress/
    :Tags: 
    :State: Draft
    :END:
+
+** TT000X - Differential Gene expression anlysis
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+- DESeq2
+- EdgeR
+- READemption
+- Liu et al.
+
+** TT000X - READemption
+** TT000X - Genome annotations with ANNOgesic
 ** TT000X - Functional enrichment analysis
 
 ClusterProfiler
