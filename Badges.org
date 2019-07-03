@@ -8,12 +8,11 @@ Begin with the end in mind: Write some questions/aims for each badge.
 
 - States [Active] / [Draft] / [Obsolete]
 - Tags: Basics, HTS, Progamming, Software Develeopment
-
 - "TT" stand for training topic
 
 ** TT0001 - Code of conduct
    :PROPERTIES:
-   :Version:  1.0
+   :Version:  0.1
    :Tags: Legal
    :State: Draft
    :END:
@@ -22,13 +21,13 @@ Begin with the end in mind: Write some questions/aims for each badge.
 
 ** TT0002 - Supervision agreement
    :PROPERTIES:
-   :Version:  1.0
+   :Version:  0.1
    :Tags: Legal
    :Status: Active
    :END:
 ** TT0003 - Start with your document now
    :PROPERTIES:
-   :Version:  1.0
+   :Version:  0.1
    :Tags: Legal
    :Status: Active
    :END:
@@ -37,6 +36,12 @@ If you start a project thesis ... start writing it already at the
 beginning..
 
 ** TT000X - Server-"Seepferdchen" (server seahorse)
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
 
 - tmux
 - ssh
@@ -50,9 +55,15 @@ beginning..
 - Docker / singularity
 
 ** TT000X - Lab journal
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
 ** TT000X - Git (+ GitHub/GitLab) basics
    :PROPERTIES:
-   :Version:  1.0
+   :Version:  0.1
    :Tags: Software Develeopment
    :END:
 *** Reading recommendations
@@ -66,7 +77,17 @@ beginning..
   control with git. Make changes.
 - Share this it on Github
 ** TT000X - Project data organisation
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Projekt organization and documentation
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 *** Reading recommendations
 
 - Noble WS. A quick guide to organizing computational biology
@@ -76,37 +97,92 @@ beginning..
   PMC2709440. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
 
 ** TT000X - Text editors
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Text files
-
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Unix shell - basics
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Unix shell - advanced
 - shell scripts
 - for loops
 - & and while
 - unnamed pipes
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Hash sums
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
 ** TT000X - Writing dates
 -**** TT000X - Storing data in tables
 
 https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 
 ** TT000X - Plain text files
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - SSH (and Mosh)
 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Short read mappers
 - Tool for HTS (samtools, bedtools, cutadapt, FASTQC) - maybe merge with mappers
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Good practices for programming
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Making Software Citable
 
 - [[https://guides.github.com/activities/citable-code/][Automatic workflow for GitHub and Zenodo to the a DOI]]
 - https://citation-file-format.github.io/
 
-** TOO00X - Importnatn persistent identifiers
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+** TOO00X - Important persistent identifiers
 
 - DOI
 - ORCID
 - ROR
 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Python beginner 
    
 - [ ] scripts, REPL (python and ipython), Jupyter notebook
@@ -122,53 +198,170 @@ https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 - What are conditionals
 - What is an iterator
 - What does "pythonic mean?
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Python - object oriented programming
 
 - classes
 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Python - list comprehension
 - What is list comprehension?
 - What are generators
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Python - linting
 
 pylint
 black
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT0000 - Python - type hints
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Python testing (unit test, pytest, CI)
-
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 - pytest
 - code coverage
 - 
 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+** TT000X - Python debugging
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Python visualisation packages
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Python bioinformatics packages
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Python pandas
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Python packaging/projects
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 *** Questions
    - Which files belong into a Python project and what is their function?
+** TT000X - Refactoring
 ** TT000X - R basics
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - R tidyverse
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Rstudio
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - HTML and CSS
 
 - https://www.w3schools.com/html/default.asp
 - https://www.w3schools.com/html/html_css.asp
+- https://getbootstrap.com/
 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Static site generator
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TTOOOX - Python web programming
 
 - static vs. dynamic
 
 - flask vs. Django
 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Python flask
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Python Django
-** TT000x - Python - Bioserves
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+** TT000x - Python - Bioservices
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Opens Science 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 
 - Research Cycle
 
 ** TT000X - Creative commons licenses
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Open Source and open software licenses
 
 - Cathedral and Bazaar
@@ -176,14 +369,59 @@ black
 - Research software 
 - 
 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Markup languages overview
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Markdown
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - LaTeX
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Preprints
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Genome browsers
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - tmux
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Academic carreer paths
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Basic Statistics
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 
 *** Questions
 - What is a t-test?
@@ -191,16 +429,71 @@ black
 - What is correction for multiple testing?
 
 ** TT000X - Peer reviewing
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Samtools
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Bedtools
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Continious Integration
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Continious Delivery
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Using Docker containers 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Using Singularity 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Rsync
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Good scientific practice guidelinder of the DFG
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Semantic Versioning
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Making a poster
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Research Data Repositories
 
 https://www.re3data.org/
@@ -209,7 +502,17 @@ https://www.re3data.org/
 - SRA
 - GEO
 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Meetings
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Packing and compressing
 
 - tar
@@ -218,11 +521,40 @@ https://www.re3data.org/
 - pgzip, pbzip2, pzx
 
 tar cf myfile.tar.bz2 --use-compress-prog=pbzip2 dir_to_compress/
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Password management
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Functional enrichment analysis
 
 ClusterProfiler
 - with standard organisms (~enrichKEGG~ or ~enrichGO~)
 - with non-standard organims (~enricher~ or ~GSEA~)
 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Wikidata
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+** TT000X - Writing documentation
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+- https://www.mkdocs.org
+- https://www.sphinx-doc.org
+
