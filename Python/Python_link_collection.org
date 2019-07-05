@@ -14,6 +14,8 @@ boilerplate code.
 - [[http://www.diveintopython3.net/][Dive Into Python 3]]
 * Further link for beginners
 - [[https://realpython.com/python-string-formatting/][Python string formatting]]
+* Object Oriented Programming
+- Video: [[https://www.youtube.com/watch?v=ZDa-Z5JzLYM][Python OOP Tutorial 1: Classes and Instances]]
 * Testing
 
 - [[https://docs.pytest.org/en/latest/][pytest]]
