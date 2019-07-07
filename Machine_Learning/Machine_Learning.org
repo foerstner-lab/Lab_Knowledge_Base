@@ -43,6 +43,10 @@
   medicine. J R Soc Interface. 2018
   Apr;15(141). pii: 20170387. https://doi.org/110.1098/rsif.2017.0387
 
+- Nguyen LH, Holmes S. Ten quick tips for effective dimensionality
+  reduction.  PLoS Comput Biol. 2019 Jun 20;15(6):e1006907. 
+  https://doi.org/10.1371/journal.pcbi.1006907
+
 ** Books
 
 -  [[http://shop.oreilly.com/product/0636920030515.do][Introduction to Machine Learning with Python - A Guide for Data
