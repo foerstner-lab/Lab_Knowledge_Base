@@ -1,4 +1,23 @@
-My structures
+
+- Every step MUST reproducible and must be scripted this includes the
+  data aquisition (exception - data retrieved e.g. from collaboration
+  partner and not from publicly available sources). I repeat - every
+  step must be fully reproducible.
+
+- Write a lab notebook
+- Everything needs to be scripted - from data retrival to 
+  compiling result for collaboratols
+- Keep lab notebook (e.g. markdown or org-mode)
+- Have on dashbord file to get a quick overview of samples and current
+  status
+- Track scripts and documentation in git and GitHub/GitLab
+- use conda to manaage software and ideally use enrivonment and
+  speficy versions
+
+
+- Use the [[https://github.com/foerstner-lab/project_generator][project generator]]
+
+
 #+BEGIN_ASCII
 2017-03-18-Project_name
 ├── analyses
@@ -8,8 +27,34 @@ My structures
 │   └── 2017-03-20-Genome_and_annotation
 ├── docs
 │   └── Notes.org
-└── README.org
+└── README.md
 #+END_ASCII
+
+Do NOT nest analysis deeply
+#+BEGIN_ASCII
+├── analyses
+│   └── 2017-03-20-Read_mapping_libraries_A_and_B
+        └── 2017-03-20-Read_mapping_libraries_A
+            └── 2017-03-20-Read_mapping_libraries_A_genome_1
+            └── 2017-03-20-Read_mapping_libraries_A_genome_2
+        └── 2017-03-20-Read_mapping_libraries_B
+#+END_ASCII
+
+but keep a flat structure to make is possible to get quickly an
+overview of the performed analysis:
+
+#+BEGIN_ASCII
+├── analyses
+│   └── 2017-03-20-Read_mapping_libraries_A_genome_1
+    └── 2017-03-20-Read_mapping_libraries_A_genome_2
+    └── 2017-03-20-Read_mapping_libraries_B
+#+END_ASCII
+
+
+- Each analysis folder should a controller script that represents the
+  anyslsi workflow. That can be shell script (called run.sh), a python
+  script (run.py), a Nextflow file, a Makefile or something similar.
+
 
 References: 
 - [[http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424][A Quick Guide to Organizing Computational Biology Projects]]
