@@ -8,3 +8,23 @@ Misc
 - No pie charts
 - Boxplot with dots representing the underlying data
 - do not only write p-values, but also the test used and the n
+
+
+- Managing Literature
+- Workflow
+  - Creation
+  - preprint servers
+  - submission
+  - review and revision
+  - proofs
+  - advertisment and ORCID
+  
+- Checklist:
+  - Data available
+  - Code available and put on zenodo
+  - Figure
+    - Labels readable
+    - Encoding (colos / shapes) explained
+    - Color blind safe color palet
+
+- [[https://www.nature.com/articles/d41586-019-02918-5][Novelist Cormac McCarthy’s tips on how to write a great science paper]]
