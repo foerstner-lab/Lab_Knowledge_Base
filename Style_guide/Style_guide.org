@@ -4,5 +4,8 @@
   - ISO 8606 / see [[https://xkcd.com/1179/][xkcd]]
 - project names
 
-Programing
+Python Programing
 - PEP 008
+
+Shell
+- Use [[https://www.shellcheck.net/][ShellCeck]] ([[https://github.com/koalaman/shellcheck#user-content-installing][installation]])
