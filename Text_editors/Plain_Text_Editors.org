@@ -34,14 +34,15 @@ A selection:
   - Autocompletion
   - Remote file editing
 
-** Further references for selected editors
+* Further references for selected editors
 ** Emacs
-** Basics
+*** Basics
 - [[https://www.gnu.org/software/emacs/][Emacs]]
 - [[https://www.gnu.org/software/emacs/tour/][Tour through emacs]] 
 - [[http://sachachua.com/blog/2013/05/how-to-learn-emacs-a-hand-drawn-one-pager-for-beginners/][How to Learn Emacs: A Hand-drawn One-pager for Beginners / A visual tutorial]] (including helpful poster)
 - [[https://www.gnu.org/software/emacs/refcards/pdf/survival.pdf][GNU Emacs Survival Card]]
 - [[http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/][Absolute Beginner's Guide to Emacs]] 
+- Use a [[https://www.emacswiki.org/emacs/StarterKits][starter kit]] so get a better default behavior. 
 - Use Emacs in [[https://www.emacswiki.org/emacs/EmacsClient][client mode]] to decrease starting time and make buffers
   accessible between different instances.
 - [[http://ergoemacs.org/emacs/emacs_package_system.html][How to Install Packages Using ELPA, MELPA]]
@@ -59,7 +60,7 @@ A selection:
 - [[http://google-ebook.com/blog/2016/01/13/pdf-tools-in-emacs/][Emacs as a pdf reader an annotator with pdf-tools]]
 - [[https://www.emacswiki.org/emacs/LaTeXPreviewPane][LaTeX Preview Pane]]
 - [[https://huytd.github.io/emacs-from-scratch.html][Emacs from scratch]]
-** Useful extensions
+*** Useful extensions
 - org-mode
   - Video: [[https://www.youtube.com/watch?v%3DbzZ09dAbLEE][Taking Notes In Emacs Org-Mode]]
   - [[https://www.youtube.com/watch?v%3DoJTwQvgfgMM][Video "Emacs Org-mode - a system for note-taking and project planning" from the GoogleTechTalks series ]]
@@ -80,7 +81,7 @@ A selection:
 - [[https://www.emacswiki.org/emacs/AbbrevMode][Abbrev Mode]]
 - [[https://joaotavora.github.io/yasnippet/][YASnippet]]
 - [[https://jblevins.org/projects/markdown-mode/][Markdown Mode]]
-** Recommendations for the init.el
+*** Recommendations for the init.el
 
 Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
 
@@ -163,7 +164,7 @@ Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
 
 #+END_SRC
 
-** Emacs as Python IDE
+*** Emacs as Python IDE
    
 - [[https://realpython.com/emacs-the-best-python-editor/][Emacs – The Best Python Editor?]]
 - [[https://elpy.readthedocs.io][elpy]]
@@ -193,7 +194,7 @@ Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
 
 - http://atom.io/
 
-** Recommended extension
+*** Recommended extension
 - [[https://atom.io/packages/minimap][minimap]]
 - [[https://atom.io/packages/autocomplete-python][autocomplete-python]]
 - [[https://atom.io/packages/python-indent][python-indent]]
