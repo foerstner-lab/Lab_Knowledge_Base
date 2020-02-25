@@ -62,7 +62,7 @@ A selection:
 - [[https://huytd.github.io/emacs-from-scratch.html][Emacs from scratch]]
 *** Useful extensions
 - org-mode
-  - Video: [[https://www.youtube.com/watch?v%3DbzZ09dAbLEE][Taking Notes In Emacs Org-Mode]]
+  - Video: [[https://www.youtube.com/watch?v=bzZ09dAbLEE][Taking Notes In Emacs Org-Mode]]
   - [[https://www.youtube.com/watch?v%3DoJTwQvgfgMM][Video "Emacs Org-mode - a system for note-taking and project planning" from the GoogleTechTalks series ]]
   - [[https://www.inkandben.com/org-mode-resources][Emacs and Org-mode resources]]
   - Video: [[https://www.youtube.com/watch?v%3D1-dUkyn_fZA][Emacs + org-mode + python in reproducible research]]
