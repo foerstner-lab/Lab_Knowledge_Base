@@ -53,6 +53,7 @@ Regression testing in all levels
 - Use key word parameters instead of positional parameters
 * Packaging
 - [[https://packaging.python.org/][Python Packaging User Guide]]
+- [[https://sourcery.ai/blog/python-best-practices/][How to set up a perfect Python project]]
 - [[https://python-packaging.readthedocs.io/][How To Package Your Python Code]]
 - https://conda.io/
 - https://bioconda.github.io/
@@ -124,6 +125,7 @@ Regression testing in all levels
 * Misc/Unsorted links
 - write a ~main~ function => get an overview
 - https://www.python.org/dev/peps/pep-0008/
+- [[https://inventwithpython.com/blog/2018/08/17/the-zen-of-python-explained/][The Zen of Python, Explained]]
 - [[http://docs.python-guide.org/en/latest/writing/structure/][How to organize a Python package]]
 - [[https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b][Intro to Threads and Processes in Python]]
 - https://en.wikipedia.org/wiki/Syntactic_sugar
