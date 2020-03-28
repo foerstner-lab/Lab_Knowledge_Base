@@ -3,5 +3,7 @@
 - [[https://www.docker.com/][Docker]]
 - [[http://singularity.lbl.gov/][Singularity]]
   - [[http://www.rce-cast.com/Podcast/rce-106-singularity.html][Reseach, Computing and Engineering Podcast 106 - Singularity]]
+  - [[https://www.reddit.com/r/docker/comments/7y2yp2/why_is_singularity_used_as_opposed_to_docker_in/][Why is Singularity used as opposed to Docker in HPC and what problems does it solve?]]
+  - [[https://pythonspeed.com/articles/containers-filesystem-data-processing/][Docker vs. Singularity for data processing: UIDs and filesystem access]] 
 - [[https://coreos.com/rkt/][rkt]]
 - [[http:https://linuxcontainers.org/][LXC]]
