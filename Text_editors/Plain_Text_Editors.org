@@ -82,6 +82,7 @@ A selection:
 - [[https://joaotavora.github.io/yasnippet/][YASnippet]]
 - [[https://jblevins.org/projects/markdown-mode/][Markdown Mode]]
 *** Recommendations for the init.el
+- [[https://www.emacswiki.org/emacs/StarterKits][StarterKits]]
 
 Example for an =init.el= file that should be stored in =~/emacs.d/init.el=.
 
