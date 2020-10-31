@@ -1,1 +1,13 @@
 #+TITLE: Pronunciations
+- This document contains English scientific terms, which are often mispronounced by Germans, with appropriate pronunciation guides.
+
+* Scientific Terms
+
+- *analyse & analysis*
+  - analyse: https://dict.leo.org/englisch-deutsch/analyse
+  - Analysis: https://dict.leo.org/englisch-deutsch/analysis
+  - https://www.youtube.com/watch?v=tZlUlaIfmiQ
+  
+- *regional*
+  - https://dict.leo.org/englisch-deutsch/regional
+
