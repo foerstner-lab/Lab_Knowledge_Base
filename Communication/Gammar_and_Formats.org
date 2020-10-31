@@ -1,0 +1,6 @@
+#+TITLE: Grammar and Formats
+
+* Helpful Links
+
+- [[https://www.grammarly.com/blog/how-to-write-dates/][How to Write Dates Correctly in English]]
+- [[https://falconediting.com/en/blog/5-common-grammar-mistakes-scientists-make-in-publications][5 Common Grammar Mistakes Scientists Make in Publications]]
