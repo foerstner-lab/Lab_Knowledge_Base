@@ -25,7 +25,7 @@ Begin with the end in mind: Write some questions/aims for each badge.
 
 - Also refer to ZB MED's person for this
 
-** TT0002 - Supervision agreement
+** TT0002 - Mentoring agreement
    :PROPERTIES:
    :Version:  0.1
    :Tags: Legal
@@ -67,6 +67,14 @@ beginning..
    :State: Draft
    :END:
 
+** TT000X - FAIR data
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: Software Develeopment
+   :END:
+*** Reading recommendations
+*** Questions:
+*** Task
 ** TT000X - Git (+ GitHub/GitLab) basics
    :PROPERTIES:
    :Version:  0.1
@@ -130,6 +138,18 @@ beginning..
    :Tags: 
    :State: Draft
    :END:
+
+** TT000X - Unix shell - advanced
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+File in /etc, /proc and other
+
+- systemd 
+
 ** TT000X - Hash sums
    :PROPERTIES:
    :Version:  0.1
@@ -142,12 +162,6 @@ beginning..
 
 https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 
-** TT000X - Plain text files
-   :PROPERTIES:
-   :Version:  0.1
-   :Tags: 
-   :State: Draft
-   :END:
 ** TT000X - SSH (and Mosh)
 
    :PROPERTIES:
@@ -169,15 +183,15 @@ https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
    :State: Draft
    :END:
 ** TT000X - Making Software Citable
-
-- [[https://guides.github.com/activities/citable-code/][Automatic workflow for GitHub and Zenodo to the a DOI]]
-- https://citation-file-format.github.io/
-
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
+
+- [[https://guides.github.com/activities/citable-code/][Automatic workflow for GitHub and Zenodo to the a DOI]]
+- https://citation-file-format.github.io/
+
 ** TOO00X - Important persistent identifiers
 
 - DOI
@@ -209,6 +223,8 @@ https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
    :Tags: 
    :State: Draft
    :END:
+
+** TT000X - Python - black
 ** TT000X - Python - object oriented programming
 
 - classes
@@ -229,7 +245,7 @@ https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 ** TT000X - Python - linting
 
 pylint
-black
+
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -288,6 +304,12 @@ black
    :END:
 *** Questions
    - Which files belong into a Python project and what is their function?
+** TT000X - Python type checking 
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Refactoring
 ** TT000X - R basics
    :PROPERTIES:
@@ -362,12 +384,13 @@ black
 
 - Research Cycle
 
-** TT000X - Creative commons licenses
+** TT000X - Copyright and Creative commons licenses
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
+
 ** TT000X - Open Source and open software licenses
 
 - Cathedral and Bazaar
@@ -573,8 +596,6 @@ ClusterProfiler
    :State: Draft
    :END:
 
-
-
 ** TT000X - Writing documentation
    :PROPERTIES:
    :Version:  0.1
@@ -583,4 +604,28 @@ ClusterProfiler
    :END:
 - https://www.mkdocs.org
 - https://www.sphinx-doc.org
+
+** TT000X - zsh
+** TT000X - VPN 
+
+- openconnect
+** TT000x - P-values
+
+https://twitter.com/wetlabsucks/status/1192037932481294337?s=09
+
+** TT000x - RSS
+
+https://twitter.com/wetlabsucks/status/1192037932481294337?s=09
+** TT000x - Backups
+
+- rsync
+- restic
+
+** TT000x - Backups
+
+Working collaborative
+
+- Cryptpad
+- etherpnads
+  - https://github.com/ether/etherpad-lite/wiki/Backing-up-and-Restoring-Etherpad-Lite-Pads
 
