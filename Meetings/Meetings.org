@@ -28,6 +28,26 @@
 - And next meeting date, add this for the different time zone if
   needed
 
+#+BEGIN_SRC 
+# Meeting 2019-07-16
+
+## Participants
+- 
+
+## 1 - 
+
+- Report and Discussion
+  - 
+
+- Decisions
+
+- Action items
+  
+
+## 2 - 
+
+#+END_SRC
+
 * Greg Wilsons tweet series
 
 [[https://twitter.com/gvwilson/status/994555871429578752][Link]]
