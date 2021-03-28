@@ -4,11 +4,17 @@
 - [[https://www.openml.org/][OpenML]]
 - [[https://blog.floydhub.com/coding-the-history-of-deep-learning/][Coding the History of Deep Learning]]
 - [[https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/][Visual explanation of the backpropagation algorithm]]
-** Python libraries
+** (Python) libraries
 - [[http://scikit-learn.org/][scikit-learn]] - Numorous ML methods with a cosistent interface
 - [[http://pytorch.org/][pytorch]] - Tensors and Neural Networks 
 - [[https://github.com/hmmlearn/hmmlearn][hmmlearn]]
+- [[https://keras.io/][keras]]
+- [[https://www.tensorflow.org/][tensorflow]]
 ** Articles/Reviews
+
+- Angermueller C, Pärnamaa T, Parts L, Stegle O. Deep learning for
+  computational biology. Mol Syst Biol. 2016 Jul
+  29;12(7):878. https://dx.doi.org/10.15252/msb.20156651
 
 - Libbrecht MW, Noble WS. Machine learning applications in genetics
   and genomics. Nat Rev Genet. 2015 Jun;16(6):321-32,
