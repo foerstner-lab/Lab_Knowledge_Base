@@ -1,0 +1,21 @@
+#+TITLE: Knolwedge Graphs and Linked Open Data
+
+
+* Introductionary Videos
+:PROPERTIES:
+:CREATED:  [2023-11-26]
+:ID:       499d2f74-eb49-4aed-87f6-71026a011f2d
+:END:
+
+- [[https://www.youtube.com/watch?v=NzzAxEPpuJQ][What is the Resource Description Framework (RDF)?]]
+- [[https://www.youtube.com/watch?v=zteyEk9LADs][RDF and OWL : the powerful duo, Tara Raafat]]
+- [[https://www.youtube.com/watch?v=FvGndkpa4K0][SPARQL in 11 minutes]]
+- [[https://www.youtube.com/watch?v=P3-nklyrDx4][The History of Wikidata]]
+- [[https://www.youtube.com/watch?v=1jHoUkj_mKw][Wikidata Sparql Query Tutorial]]
+- [[https://www.youtube.com/watch?v=_HFRnsv7wFA][A Beginners Guide to Schema.org]]
+- [[https://www.youtube.com/watch?v=dCAjhjeJpgY][Introduction to Wikibase (part 1)]]
+- [[https://www.youtube.com/watch?v=T6L9EoBy8Zk][Neo4j in 100 Seconds]]
+- [[https://www.youtube.com/watch?v=NH6WoJHN4UA][Intro to Graph Databases Episode #3 - Property Graph Model]]
+- [[https://www.youtube.com/watch?v=d3AqXwPIiGc][Introducing the Open Research Knowledge Graph (ORKG)]]
+- [[https://www.youtube.com/watch?v=R26TirvZWa0][How to: Create visualizations in the Open Research Knowledge Graph (ORKG)]] 
+- [[https://www.youtube.com/watch?v=kxHTEZQSplA][Excursus: DBpedia Knowledge Graph]]
