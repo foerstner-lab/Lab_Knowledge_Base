@@ -1,15 +1,46 @@
 #+TITLE: Machine Learning
 
 ** Links 
+
+- https://stackoverflow.com/questions/39216897/plot-pca-loadings-and-loading-in-biplot-in-sklearn-like-rs-autoplot
+
+- https://datascience.stackexchange.com/questions/39932/feature-scaling-both-training-and-test-data
+
+- https://stats.stackexchange.com/questions/375165/scaling-separately-in-train-and-test-set
+
+- Activation functions: https://www.v7labs.com/blog/neural-networks-activation-functions, https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/
+
+- https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+- https://scikit-learn.org/stable/tutorial/statistical_inference/model_selection.html
+
+- https://scikit-learn.org/stable/model_selection.html
+
+- https://scikit-learn.org/stable/modules/feature_selection.html
+
+- https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#sklearn.pipeline.Pipeline
+
+- https://amueller.github.io/aml/05-advanced-topics/12-feature-selection.html
+
+- https://scikit-learn.org/stable/data_transforms.html
+
+- https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+- [[https://sebastianraschka.com/teaching/][sebastian raschka teaching]]
+- [[https://lightning.ai/courses/deep-learning-fundamentals/][deep-learning-fundamentals]]
+- [[https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023][AI and Open Source in 2023]]
 - [[https://www.openml.org/][OpenML]]
 - [[https://blog.floydhub.com/coding-the-history-of-deep-learning/][Coding the History of Deep Learning]]
 - [[https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/][Visual explanation of the backpropagation algorithm]]
+
 ** (Python) libraries
 - [[http://scikit-learn.org/][scikit-learn]] - Numorous ML methods with a cosistent interface
 - [[http://pytorch.org/][pytorch]] - Tensors and Neural Networks 
 - [[https://github.com/hmmlearn/hmmlearn][hmmlearn]]
 - [[https://keras.io/][keras]]
 - [[https://www.tensorflow.org/][tensorflow]]
+- [[https://medium.com/mlearning-ai/apply-machine-learning-algorithms-for-genomics-data-classification-132972933723][Apply Machine Learning Algorithms for Genomics Data Classification]]
+
 ** Articles/Reviews
 
 - Angermueller C, Pärnamaa T, Parts L, Stegle O. Deep learning for
@@ -53,6 +84,67 @@
   reduction.  PLoS Comput Biol. 2019 Jun 20;15(6):e1006907. 
   https://doi.org/10.1371/journal.pcbi.1006907
 
+- Deep learning for inferring transcription factor binding sites
+Peter K. Koo and Matt Ploenzke, doi: 10.1016/j.coisb.2020.04.001
+
+- A primer on deep learning in genomics, James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani & Amalio Telenti, Nature Genetics volume 51, pages 12–18 (2019)
+
+- Deep Learning for Genomics: A Concise Overview, Tianwei Yue, Yuanxin Wang, Longxiang Zhang, Chunming Gu, Haoru Xue, Wenping Wang, Qi Lyu, Yujie Dun, https://doi.org/10.48550/arXiv.1802.00810
+
+- Park, Y., Kellis, M. Deep learning for regulatory genomics. Nat Biotechnol 33, 825–826 (2015). https://doi.org/10.1038/nbt.3313
+
+- Routhier E, Mozziconacci J. 2022. Genomics enters the deep learning era. PeerJ 10:e13613 https://doi.org/10.7717/peerj.13613
+
+- GPTransformer: A Transformer-Based Deep Learning Method for Predicting Fusarium Related Traits in Barley,  https://doi.org/10.3389/fpls.2021.761402
+
+- Zhang, Y., An, L., Xu, J. et al. Enhancing Hi-C data resolution with deep convolutional neural network HiCPlus. Nat Commun 9, 750 (2018). https://doi.org/10.1038/s41467-018-03113-2  Dataset: https://github.com/wangjuan001/hicplus
+
+- Characterizing Promoter and Enhancer Sequences by a Deep Learning Method, Xin Zeng, Sung-Joon Park, Kenta Nakai, https://doi.org/10.3389/fgene.2021.681259
+
+- Euijin Seo, Yun-Nam Choi, Ye Rim Shin, Donghyuk Kim, Jeong Wook Lee, Design of synthetic promoters for cyanobacteria with generative deep-learning model, Nucleic Acids Research, Volume 51, Issue 13, 21 July 2023, Pages 7071–7082, https://doi.org/10.1093/nar/gkad451
+
+- Tasdelen A, Sen B. A hybrid CNN-LSTM model for pre-miRNA classification. Sci Rep. 2021 Jul 8;11(1):14125. doi: 10.1038/s41598-021-93656-0. PMID: 34239004; PMCID: PMC8266811.
+
+- Hjörleifur Einarsson Marco Salvatore Christian Vaagensø Nicolas Alcaraz Jette Bornholdt Sarah Rennie Robin Andersson (2022), Promoter sequence and architecture determine expression variability and confer robustness to genetic variants, eLife 11:e80943.
+
+- Theo Sanderson Maxwell L Bileschi David Belanger Lucy J Colwell , (2023) ProteInfer, deep neural networks for protein functional inference, eLife 12:e80942.
+
+- Muley VY. Deep Learning for Predicting Gene Regulatory Networks: A Step-by-Step Protocol in R. Methods in Molecular Biology (Clifton, N.J.). 2024 ;2719:265-294. DOI: 10.1007/978-1-0716-3461-5_15. PMID: 37803123. 
+
+- A knowledge-integrated deep learning framework for cellular image analysis in parasite microbiology, https://doi.org/10.1016/j.xpro.2023.102452
+
+- SAPPHIRE.CNN: Implementation of dRNA-seq-driven, species-specific promoter prediction using convolutional neural networks, https://doi.org/10.1016/j.csbj.2022.09.006
+
+- Zhu Y, Li F, Guo X, Wang X, Coin LJM, Webb GI, Song J, Jia C. TIMER is a Siamese neural network-based framework for identifying both general and species-specific bacterial promoters. Brief Bioinform. 2023 Jul 20;24(4):bbad209. doi: 10.1093/bib/bbad209. PMID: 37291763.
+
+- Promotech: a general tool for bacterial promoter recognition, Ruben Chevez-Guardado & Lourdes Peña-Castillo, Genome Biology volume 22, Article number: 318 (2021)
+
+- Hernández D, Jara N, Araya M, Durán RE, Buil-Aranda C. PromoterLCNN: A Light CNN-Based Promoter Prediction and Classification Model. Genes (Basel). 2022 Jun 23;13(7):1126. doi: 10.3390/genes13071126. PMID: 35885909; PMCID: PMC9325283.
+
+- DeeProPre: A promoter predictor based on deep learning, https://doi.org/10.1016/j.compbiolchem.2022.107770
+
+- Mato Lagator Srdjan Sarikas Magdalena Steinrueck David Toledo-Aparicio Jonathan P Bollback Calin C Guet Gašper Tkačik, (2022), Predicting bacterial promoter function and evolution from random sequences, eLife 11:e64543.
+
+- http://www.ijstr.org/final-print/nov2019/Promoter-Prediction-In-Dna-Sequences-Of-Escherichia-Coli-Using-Machine-Learning-Algorithms.pdf
+
+- Umarov RK, Solovyev VV (2017) Recognition of prokaryotic and eukaryotic promoters using convolutional deep learning neural networks. PLOS ONE 12(2): e0171410. https://doi.org/10.1371/journal.pone.0171410
+
+- Benchmarking Bacterial Promoter Prediction Tools: Potentialities and Limitations, Murilo Henrique Anzolini Cassiano, Rafael Silva-Rocha, https://doi.org/10.1128/msystems.00439-20
+
+- A Comparative Study of Machine Learning Methods for Detecting Promoters in Bacterial DNA Sequences, Leonardo G. Tavares, Heitor S. Lopes & Carlos R. Erig Lima, https://link.springer.com/chapter/10.1007/978-3-540-85984-0_115
+
+- Revealing gene regulation-based neural network computing in bacteria, https://www.cell.com/biophysreports/pdf/S2667-0747(23)00019-8.pdf
+
+- Prediction of Prokaryotic and Eukaryotic Promoters Using Convolutional Deep Learning Neural Networks, https://doi.org/10.48550/arXiv.1610.00121
+
+- Bhandari N, Khare S, Walambe R, Kotecha K. 2021. Comparison of machine learning and deep learning techniques in promoter prediction across diverse species. PeerJ Computer Science 7:e365 https://doi.org/10.7717/peerj-cs.365
+
+- Detecting Promoter Sequences using Deep Learning, https://scholarworks.calstate.edu/concern/theses/2j62s534w
+
+- DeepTFactor: A deep learning-based tool for the prediction of transcription factors, Gi Bae Kim Ye Gao, Bernhard O. Palsson and Sang Yup Lee, https://doi.org/10.1073/pnas.2021171118
+
+- DiMo: discovery of microRNA motifs using deep learning and motif embedding, https://doi.org/10.1093/bib/bbad182
+
 ** Books
 
 -  [[http://shop.oreilly.com/product/0636920030515.do][Introduction to Machine Learning with Python - A Guide for Data
@@ -61,6 +153,14 @@
 
 -  [[https://mitpress.mit.edu/books/machine-learning-0][Machine Learning - A Probabilistic Perspective]], Kevin P. Murphy,
    2012, ISBN: 9780262018029
+
+** Tutorials, Example analyses
+- [[https://github.com/maese005/GLBIO-2021][Jupyter-Notebooks with Tensorflow examples of molecular biology]]
+- [[https://github.com/const-ae/Neural_Network_DNA_Demo][Neural Network for Sequence Data]]
+- [[https://github.com/drewwiens/TensorFlow-DNNs-for-Predicting-DNA-Transcription-Factor-Binding][TensorFlow DNNs for Predicting DNA-Transcription Factor Binding]]
+- [[https://github.com/mahossam/DNA-Transcription-Factor-Binding-Prediction][DNA-Transcription-Factor-Binding-Prediction]]
+- [[][]]
+
 
    
 
