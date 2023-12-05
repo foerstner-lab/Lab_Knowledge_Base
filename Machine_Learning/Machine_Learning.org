@@ -35,6 +35,7 @@
 
 *** LLM Visualization
 - https://bbycroft.net/llm
+- https://alexlenail.me/NN-SVG/index.html
 
 ** (Python) libraries
 - [[http://scikit-learn.org/][scikit-learn]] - Numorous ML methods with a cosistent interface
