@@ -163,8 +163,30 @@ Peter K. Koo and Matt Ploenzke, doi: 10.1016/j.coisb.2020.04.001
 - [[https://github.com/const-ae/Neural_Network_DNA_Demo][Neural Network for Sequence Data]]
 - [[https://github.com/drewwiens/TensorFlow-DNNs-for-Predicting-DNA-Transcription-Factor-Binding][TensorFlow DNNs for Predicting DNA-Transcription Factor Binding]]
 - [[https://github.com/mahossam/DNA-Transcription-Factor-Binding-Prediction][DNA-Transcription-Factor-Binding-Prediction]]
-- [[][]]
 
 
-   
+** Video (TODO clean)
 
+- [[https://www.youtube.com/watch?v=PSs6nxngL6k][Attention for Neural Networks, Clearly Explained!!!]]
+- [[https://www.youtube.com/watch?v=iyn2zdALii8][Backpropagation Details Pt. 1: Optimizing 3 parameters simultaneously.]]
+- [[https://www.youtube.com/watch?v=GKZoOHXGcLo][Backpropagation Details Pt. 2: Going bonkers with The Chain Rule]]
+- [[https://www.youtube.com/watch?v=zxagGtF9MeU][Happy Halloween (Neural Networks Are Not Scary)]]
+- [[https://www.youtube.com/watch?v=YCzL96nL7j0][Long Short-Term Memory (LSTM), Clearly Explained]]
+- [[https://www.youtube.com/watch?v=RHGiXPuo_pI][Long Short-Term Memory with PyTorch + Lightning]]  
+- [[https://www.youtube.com/watch?v=WWk3YbVs7zs][Maschinelles Lernen -- Dichte neuronale Netze mit Keras Teil 1]]           
+- [[https://www.youtube.com/watch?v=-1unbql-yCc][Maschinelles Lernen -- Dichte neuronale Netze mit Keras Teil 2]]
+- [[https://www.youtube.com/watch?v=WmSru-bzMiQ][Maschinelles Lernen -- Einlagiges Perceptron]]
+- [[https://www.youtube.com/watch?v=IEIBWkGpEeY&t=1532s][Maschinelles Lernen -- Einstieg in CNNs (1D, Keras)]]   
+- [[https://www.youtube.com/watch?v=UZmGB8UVQ94][Maschinelles Lernen -- Einstieg in CNNs (2D, Keras)]]
+- [[https://www.youtube.com/watch?v=ynuxtaa9irc][Maschinelles Lernen -- Gradientenverfahren und Training eines MLP]]
+- [[https://www.youtube.com/watch?v=HlnzsF8ieOE][Maschinelles Lernen -- Multilayer Perceptron]]
+- [[https://www.youtube.com/watch?v=REQCoLDBVOQ][Maschinelles Lernen -- Statistische Begriffe und Grundlagen]]
+- [[https://www.youtube.com/watch?v=HGwBXDKFk9I][Neural Networks Part 8: Image Classification with Convolutional Neural Networks (CNNs)]]
+- [[https://www.youtube.com/watch?v=IN2XmBhILt4][Neural Networks Pt. 2: Backpropagation Main Ideas]]
+- [[https://www.youtube.com/watch?v=68BZ5f7P94E][Neural Networks Pt. 3: ReLU In Action!!!]]
+- [[https://www.youtube.com/watch?v=589nCGeWG1w][One-Hot, Label, Target and K-Fold Target Encoding, Clearly Explained!!!]]  
+- [[https://www.youtube.com/watch?v=AsNTP8Kwu80][Recurrent Neural Networks (RNNs), Clearly Explained!!!]]
+- [[https://www.youtube.com/watch?v=Xm2C_gTAl8c][Ridge vs Lasso Regression, Visualized!!!]]
+- [[https://www.youtube.com/watch?v=L35fFDpwIM4][Tensors for Neural Networks, Clearly Explained!!!]]
+- [[https://www.youtube.com/watch?v=GrJP9FLV3FE][XGBoost in Python from Start to Finish]]
+        
