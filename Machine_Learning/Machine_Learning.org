@@ -151,12 +151,12 @@ Peter K. Koo and Matt Ploenzke, doi: 10.1016/j.coisb.2020.04.001
 
 ** Books
 
--  [[http://shop.oreilly.com/product/0636920030515.do][Introduction to Machine Learning with Python - A Guide for Data
-   Scientists]], Andreas C. Müller, Sarah Guido, O'Reilly Media, 2016,
-   ISBN-13: 978-1449369415
+- [[http://shop.oreilly.com/product/0636920030515.do][Introduction to Machine Learning with Python - A Guide for Data
+  Scientists]], Andreas C. Müller, Sarah Guido, O'Reilly Media, 2016,
+  ISBN-13: 978-1449369415
 
--  [[https://mitpress.mit.edu/books/machine-learning-0][Machine Learning - A Probabilistic Perspective]], Kevin P. Murphy,
-   2012, ISBN: 9780262018029
+- [[https://mitpress.mit.edu/books/machine-learning-0][Machine Learning - A Probabilistic Perspective]], Kevin P. Murphy,
+  2012, ISBN: 9780262018029
 
 - [[https://www.oreilly.com/library/view/deep-learning-for/9781492039822/][Deep Learning for the Life Sciences]], Bharath Ramsundar, Peter
   Eastman, Pat Walters, Vijay Pande 2019, O'Reilly Media, Inc., ISBN:
