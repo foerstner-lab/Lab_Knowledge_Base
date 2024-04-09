@@ -158,12 +158,18 @@ Peter K. Koo and Matt Ploenzke, doi: 10.1016/j.coisb.2020.04.001
 -  [[https://mitpress.mit.edu/books/machine-learning-0][Machine Learning - A Probabilistic Perspective]], Kevin P. Murphy,
    2012, ISBN: 9780262018029
 
+- [[https://www.oreilly.com/library/view/deep-learning-for/9781492039822/][Deep Learning for the Life Sciences]], Bharath Ramsundar, Peter
+  Eastman, Pat Walters, Vijay Pande 2019, O'Reilly Media, Inc., ISBN:
+  9781492039839
+
+- [[https://doi.org/10.1016/C2020-0-00432-9][Deep Learning in Bioinformatics - Techniques and Applications in
+  Practice]], Habib Izadkhah, 2022, ISBN 978-0-12-823822-6
+
 ** Tutorials, Example analyses
 - [[https://github.com/maese005/GLBIO-2021][Jupyter-Notebooks with Tensorflow examples of molecular biology]]
 - [[https://github.com/const-ae/Neural_Network_DNA_Demo][Neural Network for Sequence Data]]
 - [[https://github.com/drewwiens/TensorFlow-DNNs-for-Predicting-DNA-Transcription-Factor-Binding][TensorFlow DNNs for Predicting DNA-Transcription Factor Binding]]
 - [[https://github.com/mahossam/DNA-Transcription-Factor-Binding-Prediction][DNA-Transcription-Factor-Binding-Prediction]]
-
 
 ** Video (TODO clean)
 
@@ -189,4 +195,3 @@ Peter K. Koo and Matt Ploenzke, doi: 10.1016/j.coisb.2020.04.001
 - [[https://www.youtube.com/watch?v=Xm2C_gTAl8c][Ridge vs Lasso Regression, Visualized!!!]]
 - [[https://www.youtube.com/watch?v=L35fFDpwIM4][Tensors for Neural Networks, Clearly Explained!!!]]
 - [[https://www.youtube.com/watch?v=GrJP9FLV3FE][XGBoost in Python from Start to Finish]]
-        
